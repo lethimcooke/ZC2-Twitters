@@ -45,7 +45,8 @@ If you're unsure which bucket it's in, leave it out.
 - Always record the original creator's handle and link. Keep the creator's original watermark on the video.
 
 ## Caption style
-- Hook first, under ~100 characters. Short, punchy and conversational. Up to 1 emoji.
+- Hook first, under ~100 characters. Short, punchy and conversational.
+- Emojis on most captions (1–2, at the end of the hook line). Match the clip: 😭😂 funny, 🤯😳 unreal, 🔥 big play, 🥹 wholesome, 💀 fail.
 - No hashtags (or 1 at most), and no links in the post.
 - Credit on its own line: `🎥: @creator`
 - Only state facts you checked from the clip or post (names, "rookie", he/she, the score). If unsure, leave it out.
