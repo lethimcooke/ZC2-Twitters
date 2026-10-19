@@ -29,7 +29,8 @@ Reject it, whatever its numbers, if it's:
 - politics, politicians, elections or political memes
 - war, military, police, crime, protests or breaking news
 - graphic injuries, blood, fights outside a sport, or mocking someone who's hurt
-- celebrity gossip with no sports or skill angle, ads, giveaways, or AI-generated clips.
+- celebrity gossip with no sports or skill angle, ads, giveaways, AI-generated clips, or staged clips passed off as real
+  (obvious comedy skits are fine).
 
 Before suggesting a clip, look at the video itself (open the post and check the thumbnail/first frames), not just the post text.
 If you're unsure which bucket it's in, leave it out.
