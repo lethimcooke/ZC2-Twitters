@@ -48,8 +48,13 @@ If you're unsure which bucket it's in, leave it out.
 - Hook first, under ~100 characters. Short, punchy and conversational. Up to 1 emoji.
 - No hashtags (or 1 at most), and no links in the post.
 - Credit on its own line: `🎥: @creator`
+- Only state facts you checked from the clip or post (names, "rookie", he/she, the score). If unsure, leave it out.
+- Say "touchdown"/"TD", not "for six", for football.
 - Every few posts, end with a question that gets people replying ("Rate this 1–10", "Who you got?", "Would you have caught that?").
 
 ## Posting times (ET, adjust from results)
 8:00, 10:00, 12:00, 1:30, 3:00, 5:00, 7:00, 8:30, 10:00, 11:30 PM.
-Put the strongest clips at 12:00, 7:00 and 10:00 PM.
+Put the strongest clips (highest outlier ratio, not raw views) at 12:00, 7:00 and 10:00 PM.
+Clips about last night's games lose value fast: post them in the morning slots.
+Put NFL clips during or right after a prime-time NFL game (Thursday, Sunday or Monday night) when one is on.
+Creator-unknown clips go in reserves unless the slate is short.

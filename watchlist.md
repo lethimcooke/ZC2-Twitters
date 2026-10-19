@@ -14,8 +14,8 @@ Exclusion list (add new words when off-niche clips keep showing up):
 ### Sports
 ```
 (NBA OR NFL OR MLB OR NHL OR UFC OR soccer OR football OR basketball OR baseball) filter:native_video min_faves:3000 within_time:24h lang:en <exclusions>
-(dunk OR crossover OR "posterized" OR "ankle breaker") filter:native_video min_faves:1000 within_time:48h <exclusions>
-(catch OR "one handed" OR "diving catch" OR "robbed") filter:native_video min_faves:1000 within_time:48h <exclusions>
+(dunk OR crossover OR "posterized" OR "ankle breaker") (basketball OR hoop OR NBA OR court) filter:native_video min_faves:1000 within_time:48h <exclusions>
+(catch OR "one handed" OR "diving catch" OR "home run robbery" OR "robbed a homer") filter:native_video min_faves:1000 within_time:48h <exclusions>
 (buzzer OR walkoff OR "game winner" OR "hole in one" OR "half court") filter:native_video min_faves:1000 within_time:48h <exclusions>
 (knockout OR KO OR submission OR "walk off KO") filter:native_video min_faves:2000 within_time:24h <exclusions>
 ("high school" OR "youth" OR "little league") (play OR highlight OR catch OR dunk) filter:native_video min_faves:1000 within_time:72h <exclusions>
