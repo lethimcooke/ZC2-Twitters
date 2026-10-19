@@ -9,6 +9,9 @@ We don't need to be first with news. We need clips that make people stop scrolli
   Never like, follow, post, reply or DM from it. Scroll at a human pace; don't open hundreds of pages in a row.
 - **vidIQ**: TikTok and Instagram clips getting far more views than usual for their creator
   (`vidiq_instagram_tiktok_outlier_search`, `vidiq_trending_videos`). Use these as a second source.
+  To check a TikTok or Instagram clip, open its public page in Playwright without logging in. Close any login or app pop-up.
+  Never log into TikTok or Instagram. If a page won't show without a login, judge the clip from vidIQ's data and thumbnail
+  (and say so in the shortlist), or skip it.
 - **MCP Market Hub social-content**: hook formulas, caption templates and engagement routines.
 
 ## Files
