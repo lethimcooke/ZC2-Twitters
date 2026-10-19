@@ -17,6 +17,8 @@ Start from tomorrow unless I say "starting today".
      I fill those the morning of with `/daily fresh`, so each day still has something from the night before.
    - Follow the mix and per-sport limits for each day separately. Spread the strongest clips across days
      instead of front-loading them, so every day has strong 12:00, 7:00 and 10:00 PM posts.
+   - Evergreen clips age too: put the biggest outliers and the oldest clips on the earliest days.
+   - If a day would need a weak clip, a creator-unknown clip or a borderline one to fill a slot, leave that slot FRESH instead.
 5. Write one file per day, `slates/<date>.md`, with the schedule table (time, #, clip, link, credit, timely/evergreen)
    and the caption for each slot. Put the spares under "Reserves" in the last day's file.
 6. Show me a summary: one line per day with its 3 primetime clips, plus anything you're unsure about.

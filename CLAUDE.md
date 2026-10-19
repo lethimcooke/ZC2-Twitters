@@ -9,6 +9,9 @@ We don't need to be first with news. We need clips that make people stop scrolli
   Never like, follow, post, reply or DM from it. Scroll at a human pace; don't open hundreds of pages in a row.
 - **vidIQ**: TikTok and Instagram clips getting far more views than usual for their creator
   (`vidiq_instagram_tiktok_outlier_search`, `vidiq_trending_videos`). Use these as a second source.
+  To check a TikTok or Instagram clip, open its public page in Playwright without logging in. Close any login or app pop-up.
+  Never log into TikTok or Instagram. If a page won't show without a login, judge the clip from vidIQ's data and thumbnail
+  (and say so in the shortlist), or skip it.
 - **MCP Market Hub social-content**: hook formulas, caption templates and engagement routines.
 
 ## Files
@@ -26,7 +29,8 @@ Reject it, whatever its numbers, if it's:
 - politics, politicians, elections or political memes
 - war, military, police, crime, protests or breaking news
 - graphic injuries, blood, fights outside a sport, or mocking someone who's hurt
-- celebrity gossip with no sports or skill angle, ads, giveaways, or AI-generated clips.
+- celebrity gossip with no sports or skill angle, ads, giveaways, AI-generated clips, or staged clips passed off as real
+  (obvious comedy skits are fine).
 
 Before suggesting a clip, look at the video itself (open the post and check the thumbnail/first frames), not just the post text.
 If you're unsure which bucket it's in, leave it out.
