@@ -10,7 +10,8 @@ Run the steps below for each day, using `clips/<that day's date>/`. Skip FRESH s
 2. Check `yt-dlp --version` works. If it doesn't, stop and tell me to run `winget install yt-dlp` and `winget install Gyan.FFmpeg`.
 3. For each scheduled clip, download it with yt-dlp into `clips/<date>/` named `<time>-<#>-<short-name>.mp4`
    (e.g. `1200-6-tapeball-catch.mp4`), as an mp4 X accepts (H.264 video, AAC audio):
-   `yt-dlp -f "bv*[vcodec^=avc]+ba[acodec^=mp4a]/b[ext=mp4]/b" --merge-output-format mp4 -o "<path>" "<link>"`
+   `yt-dlp -f "bv*[vcodec^=avc]+ba[acodec^=mp4a]/b[ext=mp4]/b" --merge-output-format mp4 -P "temp:clips/.tmp" -o "<path>" "<link>"`
+   (`-P temp:` keeps yt-dlp's temporary files on this drive instead of C:, which is nearly full. Delete `clips/.tmp` when done.)
    For TikTok, pick the format that keeps the creator's watermark where yt-dlp lists one (run `-F` to see formats).
    Never use a watermark-removal tool or service.
 4. If a download fails, say which one and why, and move on to the next. Don't retry more than once.
