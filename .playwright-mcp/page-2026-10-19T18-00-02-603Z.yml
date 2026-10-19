@@ -1,0 +1,48 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=e3]:
+        - generic [ref=e4]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=e5] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic [ref=e6]:
+        - banner [ref=e7]:
+          - generic [ref=e9]:
+            - generic [ref=e10]:
+              - heading [level=1] [ref=e12] [cursor=pointer]:
+                - link "X" [ref=e13]:
+                  - /url: /home
+              - navigation "Primary" [ref=e19]:
+                - link "Home" [ref=e20] [cursor=pointer]:
+                  - /url: /home
+                - link "Search and explore" [ref=e26] [cursor=pointer]:
+                  - /url: /explore
+                - link "Notifications" [ref=e32] [cursor=pointer]:
+                  - /url: /notifications
+                - link "Follow" [ref=e38] [cursor=pointer]:
+                  - /url: /i/connect_people
+                - link "Direct Messages" [ref=e44] [cursor=pointer]:
+                  - /url: /i/chat
+                - link "Calls" [ref=e50] [cursor=pointer]:
+                  - /url: /i/calls
+                - link "Grok" [ref=e56] [cursor=pointer]:
+                  - /url: /i/grok
+                  - generic "undefined unread items" [ref=e62]
+                - link "History" [ref=e63] [cursor=pointer]:
+                  - /url: /i/history
+                - link "Premium" [ref=e69] [cursor=pointer]:
+                  - /url: /i/premium_sign_up
+                - link "Profile" [ref=e75] [cursor=pointer]:
+                  - /url: /BigBlueMadden
+                - button "More menu items" [ref=e81] [cursor=pointer]
+              - link "Post" [ref=e88] [cursor=pointer]:
+                - /url: /compose/post
+            - button "Account menu" [ref=e96] [cursor=pointer]:
+              - generic [ref=e104]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "BigBlueMadden":
+                        - img "BigBlueMadden"
+        - main [ref=e107]:
+          - progressbar "Loading" [ref=e110]

@@ -1,0 +1,189 @@
+- generic [ref=f484e1]:
+  - generic:
+    - region "Notifications alt+T"
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link "Go to TikTok For You feed":
+                - /url: /
+                - strong: TikTok
+            - generic:
+              - searchbox "Search"
+          - generic:
+            - generic:
+              - generic:
+                - link "For You":
+                  - /url: /
+                  - listitem "For You"
+              - generic:
+                - link "Shop":
+                  - /url: https://shop.tiktok.com/us
+                  - listitem "Shop"
+              - generic:
+                - link "Explore":
+                  - /url: /explore
+                  - listitem "Explore"
+              - generic:
+                - link "Following":
+                  - /url: /following
+                  - listitem "Following"
+              - generic:
+                - link "Short dramas":
+                  - /url: /shortdrama
+                  - listitem "Short dramas"
+              - generic:
+                - generic:
+                  - link "LIVE":
+                    - /url: /live
+                    - listitem "LIVE"
+              - generic:
+                - generic:
+                  - link "Upload":
+                    - /url: /tiktokstudio/upload?from=webapp&tab=video
+                    - listitem "Upload"
+              - generic:
+                - link "Profile":
+                  - /url: /@
+                  - listitem "Profile"
+              - generic:
+                - listitem "More"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - button "Log in"
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - article:
+                  - generic:
+                    - region "Watch in full screen":
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - 'img "Executed perfectly 🔥 #baseball #celeveland #mlb"'
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "Volume" [pressed]
+                            - generic:
+                              - generic:
+                                - button
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "ESPN":
+                                    - /url: /@espn
+                                    - generic:
+                                      - paragraph: ESPN
+                                  - generic: · 3d ago
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic: Executed perfectly 🔥
+                                        - link "Watch more videos of the baseball category":
+                                          - /url: /tag/baseball
+                                          - paragraph: "#baseball"
+                                        - link "Watch more videos of the celeveland category":
+                                          - /url: /tag/celeveland
+                                          - paragraph: "#celeveland"
+                                        - link "Watch more videos of the mlb category":
+                                          - /url: /tag/mlb
+                                          - paragraph: "#mlb"
+                                    - button "more"
+                        - generic:
+                          - paragraph: 00:00 / 00:05
+                          - generic:
+                            - generic:
+                              - slider "Video progress"
+                    - generic:
+                      - generic:
+                        - link "espn":
+                          - /url: /@espn
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img "espn"
+                        - button
+                      - generic:
+                        - button "Like video 168.9K likes":
+                          - generic:
+                            - generic:
+                              - button
+                          - strong: 168.9K
+                      - button "Read or add comments 972 comments":
+                        - generic:
+                          - generic:
+                            - button
+                        - strong: "972"
+                      - generic:
+                        - generic:
+                          - button "Add to Favorites. 2788 added to Favorites":
+                            - generic:
+                              - generic:
+                                - button
+                            - strong: "2788"
+                      - generic:
+                        - button "Share video 3145 shares":
+                          - generic:
+                            - generic:
+                              - button
+                          - strong: "3145"
+                      - link "Watch more videos with music original sound - ESPN":
+                        - /url: /music/original-sound-7696986544595028767
+              - complementary
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - button "Comments"
+                        - generic:
+                          - generic:
+                            - button "You may like"
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - button "Log in"
+  - dialog [ref=f484e6]:
+    - generic [ref=f484e7]:
+      - generic [ref=f484e8]:
+        - heading "Captions" [level=2] [ref=f484e9]
+        - button "Close_button" [active] [ref=f484e10] [cursor=pointer]
+      - generic [ref=f484e13]:
+        - generic [ref=f484e15]:
+          - generic [ref=f484e16]: Captions (auto-generated)
+          - switch [ref=f484e21] [cursor=pointer]
+        - generic [ref=f484e22]:
+          - generic [ref=f484e23]:
+            - generic [ref=f484e24]: Always translate posts
+            - switch [ref=f484e29] [cursor=pointer]
+          - generic [ref=f484e30]: Descriptions and captions will be translated, except for languages you've excluded.
+        - button "Do not translate Select language" [ref=f484e32] [cursor=pointer]:
+          - generic [ref=f484e33]: Do not translate
+          - generic [ref=f484e34]: Select language
+        - button "Translate into English" [ref=f484e39] [cursor=pointer]:
+          - generic [ref=f484e40]: Translate into
+          - generic [ref=f484e41]: English

@@ -1,0 +1,467 @@
+- generic [ref=f666e11]:
+  - generic [ref=f666e13]:
+    - link [ref=f666e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=f666e19]
+    - generic [ref=f666e30]:
+      - link "Log In" [ref=f666e32] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Freel%2FDekXr6WCems%2F&source=desktop_nav
+      - link "Sign Up" [ref=f666e34] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=f666e35]:
+    - dialog [ref=f666e40]:
+      - generic [ref=f666e41]:
+        - button [ref=f666e43] [cursor=pointer]:
+          - img "Close" [ref=f666e45]
+        - generic [ref=f666e49]:
+          - generic [ref=f666e50]:
+            - link [ref=f666e52] [cursor=pointer]:
+              - img "livefootballtransfersnews's profile picture" [ref=f666e53]
+            - generic [ref=f666e55]:
+              - generic [ref=f666e56]: Never miss a post from livefootballtransfersnews
+              - generic [ref=f666e57]: Sign up for Instagram to stay in the loop.
+          - generic [ref=f666e59]:
+            - link "Sign up" [ref=f666e62] [cursor=pointer]:
+              - /url: /accounts/emailsignup/
+            - link "Log in" [ref=f666e65] [cursor=pointer]:
+              - /url: /accounts/login/?source=desktop_dynamic_landing_dialog
+    - generic [ref=f666e66]:
+      - generic [ref=f666e68]:
+        - img "Video by Football Transfers on October 16, 2026. May be an image of baseball, crowd and text." [ref=f666e76]
+        - generic [ref=f666e79]:
+          - generic [ref=f666e81]:
+            - link [ref=f666e83] [cursor=pointer]:
+              - img "livefootballtransfersnews's profile picture" [ref=f666e84]
+            - generic [ref=f666e86]:
+              - generic [ref=f666e87]:
+                - generic [ref=f666e88]:
+                  - link "livefootballtransfersnews" [ref=f666e90] [cursor=pointer]:
+                    - /url: /livefootballtransfersnews/
+                  - img "Verified" [ref=f666e95]
+                - generic [ref=f666e97]:
+                  - generic [ref=f666e98]: •
+                  - button "Follow" [ref=f666e100] [cursor=pointer]
+              - link "Original audio" [ref=f666e105] [cursor=pointer]:
+                - /url: /reels/audio/29029003143391540/
+            - button [ref=f666e111] [cursor=pointer]:
+              - img "More options" [ref=f666e114]
+          - separator [ref=f666e118]
+          - generic [ref=f666e120]:
+            - generic [ref=f666e122]:
+              - link [ref=f666e124] [cursor=pointer]:
+                - /url: /livefootballtransfersnews/
+                - img "livefootballtransfersnews's profile picture" [ref=f666e125]
+              - generic [ref=f666e129]:
+                - generic [ref=f666e130]:
+                  - link "livefootballtransfersnews Verified" [ref=f666e131] [cursor=pointer]:
+                    - /url: /livefootballtransfersnews/
+                    - generic [ref=f666e133]:
+                      - generic [ref=f666e134]: livefootballtransfersnews
+                      - img "Verified" [ref=f666e136]
+                  - time [ref=f666e139]: 2d
+                - generic [ref=f666e140]:
+                  - text: Brighton fans popping into a pub full of Crystal Palace supporters… because apparently the rivalry needed a live audience too 😅🍻Nothing says “I’m just here for a quiet drink” like walking into the wrong pub on derby day. 🫣Would you have gone in—or suddenly remembered you had somewhere else to be? 👀
+                  - link "#Brighton" [ref=f666e141] [cursor=pointer]:
+                    - /url: /explore/tags/brighton/
+                  - link "#CrystalPalace" [ref=f666e142] [cursor=pointer]:
+                    - /url: /explore/tags/crystalpalace/
+                  - link "#FootballRivalry" [ref=f666e143] [cursor=pointer]:
+                    - /url: /explore/tags/footballrivalry/
+                  - link "#FootballFans" [ref=f666e144] [cursor=pointer]:
+                    - /url: /explore/tags/footballfans/
+                  - link "#premierleague" [ref=f666e145] [cursor=pointer]:
+                    - /url: /explore/tags/premierleague/
+            - button [ref=f666e147] [cursor=pointer]:
+              - img "Load more comments" [ref=f666e149]
+            - generic [ref=f666e151]:
+              - generic [ref=f666e154]:
+                - link [ref=f666e156] [cursor=pointer]:
+                  - /url: /greg.h.singh/
+                  - img "greg.h.singh's profile picture" [ref=f666e157]
+                - generic [ref=f666e159]:
+                  - generic [ref=f666e161]:
+                    - generic [ref=f666e162]:
+                      - link "greg.h.singh" [ref=f666e164] [cursor=pointer]:
+                        - /url: /greg.h.singh/
+                      - link [ref=f666e169] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/17990547450062444/
+                        - time [ref=f666e170]: 52m
+                    - generic [ref=f666e171]: Proper London rivalry
+                  - generic [ref=f666e173]:
+                    - button "Like" [ref=f666e174] [cursor=pointer]
+                    - button "Reply" [ref=f666e176] [cursor=pointer]
+              - generic [ref=f666e181]:
+                - link [ref=f666e183] [cursor=pointer]:
+                  - /url: /emann_320/
+                  - img "emann_320's profile picture" [ref=f666e184]
+                - generic [ref=f666e186]:
+                  - generic [ref=f666e188]:
+                    - generic [ref=f666e189]:
+                      - link "emann_320" [ref=f666e191] [cursor=pointer]:
+                        - /url: /emann_320/
+                      - link [ref=f666e196] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/17892780258444583/
+                        - time [ref=f666e197]: 57m
+                    - generic [ref=f666e198]: 😂😂
+                  - generic [ref=f666e200]:
+                    - button "Like" [ref=f666e201] [cursor=pointer]
+                    - button "Reply" [ref=f666e203] [cursor=pointer]
+              - generic [ref=f666e208]:
+                - link [ref=f666e210] [cursor=pointer]:
+                  - /url: /jaynechapple2009/
+                  - img "jaynechapple2009's profile picture" [ref=f666e211]
+                - generic [ref=f666e213]:
+                  - generic [ref=f666e215]:
+                    - generic [ref=f666e216]:
+                      - link "jaynechapple2009" [ref=f666e218] [cursor=pointer]:
+                        - /url: /jaynechapple2009/
+                      - link [ref=f666e223] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/18105703904528766/
+                        - time [ref=f666e224]: 2h
+                    - generic [ref=f666e225]: 😂😂😂😂
+                  - generic [ref=f666e227]:
+                    - button "1 like" [ref=f666e228] [cursor=pointer]
+                    - button "Reply" [ref=f666e231] [cursor=pointer]
+              - generic [ref=f666e236]:
+                - link [ref=f666e238] [cursor=pointer]:
+                  - /url: /manutdalbany/
+                  - img "manutdalbany's profile picture" [ref=f666e239]
+                - generic [ref=f666e241]:
+                  - generic [ref=f666e243]:
+                    - generic [ref=f666e244]:
+                      - link "manutdalbany" [ref=f666e246] [cursor=pointer]:
+                        - /url: /manutdalbany/
+                      - link [ref=f666e251] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/18011008589774424/
+                        - time [ref=f666e252]: 2h
+                    - generic [ref=f666e253]: People upset that the Palace supporters didn’t devolve into complete animals 😂
+                  - generic [ref=f666e255]:
+                    - button "Like" [ref=f666e256] [cursor=pointer]
+                    - button "Reply" [ref=f666e258] [cursor=pointer]
+              - generic [ref=f666e263]:
+                - link [ref=f666e265] [cursor=pointer]:
+                  - /url: /marcuslane9536/
+                  - img "marcuslane9536's profile picture" [ref=f666e266]
+                - generic [ref=f666e268]:
+                  - generic [ref=f666e270]:
+                    - generic [ref=f666e271]:
+                      - link "marcuslane9536" [ref=f666e273] [cursor=pointer]:
+                        - /url: /marcuslane9536/
+                      - link [ref=f666e278] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/17897566674411166/
+                        - time [ref=f666e279]: 2h
+                    - generic [ref=f666e280]: Brilliant
+                  - generic [ref=f666e282]:
+                    - button "Like" [ref=f666e283] [cursor=pointer]
+                    - button "Reply" [ref=f666e285] [cursor=pointer]
+              - generic [ref=f666e290]:
+                - link [ref=f666e292] [cursor=pointer]:
+                  - /url: /h4z8819/
+                  - img "h4z8819's profile picture" [ref=f666e293]
+                - generic [ref=f666e295]:
+                  - generic [ref=f666e297]:
+                    - generic [ref=f666e298]:
+                      - link "h4z8819" [ref=f666e300] [cursor=pointer]:
+                        - /url: /h4z8819/
+                      - link [ref=f666e305] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/18118239206287901/
+                        - time [ref=f666e306]: 2h
+                    - generic [ref=f666e307]: Palace got absolutely SLAPPED😂
+                  - generic [ref=f666e309]:
+                    - button "Like" [ref=f666e310] [cursor=pointer]
+                    - button "Reply" [ref=f666e312] [cursor=pointer]
+              - generic [ref=f666e317]:
+                - link [ref=f666e319] [cursor=pointer]:
+                  - /url: /wcostiganjr/
+                  - img "wcostiganjr's profile picture" [ref=f666e320]
+                - generic [ref=f666e322]:
+                  - generic [ref=f666e324]:
+                    - generic [ref=f666e325]:
+                      - link "wcostiganjr" [ref=f666e327] [cursor=pointer]:
+                        - /url: /wcostiganjr/
+                      - link [ref=f666e332] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/18117524794799235/
+                        - time [ref=f666e333]: 2h
+                    - generic [ref=f666e334]: Classy
+                  - generic [ref=f666e336]:
+                    - button "Like" [ref=f666e337] [cursor=pointer]
+                    - button "Reply" [ref=f666e339] [cursor=pointer]
+              - generic [ref=f666e344]:
+                - link [ref=f666e346] [cursor=pointer]:
+                  - /url: /mikebenson923/
+                  - img "mikebenson923's profile picture" [ref=f666e347]
+                - generic [ref=f666e349]:
+                  - generic [ref=f666e351]:
+                    - generic [ref=f666e352]:
+                      - link "mikebenson923" [ref=f666e354] [cursor=pointer]:
+                        - /url: /mikebenson923/
+                      - link [ref=f666e359] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/18147178066576133/
+                        - time [ref=f666e360]: 2h
+                    - generic [ref=f666e361]: 😂😂😂👏👏
+                  - generic [ref=f666e363]:
+                    - button "Like" [ref=f666e364] [cursor=pointer]
+                    - button "Reply" [ref=f666e366] [cursor=pointer]
+              - generic [ref=f666e371]:
+                - link [ref=f666e373] [cursor=pointer]:
+                  - /url: /kayjay___hk/
+                  - img "kayjay___hk's profile picture" [ref=f666e374]
+                - generic [ref=f666e376]:
+                  - generic [ref=f666e378]:
+                    - generic [ref=f666e379]:
+                      - link "kayjay___hk" [ref=f666e381] [cursor=pointer]:
+                        - /url: /kayjay___hk/
+                      - link [ref=f666e386] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/18113199686113059/
+                        - time [ref=f666e387]: 3h
+                    - generic [ref=f666e388]: 😂
+                  - generic [ref=f666e390]:
+                    - button "Like" [ref=f666e391] [cursor=pointer]
+                    - button "Reply" [ref=f666e393] [cursor=pointer]
+              - generic [ref=f666e398]:
+                - link [ref=f666e400] [cursor=pointer]:
+                  - /url: /paulukethree/
+                  - img "paulukethree's profile picture" [ref=f666e401]
+                - generic [ref=f666e403]:
+                  - generic [ref=f666e405]:
+                    - generic [ref=f666e406]:
+                      - link "paulukethree" [ref=f666e408] [cursor=pointer]:
+                        - /url: /paulukethree/
+                      - link [ref=f666e413] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/18135240016728458/
+                        - time [ref=f666e414]: 3h
+                    - generic [ref=f666e415]: That’s how sport should be back roots send the bigots home 👏
+                  - generic [ref=f666e417]:
+                    - button "Like" [ref=f666e418] [cursor=pointer]
+                    - button "Reply" [ref=f666e420] [cursor=pointer]
+              - generic [ref=f666e425]:
+                - link [ref=f666e427] [cursor=pointer]:
+                  - /url: /shoedude/
+                  - img "shoedude's profile picture" [ref=f666e428]
+                - generic [ref=f666e430]:
+                  - generic [ref=f666e432]:
+                    - generic [ref=f666e433]:
+                      - link "shoedude" [ref=f666e435] [cursor=pointer]:
+                        - /url: /shoedude/
+                      - link [ref=f666e440] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/17907315738588574/
+                        - time [ref=f666e441]: 3h
+                    - generic [ref=f666e442]: 😂😂
+                  - generic [ref=f666e444]:
+                    - button "Like" [ref=f666e445] [cursor=pointer]
+                    - button "Reply" [ref=f666e447] [cursor=pointer]
+              - generic [ref=f666e452]:
+                - link [ref=f666e454] [cursor=pointer]:
+                  - /url: /solosinajo_/
+                  - img "solosinajo_'s profile picture" [ref=f666e455]
+                - generic [ref=f666e457]:
+                  - generic [ref=f666e459]:
+                    - generic [ref=f666e460]:
+                      - link "solosinajo_" [ref=f666e462] [cursor=pointer]:
+                        - /url: /solosinajo_/
+                      - link [ref=f666e467] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/18357100423222628/
+                        - time [ref=f666e468]: 3h
+                    - generic [ref=f666e469]: 🤣🤣🤣🤣🤣🤣🤣
+                  - generic [ref=f666e471]:
+                    - button "1 like" [ref=f666e472] [cursor=pointer]
+                    - button "Reply" [ref=f666e475] [cursor=pointer]
+              - generic [ref=f666e480]:
+                - link [ref=f666e482] [cursor=pointer]:
+                  - /url: /_oh_my_lordy/
+                  - img "_oh_my_lordy's profile picture" [ref=f666e483]
+                - generic [ref=f666e485]:
+                  - generic [ref=f666e487]:
+                    - generic [ref=f666e488]:
+                      - link "_oh_my_lordy" [ref=f666e490] [cursor=pointer]:
+                        - /url: /_oh_my_lordy/
+                      - link [ref=f666e495] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/18102144731052664/
+                        - time [ref=f666e496]: 3h
+                    - generic [ref=f666e497]: Why does he have a palace top on underneath? Now we're staging this type of shit 🙄
+                  - generic [ref=f666e499]:
+                    - button "1 like" [ref=f666e500] [cursor=pointer]
+                    - button "Reply" [ref=f666e503] [cursor=pointer]
+              - generic [ref=f666e508]:
+                - link [ref=f666e510] [cursor=pointer]:
+                  - /url: /smallzzzy/
+                  - img "smallzzzy's profile picture" [ref=f666e511]
+                - generic [ref=f666e513]:
+                  - generic [ref=f666e515]:
+                    - generic [ref=f666e516]:
+                      - link "smallzzzy" [ref=f666e518] [cursor=pointer]:
+                        - /url: /smallzzzy/
+                      - link [ref=f666e523] [cursor=pointer]:
+                        - /url: /p/DekXr6WCems/c/18020129591731491/
+                        - time [ref=f666e524]: 3h
+                    - generic [ref=f666e525]: 😂😂😂😂
+                  - generic [ref=f666e527]:
+                    - button "Like" [ref=f666e528] [cursor=pointer]
+                    - button "Reply" [ref=f666e530] [cursor=pointer]
+              - progressbar [ref=f666e535]:
+                - img "Loading..." [ref=f666e536]
+          - generic [ref=f666e549]:
+            - generic [ref=f666e550]:
+              - generic [ref=f666e551]:
+                - button [ref=f666e554] [cursor=pointer]:
+                  - img "Like" [ref=f666e557]
+                - button "51.9K" [ref=f666e559] [cursor=pointer]
+                - button [ref=f666e561] [cursor=pointer]:
+                  - img "Comment" [ref=f666e563]
+                - button "496" [ref=f666e565] [cursor=pointer]
+                - button [ref=f666e566] [cursor=pointer]:
+                  - img "Share" [ref=f666e567]
+              - button [ref=f666e571] [cursor=pointer]:
+                - img "Save" [ref=f666e573]
+            - link [ref=f666e577] [cursor=pointer]:
+              - /url: /livefootballtransfersnews/reel/DekXr6WCems/
+              - time [ref=f666e579]: 2 days ago
+          - generic [ref=f666e584]:
+            - link "Log in" [ref=f666e585] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Freel%2FDekXr6WCems%2F&source=post_comment_input
+            - text: to like or comment.
+      - separator [ref=f666e587]
+      - generic [ref=f666e588]:
+        - generic [ref=f666e590]:
+          - text: More posts from
+          - link "livefootballtransfersnews" [ref=f666e591] [cursor=pointer]:
+            - /url: /livefootballtransfersnews/
+        - generic [ref=f666e594]:
+          - generic [ref=f666e595]:
+            - link [ref=f666e597] [cursor=pointer]:
+              - /url: /livefootballtransfersnews/p/Der3X-mif4Q/
+            - link [ref=f666e602] [cursor=pointer]:
+              - /url: /livefootballtransfersnews/p/DertfVTCh6_/
+            - link [ref=f666e607] [cursor=pointer]:
+              - /url: /livefootballtransfersnews/p/DersuQyi38q/
+          - generic [ref=f666e611]:
+            - link "Clip" [ref=f666e613] [cursor=pointer]:
+              - /url: /livefootballtransfersnews/reel/DerquIDC8fU/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clip"
+            - link "Clip" [ref=f666e618] [cursor=pointer]:
+              - /url: /livefootballtransfersnews/reel/DerpIWEi_kD/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clip"
+            - link "Clip" [ref=f666e623] [cursor=pointer]:
+              - /url: /livefootballtransfersnews/reel/Dern7XPCOXv/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clip"
+          - generic [ref=f666e627]:
+            - link "Clip" [ref=f666e629] [cursor=pointer]:
+              - /url: /livefootballtransfersnews/reel/DerhOkBi1bG/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clip"
+            - link [ref=f666e634] [cursor=pointer]:
+              - /url: /livefootballtransfersnews/p/DerQPneipNF/
+            - link [ref=f666e639] [cursor=pointer]:
+              - /url: /livefootballtransfersnews/p/DerD9s2ihk9/
+        - generic [ref=f666e643]:
+          - link "See more posts" [ref=f666e645] [cursor=pointer]:
+            - /url: /livefootballtransfersnews/
+          - separator [ref=f666e647]
+  - contentinfo [ref=f666e648]:
+    - generic [ref=f666e649]:
+      - generic [ref=f666e651]:
+        - link "Meta" [ref=f666e653] [cursor=pointer]:
+          - /url: https://about.meta.com/
+        - link "About" [ref=f666e656] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+        - link "Blog" [ref=f666e659] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+        - link "Jobs" [ref=f666e662] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+        - link "Help" [ref=f666e665] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+        - link "API" [ref=f666e668] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+        - link "Privacy" [ref=f666e671] [cursor=pointer]:
+          - /url: /legal/privacy/
+        - link "Consumer Health Privacy" [ref=f666e674] [cursor=pointer]:
+          - /url: /legal/privacy/health_privacy_policy/
+        - link "Terms" [ref=f666e677] [cursor=pointer]:
+          - /url: /legal/terms/
+        - link "Locations" [ref=f666e680] [cursor=pointer]:
+          - /url: /explore/locations/
+        - link "Popular" [ref=f666e683] [cursor=pointer]:
+          - /url: /popular/
+        - link "Instagram Lite" [ref=f666e686] [cursor=pointer]:
+          - /url: /web/lite/
+        - link "Meta AI" [ref=f666e689] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+        - link "Muse" [ref=f666e692] [cursor=pointer]:
+          - /url: https://muse.ai/
+        - link "Threads" [ref=f666e695] [cursor=pointer]:
+          - /url: https://www.threads.com/
+        - link "Contact Uploading & Non-Users" [ref=f666e698] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+        - link "Meta Verified" [ref=f666e701] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+      - generic [ref=f666e703]:
+        - generic [ref=f666e704] [cursor=pointer]:
+          - generic [ref=f666e705]:
+            - generic [ref=f666e706]: English
+            - img "Down chevron icon" [ref=f666e709]
+          - combobox "Switch Display Language" [ref=f666e711]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English" [selected]
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)"
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=f666e712]: © 2026 Instagram from Meta

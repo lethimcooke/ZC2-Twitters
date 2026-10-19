@@ -1,0 +1,44 @@
+- generic [ref=f649e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=f649e3]:
+        - generic [ref=f649e4]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=f649e5] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic [ref=f649e6]:
+        - banner [ref=f649e7]:
+          - generic [ref=f649e9]:
+            - generic [ref=f649e10]:
+              - heading [level=1] [ref=f649e12] [cursor=pointer]:
+                - link "X" [ref=f649e13]:
+                  - /url: /home
+              - navigation "Primary" [ref=f649e19]:
+                - link "Home" [ref=f649e20] [cursor=pointer]:
+                  - /url: /home
+                - link "Search and explore" [ref=f649e26] [cursor=pointer]:
+                  - /url: /explore
+                - link "Notifications" [ref=f649e32] [cursor=pointer]:
+                  - /url: /notifications
+                - link "Follow" [ref=f649e38] [cursor=pointer]:
+                  - /url: /i/connect_people
+                - link "Direct Messages" [ref=f649e44] [cursor=pointer]:
+                  - /url: /i/chat
+                - link "Calls" [ref=f649e50] [cursor=pointer]:
+                  - /url: /i/calls
+                - link "Grok" [ref=f649e56] [cursor=pointer]:
+                  - /url: /i/grok
+                  - generic "undefined unread items" [ref=f649e62]
+                - link "History" [ref=f649e63] [cursor=pointer]:
+                  - /url: /i/history
+                - link "Premium" [ref=f649e69] [cursor=pointer]:
+                  - /url: /i/premium_sign_up
+                - link "Profile" [ref=f649e75] [cursor=pointer]:
+                  - /url: /BigBlueMadden
+                - button "More menu items" [ref=f649e81] [cursor=pointer]
+              - link "Post" [ref=f649e88] [cursor=pointer]:
+                - /url: /compose/post
+            - button "Account menu" [ref=f649e96] [cursor=pointer]
+        - main [ref=f649e107]:
+          - generic "Home timeline" [ref=f649e112]:
+            - button "Back" [ref=f649e121] [cursor=pointer]
+            - progressbar "Loading timeline" [ref=f649e129]

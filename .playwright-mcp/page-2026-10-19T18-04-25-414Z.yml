@@ -1,0 +1,41 @@
+- generic [ref=f40e3]:
+  - banner [ref=f40e4]:
+    - generic [ref=f40e6]:
+      - generic [ref=f40e7]:
+        - heading [level=1] [ref=f40e9] [cursor=pointer]:
+          - link "X" [ref=f40e10]:
+            - /url: /home
+        - navigation "Primary" [ref=f40e16]:
+          - link "Home" [ref=f40e17] [cursor=pointer]:
+            - /url: /home
+          - link "Search and explore" [ref=f40e23] [cursor=pointer]:
+            - /url: /explore
+          - link "Notifications" [ref=f40e29] [cursor=pointer]:
+            - /url: /notifications
+          - link "Follow" [ref=f40e35] [cursor=pointer]:
+            - /url: /i/connect_people
+          - link "Direct Messages" [ref=f40e41] [cursor=pointer]:
+            - /url: /i/chat
+          - link "Calls" [ref=f40e47] [cursor=pointer]:
+            - /url: /i/calls
+          - link "Grok" [ref=f40e53] [cursor=pointer]:
+            - /url: /i/grok
+            - generic "undefined unread items" [ref=f40e59]
+          - link "History" [ref=f40e60] [cursor=pointer]:
+            - /url: /i/history
+          - link "Premium" [ref=f40e66] [cursor=pointer]:
+            - /url: /i/premium_sign_up
+          - link "Profile" [ref=f40e72] [cursor=pointer]:
+            - /url: /BigBlueMadden
+          - button "More menu items" [ref=f40e78] [cursor=pointer]
+        - link "Post" [ref=f40e85] [cursor=pointer]:
+          - /url: /compose/post
+      - button "Account menu" [ref=f40e93] [cursor=pointer]:
+        - generic [ref=f40e101]:
+          - generic:
+            - generic:
+              - generic:
+                - generic "BigBlueMadden":
+                  - img "BigBlueMadden"
+  - main [ref=f40e104]:
+    - progressbar "Loading" [ref=f40e107]

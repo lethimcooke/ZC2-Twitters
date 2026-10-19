@@ -1,0 +1,192 @@
+- generic [ref=f550e1]:
+  - generic:
+    - region "Notifications alt+T"
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link "Go to TikTok For You feed":
+                - /url: /
+                - strong: TikTok
+            - generic:
+              - searchbox "Search"
+          - generic:
+            - generic:
+              - generic:
+                - link "For You":
+                  - /url: /
+                  - listitem "For You"
+              - generic:
+                - link "Shop":
+                  - /url: https://shop.tiktok.com/us
+                  - listitem "Shop"
+              - generic:
+                - link "Explore":
+                  - /url: /explore
+                  - listitem "Explore"
+              - generic:
+                - link "Following":
+                  - /url: /following
+                  - listitem "Following"
+              - generic:
+                - link "Short dramas":
+                  - /url: /shortdrama
+                  - listitem "Short dramas"
+              - generic:
+                - generic:
+                  - link "LIVE":
+                    - /url: /live
+                    - listitem "LIVE"
+              - generic:
+                - generic:
+                  - link "Upload":
+                    - /url: /tiktokstudio/upload?from=webapp&tab=video
+                    - listitem "Upload"
+              - generic:
+                - link "Profile":
+                  - /url: /@
+                  - listitem "Profile"
+              - generic:
+                - listitem "More"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - button "Log in"
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - article:
+                  - generic:
+                    - region "Watch in full screen":
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - 'img "#kylianmbappé can do it all 🏈⚽️ @NFL France #nfl #atlantafalcons #bijanrobinson"'
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "Volume" [pressed]
+                            - generic:
+                              - generic:
+                                - button
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "NFL":
+                                    - /url: /@nfl
+                                    - generic:
+                                      - paragraph: NFL
+                                  - generic: · 1d ago
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - link "Watch more videos of the kylianmbappé category":
+                                          - /url: /tag/kylianmbapp%C3%A9
+                                          - paragraph: "#kylianmbappé"
+                                        - generic: can do it all 🏈⚽️
+                                        - link "Watch more videos from user NFL France":
+                                          - /url: /@nflfrance
+                                          - paragraph: "@NFL France"
+                                        - link "Watch more videos of the nfl category":
+                                          - /url: /tag/nfl
+                                          - paragraph: "#nfl"
+                                        - link "Watch more videos of the atlantafalcons category":
+                                          - /url: /tag/atlantafalcons
+                                          - paragraph: "#atlantafalcons"
+                                        - link "Watch more videos of the bijanrobinson category":
+                                          - /url: /tag/bijanrobinson
+                                          - paragraph: "#bijanrobinson"
+                                    - button "more"
+                        - generic:
+                          - paragraph: 00:00 / 00:08
+                          - generic:
+                            - generic:
+                              - slider "Video progress"
+                    - generic:
+                      - generic:
+                        - link "nfl":
+                          - /url: /@nfl
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img "nfl"
+                        - button
+                      - generic:
+                        - button "Like video 61.2K likes":
+                          - generic:
+                            - generic:
+                              - button
+                          - strong: 61.2K
+                      - button "Read or add comments 113 comments":
+                        - generic:
+                          - generic:
+                            - button
+                        - strong: "113"
+                      - generic:
+                        - generic:
+                          - button "Add to Favorites. 1664 added to Favorites":
+                            - generic:
+                              - generic:
+                                - button
+                            - strong: "1664"
+                      - generic:
+                        - button "Share video 802 shares":
+                          - generic:
+                            - generic:
+                              - button
+                          - strong: "802"
+                      - link "Watch more videos with music original sound - NFL":
+                        - /url: /music/original-sound-7697722733165153037
+              - complementary
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - button "Comments"
+                        - generic:
+                          - generic:
+                            - button "You may like"
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - button "Log in"
+  - dialog [ref=f550e6]:
+    - generic [ref=f550e7]:
+      - generic [ref=f550e8]:
+        - heading "Captions" [level=2] [ref=f550e9]
+        - button "Close_button" [active] [ref=f550e10] [cursor=pointer]
+      - generic [ref=f550e13]:
+        - generic [ref=f550e15]:
+          - generic [ref=f550e16]: Captions (auto-generated)
+          - switch [ref=f550e21] [cursor=pointer]
+        - generic [ref=f550e22]:
+          - generic [ref=f550e23]:
+            - generic [ref=f550e24]: Always translate posts
+            - switch [ref=f550e29] [cursor=pointer]
+          - generic [ref=f550e30]: Descriptions and captions will be translated, except for languages you've excluded.
+        - button "Do not translate Select language" [ref=f550e32] [cursor=pointer]:
+          - generic [ref=f550e33]: Do not translate
+          - generic [ref=f550e34]: Select language
+        - button "Translate into English" [ref=f550e39] [cursor=pointer]:
+          - generic [ref=f550e40]: Translate into
+          - generic [ref=f550e41]: English

@@ -1,0 +1,412 @@
+- generic [ref=f954e11]:
+  - generic [ref=f954e13]:
+    - link [ref=f954e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=f954e19]
+    - generic [ref=f954e30]:
+      - link "Log In" [ref=f954e32] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Freel%2FDeiUKQYtj6G%2F&source=desktop_nav
+      - link "Sign Up" [ref=f954e34] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=f954e35]:
+    - dialog [ref=f954e40]:
+      - generic [ref=f954e41]:
+        - button [ref=f954e43] [cursor=pointer]:
+          - img "Close" [ref=f954e45]
+        - generic [ref=f954e49]:
+          - generic [ref=f954e50]:
+            - link [ref=f954e52] [cursor=pointer]:
+              - img "imsophri's profile picture" [ref=f954e53]
+            - generic [ref=f954e55]:
+              - generic [ref=f954e56]: Never miss a post from imsophri
+              - generic [ref=f954e57]: Sign up for Instagram to stay in the loop.
+          - generic [ref=f954e59]:
+            - link "Sign up" [ref=f954e62] [cursor=pointer]:
+              - /url: /accounts/emailsignup/
+            - link "Log in" [ref=f954e65] [cursor=pointer]:
+              - /url: /accounts/login/?source=desktop_dynamic_landing_dialog
+    - generic [ref=f954e66]:
+      - generic [ref=f954e68]:
+        - group "Video player" [ref=f954e86]:
+          - slider "Adjust volume" [ref=f954e88]:
+            - button [ref=f954e90] [cursor=pointer]:
+              - img "Audio is muted" [ref=f954e91]
+        - generic [ref=f954e94]:
+          - generic [ref=f954e96]:
+            - link [ref=f954e98] [cursor=pointer]:
+              - img "imsophri's profile picture" [ref=f954e99]
+            - generic [ref=f954e101]:
+              - generic [ref=f954e102]:
+                - link "imsophri" [ref=f954e105] [cursor=pointer]:
+                  - /url: /imsophri/
+                - generic [ref=f954e109]:
+                  - generic [ref=f954e110]: •
+                  - button "Follow" [ref=f954e112] [cursor=pointer]
+              - link "Original audio" [ref=f954e117] [cursor=pointer]:
+                - /url: /reels/audio/28382507828118029/
+            - button [ref=f954e123] [cursor=pointer]:
+              - img "More options" [ref=f954e126]
+          - separator [ref=f954e130]
+          - generic [ref=f954e132]:
+            - generic [ref=f954e134]:
+              - link [ref=f954e136] [cursor=pointer]:
+                - /url: /imsophri/
+                - img "imsophri's profile picture" [ref=f954e137]
+              - generic [ref=f954e141]:
+                - generic [ref=f954e142]:
+                  - link "imsophri" [ref=f954e143] [cursor=pointer]:
+                    - /url: /imsophri/
+                  - time [ref=f954e148]: 3d
+                - generic [ref=f954e149]: uh oh 😅 I still think about this daily
+            - button [ref=f954e151] [cursor=pointer]:
+              - img "Load more comments" [ref=f954e153]
+            - generic [ref=f954e155]:
+              - generic [ref=f954e158]:
+                - link [ref=f954e160] [cursor=pointer]:
+                  - /url: /yuliqn6467/
+                  - img "yuliqn6467's profile picture" [ref=f954e161]
+                - generic [ref=f954e163]:
+                  - generic [ref=f954e165]:
+                    - generic [ref=f954e166]:
+                      - link "yuliqn6467" [ref=f954e168] [cursor=pointer]:
+                        - /url: /yuliqn6467/
+                      - link [ref=f954e173] [cursor=pointer]:
+                        - /url: /p/DeiUKQYtj6G/c/17923146168221695/
+                        - time [ref=f954e174]: 1d
+                    - generic [ref=f954e175]: 😮😱😇
+                  - generic [ref=f954e177]:
+                    - button "Like" [ref=f954e178] [cursor=pointer]
+                    - button "Reply" [ref=f954e180] [cursor=pointer]
+              - generic [ref=f954e185]:
+                - link [ref=f954e187] [cursor=pointer]:
+                  - /url: /mr.titusbjourney/
+                  - img "mr.titusbjourney's profile picture" [ref=f954e188]
+                - generic [ref=f954e190]:
+                  - generic [ref=f954e192]:
+                    - generic [ref=f954e193]:
+                      - link "mr.titusbjourney" [ref=f954e195] [cursor=pointer]:
+                        - /url: /mr.titusbjourney/
+                      - link [ref=f954e200] [cursor=pointer]:
+                        - /url: /p/DeiUKQYtj6G/c/18151976167545282/
+                        - time [ref=f954e201]: 2d
+                    - generic [ref=f954e202]: 😂
+                  - generic [ref=f954e204]:
+                    - button "Like" [ref=f954e205] [cursor=pointer]
+                    - button "Reply" [ref=f954e207] [cursor=pointer]
+              - generic [ref=f954e212]:
+                - link [ref=f954e214] [cursor=pointer]:
+                  - /url: /dkchoclat69/
+                  - img "dkchoclat69's profile picture" [ref=f954e215]
+                - generic [ref=f954e217]:
+                  - generic [ref=f954e219]:
+                    - generic [ref=f954e220]:
+                      - link "dkchoclat69" [ref=f954e222] [cursor=pointer]:
+                        - /url: /dkchoclat69/
+                      - link [ref=f954e227] [cursor=pointer]:
+                        - /url: /p/DeiUKQYtj6G/c/17961455978999623/
+                        - time [ref=f954e228]: 2d
+                    - generic [ref=f954e229]: The connection to her cranium would have been inspirational!🤔
+                  - generic [ref=f954e231]:
+                    - button "Like" [ref=f954e232] [cursor=pointer]
+                    - button "Reply" [ref=f954e234] [cursor=pointer]
+              - generic [ref=f954e239]:
+                - link [ref=f954e241] [cursor=pointer]:
+                  - /url: /sebalp72/
+                  - img "sebalp72's profile picture" [ref=f954e242]
+                - generic [ref=f954e244]:
+                  - link "sebalp72" [ref=f954e246] [cursor=pointer]:
+                    - /url: /sebalp72/
+                  - generic [ref=f954e252]:
+                    - button "Like" [ref=f954e253] [cursor=pointer]
+                    - button "Reply" [ref=f954e255] [cursor=pointer]
+              - generic [ref=f954e260]:
+                - link [ref=f954e262] [cursor=pointer]:
+                  - /url: /mutinyaftermidnight/
+                  - img "mutinyaftermidnight's profile picture" [ref=f954e263]
+                - generic [ref=f954e265]:
+                  - generic [ref=f954e267]:
+                    - generic [ref=f954e268]:
+                      - link "mutinyaftermidnight" [ref=f954e270] [cursor=pointer]:
+                        - /url: /mutinyaftermidnight/
+                      - link [ref=f954e275] [cursor=pointer]:
+                        - /url: /p/DeiUKQYtj6G/c/18186506893420091/
+                        - time [ref=f954e276]: 2d
+                    - generic [ref=f954e277]: Air bag safety is important
+                  - generic [ref=f954e279]:
+                    - button "Like" [ref=f954e280] [cursor=pointer]
+                    - button "Reply" [ref=f954e282] [cursor=pointer]
+              - generic [ref=f954e287]:
+                - link [ref=f954e289] [cursor=pointer]:
+                  - /url: /alexanderdavid.david.568/
+                  - img "alexanderdavid.david.568's profile picture" [ref=f954e290]
+                - generic [ref=f954e292]:
+                  - link "alexanderdavid.david.568" [ref=f954e294] [cursor=pointer]:
+                    - /url: /alexanderdavid.david.568/
+                  - generic [ref=f954e300]:
+                    - button "Like" [ref=f954e301] [cursor=pointer]
+                    - button "Reply" [ref=f954e303] [cursor=pointer]
+              - generic [ref=f954e308]:
+                - link [ref=f954e310] [cursor=pointer]:
+                  - /url: /matthewdamon250/
+                  - img "matthewdamon250's profile picture" [ref=f954e311]
+                - generic [ref=f954e313]:
+                  - generic [ref=f954e315]:
+                    - generic [ref=f954e316]:
+                      - link "matthewdamon250" [ref=f954e318] [cursor=pointer]:
+                        - /url: /matthewdamon250/
+                      - link [ref=f954e323] [cursor=pointer]:
+                        - /url: /p/DeiUKQYtj6G/c/18109869800233517/
+                        - time [ref=f954e324]: 2d
+                    - generic [ref=f954e325]: That was actually quite impressive 😂
+                  - generic [ref=f954e327]:
+                    - button "Like" [ref=f954e328] [cursor=pointer]
+                    - button "Reply" [ref=f954e330] [cursor=pointer]
+              - generic [ref=f954e335]:
+                - link [ref=f954e337] [cursor=pointer]:
+                  - /url: /jondoedoe2020/
+                  - img "jondoedoe2020's profile picture" [ref=f954e338]
+                - generic [ref=f954e340]:
+                  - generic [ref=f954e342]:
+                    - generic [ref=f954e343]:
+                      - link "jondoedoe2020" [ref=f954e345] [cursor=pointer]:
+                        - /url: /jondoedoe2020/
+                      - link [ref=f954e350] [cursor=pointer]:
+                        - /url: /p/DeiUKQYtj6G/c/18411719761093179/
+                        - time [ref=f954e351]: 2d
+                    - generic [ref=f954e353]:
+                      - link "@show_time_casinonah" [ref=f954e354] [cursor=pointer]:
+                        - /url: /show_time_casinonah/
+                      - text: ", her airbags would've saved her from any real damage 😂"
+                  - generic [ref=f954e355]:
+                    - button "Like" [ref=f954e356] [cursor=pointer]
+                    - button "Reply" [ref=f954e358] [cursor=pointer]
+              - generic [ref=f954e363]:
+                - link [ref=f954e365] [cursor=pointer]:
+                  - /url: /super_saiyajin2020/
+                  - img "super_saiyajin2020's profile picture" [ref=f954e366]
+                - generic [ref=f954e368]:
+                  - generic [ref=f954e370]:
+                    - generic [ref=f954e371]:
+                      - link "super_saiyajin2020" [ref=f954e373] [cursor=pointer]:
+                        - /url: /super_saiyajin2020/
+                      - link [ref=f954e378] [cursor=pointer]:
+                        - /url: /p/DeiUKQYtj6G/c/17876771304633608/
+                        - time [ref=f954e379]: 2d
+                    - generic [ref=f954e380]: 😮😮😮
+                  - generic [ref=f954e382]:
+                    - button "Like" [ref=f954e383] [cursor=pointer]
+                    - button "Reply" [ref=f954e385] [cursor=pointer]
+              - generic [ref=f954e390]:
+                - link [ref=f954e392] [cursor=pointer]:
+                  - /url: /bill_mcfly/
+                  - img "bill_mcfly's profile picture" [ref=f954e393]
+                - generic [ref=f954e395]:
+                  - generic [ref=f954e397]:
+                    - generic [ref=f954e398]:
+                      - link "bill_mcfly" [ref=f954e400] [cursor=pointer]:
+                        - /url: /bill_mcfly/
+                      - link [ref=f954e405] [cursor=pointer]:
+                        - /url: /p/DeiUKQYtj6G/c/17944724064089051/
+                        - time [ref=f954e406]: 2d
+                    - generic [ref=f954e407]: And she got moves!
+                  - generic [ref=f954e409]:
+                    - button "Like" [ref=f954e410] [cursor=pointer]
+                    - button "Reply" [ref=f954e412] [cursor=pointer]
+              - generic [ref=f954e417]:
+                - link [ref=f954e419] [cursor=pointer]:
+                  - /url: /rladao/
+                  - img "rladao's profile picture" [ref=f954e420]
+                - generic [ref=f954e422]:
+                  - generic [ref=f954e424]:
+                    - generic [ref=f954e425]:
+                      - link "rladao" [ref=f954e427] [cursor=pointer]:
+                        - /url: /rladao/
+                      - link [ref=f954e432] [cursor=pointer]:
+                        - /url: /p/DeiUKQYtj6G/c/18012831293970016/
+                        - time [ref=f954e433]: 2d
+                    - generic [ref=f954e434]: When Umamusume becomes a Netflix adaptation.
+                  - generic [ref=f954e436]:
+                    - button "Like" [ref=f954e437] [cursor=pointer]
+                    - button "Reply" [ref=f954e439] [cursor=pointer]
+              - generic [ref=f954e444]:
+                - link [ref=f954e446] [cursor=pointer]:
+                  - /url: /titovilchespettit/
+                  - img "titovilchespettit's profile picture" [ref=f954e447]
+                - generic [ref=f954e449]:
+                  - link "titovilchespettit" [ref=f954e451] [cursor=pointer]:
+                    - /url: /titovilchespettit/
+                  - generic [ref=f954e457]:
+                    - button "Like" [ref=f954e458] [cursor=pointer]
+                    - button "Reply" [ref=f954e460] [cursor=pointer]
+              - progressbar [ref=f954e465]:
+                - img "Loading..." [ref=f954e466]
+          - generic [ref=f954e479]:
+            - generic [ref=f954e480]:
+              - generic [ref=f954e481]:
+                - button [ref=f954e484] [cursor=pointer]:
+                  - img "Like" [ref=f954e487]
+                - button "2.9K" [ref=f954e489] [cursor=pointer]
+                - button [ref=f954e491] [cursor=pointer]:
+                  - img "Comment" [ref=f954e493]
+                - button "70" [ref=f954e495] [cursor=pointer]
+                - button [ref=f954e496] [cursor=pointer]:
+                  - img "Share" [ref=f954e497]
+              - button [ref=f954e501] [cursor=pointer]:
+                - img "Save" [ref=f954e503]
+            - link [ref=f954e507] [cursor=pointer]:
+              - /url: /imsophri/reel/DeiUKQYtj6G/
+              - time [ref=f954e509]: 3 days ago
+          - generic [ref=f954e514]:
+            - link "Log in" [ref=f954e515] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Freel%2FDeiUKQYtj6G%2F&source=post_comment_input
+            - text: to like or comment.
+      - separator [ref=f954e517]
+      - generic [ref=f954e518]:
+        - generic [ref=f954e520]:
+          - text: More posts from
+          - link "imsophri" [ref=f954e521] [cursor=pointer]:
+            - /url: /imsophri/
+        - generic [ref=f954e524]:
+          - generic [ref=f954e525]:
+            - link [ref=f954e527] [cursor=pointer]:
+              - /url: /imsophri/p/Depj7OEIIFS/
+              - img "Photo by juju ☆彡 on October 18, 2026." [ref=f954e530]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link [ref=f954e533] [cursor=pointer]:
+              - /url: /imsophri/p/Dem1-OqtiUc/
+              - img "Photo by juju ☆彡 on October 17, 2026. May be a black-and-white image of one or more people, blonde hair, bra and text." [ref=f954e536]
+            - link [ref=f954e539] [cursor=pointer]:
+              - /url: /imsophri/p/DekmxKWNbcg/
+              - img "Photo by juju ☆彡 on October 16, 2026. May be a black-and-white image of one or more people, people smiling, top and text." [ref=f954e542]
+          - generic [ref=f954e544]:
+            - link [ref=f954e546] [cursor=pointer]:
+              - /url: /imsophri/p/DekgDEcoCA-/
+              - img "Photo by juju ☆彡 on October 16, 2026." [ref=f954e549]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link [ref=f954e552] [cursor=pointer]:
+              - /url: /imsophri/p/DeXXIn1oF3O/
+              - img "Photo by juju ☆彡 on October 11, 2026." [ref=f954e555]
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link [ref=f954e558] [cursor=pointer]:
+              - /url: /imsophri/p/DePVwG1tqcR/
+              - img "Photo by juju ☆彡 on October 08, 2026. May be a black-and-white image of jet ski, boat, lake and text." [ref=f954e561]
+          - generic [ref=f954e563]:
+            - link [ref=f954e565] [cursor=pointer]:
+              - /url: /imsophri/p/DePS3tDtp0i/
+              - img "Photo by juju ☆彡 on October 08, 2026. May be a selfie of one or more people, blonde hair and text." [ref=f954e568]
+            - link [ref=f954e571] [cursor=pointer]:
+              - /url: /imsophri/p/DeIpv0BNM66/
+              - img "Photo by juju ☆彡 on October 05, 2026. May be a black-and-white image of one or more people, bra and text." [ref=f954e574]
+            - link [ref=f954e577] [cursor=pointer]:
+              - /url: /imsophri/p/Dd9rPRytOD5/
+              - img "Photo by juju ☆彡 on October 01, 2026. May be a black-and-white image of one or more people and text." [ref=f954e580]
+        - generic [ref=f954e582]:
+          - link "See more posts" [ref=f954e584] [cursor=pointer]:
+            - /url: /imsophri/
+          - separator [ref=f954e586]
+  - contentinfo [ref=f954e587]:
+    - generic [ref=f954e588]:
+      - generic [ref=f954e590]:
+        - link "Meta" [ref=f954e592] [cursor=pointer]:
+          - /url: https://about.meta.com/
+        - link "About" [ref=f954e595] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+        - link "Blog" [ref=f954e598] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+        - link "Jobs" [ref=f954e601] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+        - link "Help" [ref=f954e604] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+        - link "API" [ref=f954e607] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+        - link "Privacy" [ref=f954e610] [cursor=pointer]:
+          - /url: /legal/privacy/
+        - link "Consumer Health Privacy" [ref=f954e613] [cursor=pointer]:
+          - /url: /legal/privacy/health_privacy_policy/
+        - link "Terms" [ref=f954e616] [cursor=pointer]:
+          - /url: /legal/terms/
+        - link "Locations" [ref=f954e619] [cursor=pointer]:
+          - /url: /explore/locations/
+        - link "Popular" [ref=f954e622] [cursor=pointer]:
+          - /url: /popular/
+        - link "Instagram Lite" [ref=f954e625] [cursor=pointer]:
+          - /url: /web/lite/
+        - link "Meta AI" [ref=f954e628] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+        - link "Muse" [ref=f954e631] [cursor=pointer]:
+          - /url: https://muse.ai/
+        - link "Threads" [ref=f954e634] [cursor=pointer]:
+          - /url: https://www.threads.com/
+        - link "Contact Uploading & Non-Users" [ref=f954e637] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+        - link "Meta Verified" [ref=f954e640] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+      - generic [ref=f954e642]:
+        - generic [ref=f954e643] [cursor=pointer]:
+          - generic [ref=f954e644]:
+            - generic [ref=f954e645]: English
+            - img "Down chevron icon" [ref=f954e648]
+          - combobox "Switch Display Language" [ref=f954e650]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English" [selected]
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)"
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=f954e651]: © 2026 Instagram from Meta

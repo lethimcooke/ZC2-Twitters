@@ -1,0 +1,195 @@
+- generic [ref=f583e1]:
+  - generic:
+    - region "Notifications alt+T"
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link "Go to TikTok For You feed":
+                - /url: /
+                - strong: TikTok
+            - generic:
+              - searchbox "Search"
+          - generic:
+            - generic:
+              - generic:
+                - link "For You":
+                  - /url: /
+                  - listitem "For You"
+              - generic:
+                - link "Shop":
+                  - /url: https://shop.tiktok.com/us
+                  - listitem "Shop"
+              - generic:
+                - link "Explore":
+                  - /url: /explore
+                  - listitem "Explore"
+              - generic:
+                - link "Following":
+                  - /url: /following
+                  - listitem "Following"
+              - generic:
+                - link "Short dramas":
+                  - /url: /shortdrama
+                  - listitem "Short dramas"
+              - generic:
+                - generic:
+                  - link "LIVE":
+                    - /url: /live
+                    - listitem "LIVE"
+              - generic:
+                - generic:
+                  - link "Upload":
+                    - /url: /tiktokstudio/upload?from=webapp&tab=video
+                    - listitem "Upload"
+              - generic:
+                - link "Profile":
+                  - /url: /@
+                  - listitem "Profile"
+              - generic:
+                - listitem "More"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - button "Log in"
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - article:
+                  - generic:
+                    - region "Watch in full screen":
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - 'img "Double denial! #mls #goal #save #doublesave #wow"'
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "Volume" [pressed]
+                            - generic:
+                              - generic:
+                                - button
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "Major League Soccer":
+                                    - /url: /@mls
+                                    - generic:
+                                      - paragraph: Major League Soccer
+                                  - generic: · 1d ago
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic: Double denial!
+                                        - link "Watch more videos of the mls category":
+                                          - /url: /tag/mls
+                                          - paragraph: "#mls"
+                                        - link "Watch more videos of the goal category":
+                                          - /url: /tag/goal
+                                          - paragraph: "#goal"
+                                        - link "Watch more videos of the save category":
+                                          - /url: /tag/save
+                                          - paragraph: "#save"
+                                        - link "Watch more videos of the doublesave category":
+                                          - /url: /tag/doublesave
+                                          - paragraph: "#doublesave"
+                                        - link "Watch more videos of the wow category":
+                                          - /url: /tag/wow
+                                          - paragraph: "#wow"
+                                    - button "more"
+                        - generic:
+                          - paragraph: 00:00 / 00:20
+                          - generic:
+                            - generic:
+                              - slider "Video progress"
+                    - generic:
+                      - generic:
+                        - link "mls":
+                          - /url: /@mls
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img "mls"
+                        - button
+                      - generic:
+                        - button "Like video 59.3K likes":
+                          - generic:
+                            - generic:
+                              - button
+                          - strong: 59.3K
+                      - button "Read or add comments 118 comments":
+                        - generic:
+                          - generic:
+                            - button
+                        - strong: "118"
+                      - generic:
+                        - generic:
+                          - button "Add to Favorites. 1998 added to Favorites":
+                            - generic:
+                              - generic:
+                                - button
+                            - strong: "1998"
+                      - generic:
+                        - button "Share video 1206 shares":
+                          - generic:
+                            - generic:
+                              - button
+                          - strong: "1206"
+                      - link "Watch more videos with music original sound - Major League Soccer":
+                        - /url: /music/original-sound-7697769187497823006
+              - complementary
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - button "Comments"
+                        - generic:
+                          - generic:
+                            - button "You may like"
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - button "Log in"
+  - dialog [ref=f583e6]:
+    - generic [ref=f583e7]:
+      - generic [ref=f583e8]:
+        - heading "Captions" [level=2] [ref=f583e9]
+        - button "Close_button" [active] [ref=f583e10] [cursor=pointer]
+      - generic [ref=f583e13]:
+        - generic [ref=f583e15]:
+          - generic [ref=f583e16]: Captions (auto-generated)
+          - switch [ref=f583e21] [cursor=pointer]
+        - generic [ref=f583e22]:
+          - generic [ref=f583e23]:
+            - generic [ref=f583e24]: Always translate posts
+            - switch [ref=f583e29] [cursor=pointer]
+          - generic [ref=f583e30]: Descriptions and captions will be translated, except for languages you've excluded.
+        - button "Do not translate Select language" [ref=f583e32] [cursor=pointer]:
+          - generic [ref=f583e33]: Do not translate
+          - generic [ref=f583e34]: Select language
+        - button "Translate into English" [ref=f583e39] [cursor=pointer]:
+          - generic [ref=f583e40]: Translate into
+          - generic [ref=f583e41]: English

@@ -1,0 +1,66 @@
+- generic [ref=f15e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=f15e3]:
+        - generic [ref=f15e4]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=f15e5] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic [ref=f15e6]:
+        - banner [ref=f15e7]:
+          - generic [ref=f15e9]:
+            - generic [ref=f15e10]:
+              - heading [level=1] [ref=f15e12] [cursor=pointer]:
+                - link "X" [ref=f15e13]:
+                  - /url: /home
+              - navigation "Primary" [ref=f15e19]:
+                - link "Home" [ref=f15e20] [cursor=pointer]:
+                  - /url: /home
+                - link "Search and explore" [ref=f15e26] [cursor=pointer]:
+                  - /url: /explore
+                - link "Notifications" [ref=f15e32] [cursor=pointer]:
+                  - /url: /notifications
+                - link "Follow" [ref=f15e38] [cursor=pointer]:
+                  - /url: /i/connect_people
+                - link "Direct Messages" [ref=f15e44] [cursor=pointer]:
+                  - /url: /i/chat
+                - link "Calls" [ref=f15e50] [cursor=pointer]:
+                  - /url: /i/calls
+                - link "Grok" [ref=f15e56] [cursor=pointer]:
+                  - /url: /i/grok
+                  - generic "undefined unread items" [ref=f15e62]
+                - link "History" [ref=f15e63] [cursor=pointer]:
+                  - /url: /i/history
+                - link "Premium" [ref=f15e69] [cursor=pointer]:
+                  - /url: /i/premium_sign_up
+                - link "Profile" [ref=f15e75] [cursor=pointer]:
+                  - /url: /BigBlueMadden
+                - button "More menu items" [ref=f15e81] [cursor=pointer]
+              - link "Post" [ref=f15e88] [cursor=pointer]:
+                - /url: /compose/post
+            - button "Account menu" [ref=f15e96] [cursor=pointer]:
+              - generic [ref=f15e104]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "BigBlueMadden":
+                        - img "BigBlueMadden"
+        - main [ref=f15e107]:
+          - generic "Home timeline" [ref=f15e112]:
+            - generic [ref=f15e114]:
+              - generic [ref=f15e119]:
+                - button "Back" [ref=f15e121] [cursor=pointer]
+                - progressbar [ref=f15e129]
+                - button "More" [ref=f15e135] [cursor=pointer]
+              - navigation [ref=f15e141]:
+                - generic [ref=f15e142]:
+                  - generic:
+                    - button "Previous" [disabled]
+                  - tablist [ref=f15e144]:
+                    - tab "Top" [selected] [ref=f15e145] [cursor=pointer]
+                    - tab "Latest" [ref=f15e150] [cursor=pointer]
+                    - tab "People" [ref=f15e154] [cursor=pointer]
+                    - tab "Media" [ref=f15e158] [cursor=pointer]
+                    - tab "Lists" [ref=f15e162] [cursor=pointer]
+                  - generic:
+                    - button "Next" [disabled]
+            - progressbar "Loading timeline" [ref=f15e168]

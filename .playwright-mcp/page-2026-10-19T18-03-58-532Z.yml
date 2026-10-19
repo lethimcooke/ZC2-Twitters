@@ -1,0 +1,397 @@
+- generic [ref=f35e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=f35e7]:
+        - generic [ref=f35e8]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=f35e9] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic [ref=f35e10]:
+        - button "Skip to home timeline" [ref=f35e11] [cursor=pointer]
+        - button "Skip to trending" [ref=f35e13] [cursor=pointer]
+        - banner [ref=f35e15]:
+          - generic [ref=f35e17]:
+            - generic [ref=f35e18]:
+              - heading [level=1] [ref=f35e20] [cursor=pointer]:
+                - link "X" [ref=f35e21]:
+                  - /url: /home
+              - navigation "Primary" [ref=f35e27]:
+                - link "Home" [ref=f35e28] [cursor=pointer]:
+                  - /url: /home
+                - link "Search and explore" [ref=f35e34] [cursor=pointer]:
+                  - /url: /explore
+                - link "Notifications" [ref=f35e40] [cursor=pointer]:
+                  - /url: /notifications
+                - link "Follow" [ref=f35e46] [cursor=pointer]:
+                  - /url: /i/connect_people
+                - link "Direct Messages" [ref=f35e52] [cursor=pointer]:
+                  - /url: /i/chat
+                - link "Calls" [ref=f35e58] [cursor=pointer]:
+                  - /url: /i/calls
+                - link "Grok" [ref=f35e64] [cursor=pointer]:
+                  - /url: /i/grok
+                  - generic "undefined unread items" [ref=f35e70]
+                - link "History" [ref=f35e71] [cursor=pointer]:
+                  - /url: /i/history
+                - link "Premium" [ref=f35e77] [cursor=pointer]:
+                  - /url: /i/premium_sign_up
+                - link "Profile" [ref=f35e83] [cursor=pointer]:
+                  - /url: /BigBlueMadden
+                - button "More menu items" [ref=f35e89] [cursor=pointer]
+              - link "Post" [ref=f35e96] [cursor=pointer]:
+                - /url: /compose/post
+            - button "Account menu" [ref=f35e104] [cursor=pointer]:
+              - generic [ref=f35e112]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "BigBlueMadden":
+                        - img "BigBlueMadden"
+        - main [ref=f35e115]:
+          - generic "Home timeline" [ref=f35e120]:
+            - generic [ref=f35e121]:
+              - generic [ref=f35e127] [cursor=pointer]:
+                - button "Back" [ref=f35e129]
+                - heading "Post" [level=2] [ref=f35e136]
+              - generic:
+                - generic:
+                  - status:
+                    - button [aria-hidden]:
+                      - generic: See new posts
+            - region [ref=f35e138]:
+              - heading "Conversation" [level=1] [ref=f35e139]
+              - 'generic "Timeline: Conversation" [ref=f35e140]':
+                - generic [ref=f35e141]:
+                  - generic [ref=f35e144]:
+                    - 'article "Carter Lowe Verified account @carterjlowe Oregon cheerleader narrowly avoids rogue whale that popped out of the Autzen Stadium turf #huskers #goducks Embedded video Play Video. 6 seconds long 0:06 128 replies, 3562 reposts, 74359 likes, 3094 bookmarks, 2201847 views" [ref=f35e145]':
+                      - generic [ref=f35e147]:
+                        - generic [ref=f35e151]:
+                          - link [active] [aria-hidden] [ref=f35e163] [cursor=pointer]:
+                            - /url: /carterjlowe
+                          - generic [ref=f35e168]:
+                            - generic [ref=f35e171]:
+                              - link "Carter Lowe Verified account" [ref=f35e174] [cursor=pointer]:
+                                - /url: /carterjlowe
+                                - generic [ref=f35e175]:
+                                  - generic [ref=f35e176]: Carter Lowe
+                                  - img "Verified account" [ref=f35e180]
+                              - link "@carterjlowe" [ref=f35e186] [cursor=pointer]:
+                                - /url: /carterjlowe
+                            - generic [ref=f35e189]:
+                              - button "Follow @carterjlowe" [ref=f35e191] [cursor=pointer]:
+                                - generic [ref=f35e192]: Follow
+                              - button "Grok actions" [ref=f35e196] [cursor=pointer]
+                              - button "More" [ref=f35e207] [cursor=pointer]
+                        - generic [ref=f35e214]:
+                          - generic [ref=f35e216]:
+                            - text: Oregon cheerleader narrowly avoids rogue whale that popped out of the Autzen Stadium turf
+                            - link "#huskers" [ref=f35e218] [cursor=pointer]:
+                              - /url: /hashtag/huskers?src=hashtag_click
+                            - link "#goducks" [ref=f35e220] [cursor=pointer]:
+                              - /url: /hashtag/goducks?src=hashtag_click
+                          - generic [ref=f35e237]:
+                            - generic "Embedded video" [ref=f35e240]
+                            - generic [ref=f35e242]:
+                              - generic:
+                                - generic [ref=f35e243] [cursor=pointer]
+                                - button "Play Video. 6 seconds long" [ref=f35e244] [cursor=pointer]
+                                - generic:
+                                  - progressbar
+                                - generic: 0:06
+                          - generic [ref=f35e250]:
+                            - link "2:13 AM · Oct 18, 2026" [ref=f35e252] [cursor=pointer]:
+                              - /url: /carterjlowe/status/2111702183897182439
+                              - time [ref=f35e253]: 2:13 AM · Oct 18, 2026
+                            - generic [aria-hidden] [ref=f35e254]: ·
+                            - link "2.2M Views" [ref=f35e255] [cursor=pointer]:
+                              - /url: /carterjlowe/status/2111702183897182439/analytics
+                              - generic [ref=f35e256]: 2.2M
+                              - generic [ref=f35e259]: Views
+                          - generic [ref=f35e260]:
+                            - group "128 replies, 3562 reposts, 74359 likes, 3094 bookmarks, 2201847 views" [ref=f35e262]:
+                              - button "128 Replies. Reply" [ref=f35e264] [cursor=pointer]:
+                                - generic [ref=f35e265]: "128"
+                              - button "3562 reposts. Repost" [ref=f35e275] [cursor=pointer]:
+                                - generic [ref=f35e276]: 3.5K
+                              - button "74359 Likes. Like" [ref=f35e286] [cursor=pointer]:
+                                - generic [ref=f35e287]: 74K
+                              - button "3094 Bookmarks. Bookmark" [ref=f35e297] [cursor=pointer]:
+                                - generic [ref=f35e298]: 3K
+                              - button "Share post" [ref=f35e309] [cursor=pointer]
+                            - generic [ref=f35e316]:
+                              - button "Relevant" [ref=f35e319]
+                              - link "View quotes" [ref=f35e324] [cursor=pointer]:
+                                - /url: /carterjlowe/status/2111702183897182439/quotes
+                    - generic [ref=f35e335]:
+                      - link [ref=f35e344] [cursor=pointer]:
+                        - /url: /BigBlueMadden
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic "BigBlueMadden":
+                                - img "BigBlueMadden"
+                      - generic [ref=f35e352]:
+                        - generic [ref=f35e365]:
+                          - generic [ref=f35e366]: Post your reply
+                          - textbox "Post text" [ref=f35e369]
+                        - button "Reply" [disabled] [ref=f35e374]
+                  - article "Jimmy Foxhound Verified account @JimmyFoxhound Oct 18 Almost looks like an action movie lol Embedded video Play Video Play GIF 2 replies, 664 likes, 14 bookmarks, 35961 views" [ref=f35e382] [cursor=pointer]:
+                    - generic [ref=f35e388]:
+                      - link [aria-hidden] [ref=f35e400]:
+                        - /url: /JimmyFoxhound
+                      - generic [ref=f35e403]:
+                        - generic [ref=f35e405]:
+                          - generic [ref=f35e408]:
+                            - link "Jimmy Foxhound Verified account" [ref=f35e411]:
+                              - /url: /JimmyFoxhound
+                              - generic [ref=f35e412]:
+                                - generic [ref=f35e413]: Jimmy Foxhound
+                                - img "Verified account" [ref=f35e417]
+                            - generic [ref=f35e421]:
+                              - link "@JimmyFoxhound" [ref=f35e423]:
+                                - /url: /JimmyFoxhound
+                              - generic [aria-hidden] [ref=f35e425]: ·
+                              - link "Oct 18" [ref=f35e427]:
+                                - /url: /JimmyFoxhound/status/2111775481951568150
+                                - time [ref=f35e428]: Oct 18
+                          - generic [ref=f35e430]:
+                            - button "Grok actions" [ref=f35e432]
+                            - button "More" [ref=f35e443]
+                        - generic [ref=f35e450]: Almost looks like an action movie lol
+                        - generic [ref=f35e468]:
+                          - generic "Embedded video" [ref=f35e471]
+                          - generic [ref=f35e472]:
+                            - generic:
+                              - button "Play Video" [ref=f35e477]
+                              - generic:
+                                - generic:
+                                  - button "Play" [ref=f35e484]
+                                  - generic: GIF
+                        - group "2 replies, 664 likes, 14 bookmarks, 35961 views" [ref=f35e491]:
+                          - button "2 Replies. Reply" [ref=f35e493]:
+                            - generic [ref=f35e494]: "2"
+                          - button "0 reposts. Repost" [ref=f35e504]
+                          - button "664 Likes. Like" [ref=f35e515]:
+                            - generic [ref=f35e516]: "664"
+                          - link "35961 views. View post analytics" [ref=f35e526]:
+                            - /url: /JimmyFoxhound/status/2111775481951568150/analytics
+                            - generic [ref=f35e527]: 35K
+                          - button "Bookmark" [ref=f35e537]
+                          - button "Share post" [ref=f35e546]
+                  - 'article "nkemjika (Kemi) Verified account @kemindolo Oct 18 Whalefall: now playing in theatre’s Image 1 reply, 56 likes, 2 bookmarks, 9047 views" [ref=f35e556] [cursor=pointer]':
+                    - generic [ref=f35e562]:
+                      - link [aria-hidden] [ref=f35e574]:
+                        - /url: /kemindolo
+                      - generic [ref=f35e577]:
+                        - generic [ref=f35e579]:
+                          - generic [ref=f35e582]:
+                            - link "nkemjika (Kemi) Verified account" [ref=f35e585]:
+                              - /url: /kemindolo
+                              - generic [ref=f35e586]:
+                                - generic [ref=f35e587]: nkemjika (Kemi)
+                                - img "Verified account" [ref=f35e591]
+                            - generic [ref=f35e595]:
+                              - link "@kemindolo" [ref=f35e597]:
+                                - /url: /kemindolo
+                              - generic [aria-hidden] [ref=f35e599]: ·
+                              - link "Oct 18" [ref=f35e601]:
+                                - /url: /kemindolo/status/2111861409898463485
+                                - time [ref=f35e602]: Oct 18
+                          - generic [ref=f35e604]:
+                            - button "Grok actions" [ref=f35e606]
+                            - button "More" [ref=f35e617]
+                        - generic [ref=f35e624]: "Whalefall: now playing in theatre’s"
+                        - link [ref=f35e633]:
+                          - /url: /kemindolo/status/2111861409898463485/photo/1
+                          - generic "Image" [ref=f35e637]:
+                            - img "Image" [ref=f35e639]
+                        - group "1 reply, 56 likes, 2 bookmarks, 9047 views" [ref=f35e642]:
+                          - button "1 Reply. Reply" [ref=f35e644]:
+                            - generic [ref=f35e645]: "1"
+                          - button "0 reposts. Repost" [ref=f35e655]
+                          - button "56 Likes. Like" [ref=f35e666]:
+                            - generic [ref=f35e667]: "56"
+                          - link "9047 views. View post analytics" [ref=f35e677]:
+                            - /url: /kemindolo/status/2111861409898463485/analytics
+                            - generic [ref=f35e678]: 9K
+                          - button "Bookmark" [ref=f35e688]
+                          - button "Share post" [ref=f35e697]
+                  - article "PaidTourist Verified account @Paid__Tourist 23 hours ago If you can dodge a whale, you can dodge a ball 3 replies, 2 reposts, 69 likes, 3419 views" [ref=f35e707] [cursor=pointer]:
+                    - generic [ref=f35e713]:
+                      - link [aria-hidden] [ref=f35e725]:
+                        - /url: /Paid__Tourist
+                      - generic [ref=f35e728]:
+                        - generic [ref=f35e730]:
+                          - generic [ref=f35e733]:
+                            - link "PaidTourist Verified account" [ref=f35e736]:
+                              - /url: /Paid__Tourist
+                              - generic [ref=f35e737]:
+                                - generic [ref=f35e738]: PaidTourist
+                                - img "Verified account" [ref=f35e742]
+                            - generic [ref=f35e746]:
+                              - link "@Paid__Tourist" [ref=f35e748]:
+                                - /url: /Paid__Tourist
+                              - generic [aria-hidden] [ref=f35e750]: ·
+                              - link "23 hours ago" [ref=f35e752]:
+                                - /url: /Paid__Tourist/status/2111893828848509404
+                                - time [ref=f35e753]: 23h
+                          - generic [ref=f35e755]:
+                            - button "Grok actions" [ref=f35e757]
+                            - button "More" [ref=f35e768]
+                        - generic [ref=f35e775]: If you can dodge a whale, you can dodge a ball
+                        - group "3 replies, 2 reposts, 69 likes, 3419 views" [ref=f35e779]:
+                          - button "3 Replies. Reply" [ref=f35e781]:
+                            - generic [ref=f35e782]: "3"
+                          - button "2 reposts. Repost" [ref=f35e792]:
+                            - generic [ref=f35e793]: "2"
+                          - button "69 Likes. Like" [ref=f35e803]:
+                            - generic [ref=f35e804]: "69"
+                          - link "3419 views. View post analytics" [ref=f35e814]:
+                            - /url: /Paid__Tourist/status/2111893828848509404/analytics
+                            - generic [ref=f35e815]: 3.4K
+                          - button "Bookmark" [ref=f35e825]
+                          - button "Share post" [ref=f35e834]
+                  - article "Business Verified account @XBusiness Reach people while they research what to buy. Launch your first campaign in X Ads Manager. x.com From x.com 91 replies, 200 reposts, 2271 likes, 109 bookmarks, 4839798 views" [ref=f35e853] [cursor=pointer]:
+                    - generic [ref=f35e859]:
+                      - link [ref=f35e871]:
+                        - /url: /XBusiness
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic "Square profile picture":
+                                - img "Square profile picture"
+                      - generic [ref=f35e874]:
+                        - generic [ref=f35e876]:
+                          - generic [ref=f35e879]:
+                            - link "Business Verified account" [ref=f35e882]:
+                              - /url: /XBusiness
+                              - generic [ref=f35e883]:
+                                - generic [ref=f35e884]: Business
+                                - generic [ref=f35e887]:
+                                  - img "Verified account" [ref=f35e888]
+                                  - link [ref=f35e894]
+                            - link "@XBusiness" [ref=f35e904]:
+                              - /url: /XBusiness
+                          - generic [ref=f35e907]:
+                            - generic [ref=f35e908]: Ad
+                            - button "More" [ref=f35e912]
+                        - generic [ref=f35e919]: Reach people while they research what to buy. Launch your first campaign in X Ads Manager.
+                        - generic [ref=f35e921]:
+                          - link "x.com" [ref=f35e924]:
+                            - /url: https://business.x.com/en/advertising?utm_source=x&utm_medium=paid&utm_campaign=Sales%20%7C%20General%20%7C%20US%20%7C%20English%20%7C%20Web&utm_content=NextCustomersAlreadyOnX_A&utm_region=us&utm_language=en&lead_source=x&twclid=261bemf2dzvysbejm517yh98lk
+                          - link "From x.com" [ref=f35e932]:
+                            - /url: https://business.x.com/en/advertising?utm_source=x&utm_medium=paid&utm_campaign=Sales%20%7C%20General%20%7C%20US%20%7C%20English%20%7C%20Web&utm_content=NextCustomersAlreadyOnX_A&utm_region=us&utm_language=en&lead_source=x&twclid=261bemf2dzvysbejm517yh98lk
+                        - group "91 replies, 200 reposts, 2271 likes, 109 bookmarks, 4839798 views" [ref=f35e935]:
+                          - button "91 Replies. Reply" [ref=f35e937]:
+                            - generic [ref=f35e938]: "91"
+                          - button "200 reposts. Repost" [ref=f35e948]:
+                            - generic [ref=f35e949]: "200"
+                          - button "2271 Likes. Like" [ref=f35e959]:
+                            - generic [ref=f35e960]: 2.2K
+                          - link "4839798 views. View post analytics" [ref=f35e970]:
+                            - /url: /XBusiness/status/2109776802260320547/analytics
+                            - generic [ref=f35e971]: 4.8M
+                          - button "Bookmark" [ref=f35e981]
+                          - button "Share post" [ref=f35e990]
+                  - article "GLOCKTOBERFEST GLOCKTOR WHO Verified account @NorCalDuckz Oct 18 Revenge for the one we blew up back in the day. 2 replies, 95 likes, 9843 views" [ref=f35e1000] [cursor=pointer]:
+                    - generic [ref=f35e1006]:
+                      - link [aria-hidden] [ref=f35e1018]:
+                        - /url: /NorCalDuckz
+                      - generic [ref=f35e1021]:
+                        - generic [ref=f35e1023]:
+                          - generic [ref=f35e1026]:
+                            - link "GLOCKTOBERFEST GLOCKTOR WHO Verified account" [ref=f35e1029]:
+                              - /url: /NorCalDuckz
+                              - generic [ref=f35e1030]:
+                                - generic [ref=f35e1031]: GLOCKTOBERFEST GLOCKTOR WHO
+                                - img "Verified account" [ref=f35e1035]
+                            - generic [ref=f35e1039]:
+                              - link "@NorCalDuckz" [ref=f35e1041]:
+                                - /url: /NorCalDuckz
+                              - generic [aria-hidden] [ref=f35e1043]: ·
+                              - link "Oct 18" [ref=f35e1045]:
+                                - /url: /NorCalDuckz/status/2111711621844468015
+                                - time [ref=f35e1046]: Oct 18
+                          - generic [ref=f35e1048]:
+                            - button "Grok actions" [ref=f35e1050]
+                            - button "More" [ref=f35e1061]
+                        - generic [ref=f35e1068]: Revenge for the one we blew up back in the day.
+                        - group "2 replies, 95 likes, 9843 views" [ref=f35e1072]:
+                          - button "2 Replies. Reply" [ref=f35e1074]:
+                            - generic [ref=f35e1075]: "2"
+                          - button "0 reposts. Repost" [ref=f35e1085]
+                          - button "95 Likes. Like" [ref=f35e1096]:
+                            - generic [ref=f35e1097]: "95"
+                          - link "9843 views. View post analytics" [ref=f35e1107]:
+                            - /url: /NorCalDuckz/status/2111711621844468015/analytics
+                            - generic [ref=f35e1108]: 9.8K
+                          - button "Bookmark" [ref=f35e1118]
+                          - button "Share post" [ref=f35e1127]
+                  - article "Bills Realist Verified account @BillsRealist Oct 18 Whew, glad she's okay 11 likes, 5874 views" [ref=f35e1137] [cursor=pointer]:
+                    - generic [ref=f35e1143]:
+                      - link [aria-hidden] [ref=f35e1155]:
+                        - /url: /BillsRealist
+                      - generic [ref=f35e1158]:
+                        - generic [ref=f35e1160]:
+                          - generic [ref=f35e1163]:
+                            - link "Bills Realist Verified account" [ref=f35e1166]:
+                              - /url: /BillsRealist
+                              - generic [ref=f35e1167]:
+                                - generic [ref=f35e1168]: Bills Realist
+                                - img "Verified account" [ref=f35e1172]
+                            - generic [ref=f35e1176]:
+                              - link "@BillsRealist" [ref=f35e1178]:
+                                - /url: /BillsRealist
+                              - generic [aria-hidden] [ref=f35e1180]: ·
+                              - link "Oct 18" [ref=f35e1182]:
+                                - /url: /BillsRealist/status/2111799132926980605
+                                - time [ref=f35e1183]: Oct 18
+                          - generic [ref=f35e1185]:
+                            - button "Grok actions" [ref=f35e1187]
+                            - button "More" [ref=f35e1198]
+                        - generic [ref=f35e1205]: Whew, glad she's okay
+                        - group "11 likes, 5874 views" [ref=f35e1209]:
+                          - button "0 Replies. Reply" [ref=f35e1211]
+                          - button "0 reposts. Repost" [ref=f35e1222]
+                          - button "11 Likes. Like" [ref=f35e1233]:
+                            - generic [ref=f35e1234]: "11"
+                          - link "5874 views. View post analytics" [ref=f35e1244]:
+                            - /url: /BillsRealist/status/2111799132926980605/analytics
+                            - generic [ref=f35e1245]: 5.8K
+                          - button "Bookmark" [ref=f35e1255]
+                          - button "Share post" [ref=f35e1264]
+                  - article [ref=f35e1274] [cursor=pointer]:
+                    - generic [ref=f35e1280]:
+                      - link [aria-hidden] [ref=f35e1292]:
+                        - /url: /zeisschoice
+                      - generic [ref=f35e1295]:
+                        - generic [ref=f35e1297]:
+                          - generic [ref=f35e1300]:
+                            - link [ref=f35e1303]:
+                              - /url: /zeisschoice
+                              - generic [ref=f35e1304]:
+                                - generic [ref=f35e1306]:
+                                  - text: zeisschoice | 八爪鱼
+                                  - img "🐙" [ref=f35e1307]
+                                - img "Verified account" [ref=f35e1310]
+                            - generic [ref=f35e1314]:
+                              - link "@zeisschoice" [ref=f35e1316]:
+                                - /url: /zeisschoice
+                              - generic [aria-hidden] [ref=f35e1318]: ·
+                              - link "13 hours ago" [ref=f35e1320]:
+                                - /url: /zeisschoice/status/2112043629305008624
+                                - time [ref=f35e1321]: 13h
+                          - generic [ref=f35e1323]:
+                            - button "Grok actions" [ref=f35e1325]
+                            - button "More" [ref=f35e1336]
+                        - generic [ref=f35e1344]:
+                          - text: 鲸鱼：我想吃人
+                          - img "🤣" [ref=f35e1345]
+                        - group "90 views" [ref=f35e1348]:
+                          - button "0 Replies. Reply" [ref=f35e1350]
+                          - button "0 reposts. Repost" [ref=f35e1361]
+                          - button "0 Likes. Like" [ref=f35e1372]
+                          - link "90 views. View post analytics" [ref=f35e1383]:
+                            - /url: /zeisschoice/status/2112043629305008624/analytics
+                            - generic [ref=f35e1384]: "90"
+                          - button "Bookmark" [ref=f35e1394]
+                          - button "Share post" [ref=f35e1403]

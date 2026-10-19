@@ -1,0 +1,197 @@
+- generic [ref=f319e1]:
+  - generic:
+    - region "Notifications alt+T"
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link "Go to TikTok For You feed":
+                - /url: /
+                - strong: TikTok
+            - generic:
+              - searchbox "Search"
+          - generic:
+            - generic:
+              - generic:
+                - link "For You":
+                  - /url: /
+                  - listitem "For You"
+              - generic:
+                - link "Shop":
+                  - /url: https://shop.tiktok.com/us
+                  - listitem "Shop"
+              - generic:
+                - link "Explore":
+                  - /url: /explore
+                  - listitem "Explore"
+              - generic:
+                - link "Following":
+                  - /url: /following
+                  - listitem "Following"
+              - generic:
+                - link "Short dramas":
+                  - /url: /shortdrama
+                  - listitem "Short dramas"
+              - generic:
+                - generic:
+                  - link "LIVE":
+                    - /url: /live
+                    - listitem "LIVE"
+              - generic:
+                - generic:
+                  - link "Upload":
+                    - /url: /tiktokstudio/upload?from=webapp&tab=video
+                    - listitem "Upload"
+              - generic:
+                - link "Profile":
+                  - /url: /@
+                  - listitem "Profile"
+              - generic:
+                - listitem "More"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - button "Log in"
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - article:
+                  - generic:
+                    - region "Watch in full screen":
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - 'img "She’s the TRUTH‼️🤯 #touchdown #girlsfootball #fypシ #12u #blur"'
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "Volume" [pressed]
+                            - generic:
+                              - generic:
+                                - button
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "backyardathleticsusa":
+                                    - /url: /@backyardathleticsusa
+                                    - generic:
+                                      - paragraph: backyardathleticsusa
+                                  - generic: · 1d ago
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic: She’s the TRUTH‼️🤯
+                                        - link "Watch more videos of the touchdown category":
+                                          - /url: /tag/touchdown
+                                          - paragraph: "#touchdown"
+                                        - link "Watch more videos of the girlsfootball category":
+                                          - /url: /tag/girlsfootball
+                                          - paragraph: "#girlsfootball"
+                                        - link "Watch more videos of the fypシ category":
+                                          - /url: /tag/fyp%E3%82%B7
+                                          - paragraph: "#fypシ"
+                                        - link "Watch more videos of the 12u category":
+                                          - /url: /tag/12u
+                                          - paragraph: "#12u"
+                                        - link "Watch more videos of the blur category":
+                                          - /url: /tag/blur
+                                          - paragraph: "#blur"
+                                    - button "more"
+                        - generic:
+                          - paragraph: 00:00 / 00:11
+                          - generic:
+                            - generic:
+                              - slider "Video progress"
+                    - generic:
+                      - generic:
+                        - link "backyardathleticsusa":
+                          - /url: /@backyardathleticsusa
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img "backyardathleticsusa"
+                        - button
+                      - generic:
+                        - button "Like video 86.7K likes":
+                          - generic:
+                            - generic:
+                              - button
+                          - strong: 86.7K
+                      - button "Read or add comments 1420 comments":
+                        - generic:
+                          - generic:
+                            - button
+                        - strong: "1420"
+                      - generic:
+                        - generic:
+                          - button "Add to Favorites. 5195 added to Favorites":
+                            - generic:
+                              - generic:
+                                - button
+                            - strong: "5195"
+                      - generic:
+                        - button "Share video 4729 shares":
+                          - generic:
+                            - generic:
+                              - button
+                          - strong: "4729"
+                      - link "Watch more videos with music Painting - Chuckyy":
+                        - /url: /music/Painting-7429432322469169153
+              - complementary
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - button "Comments"
+                        - generic:
+                          - generic:
+                            - button "You may like"
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - button "Log in"
+  - dialog [ref=f319e6]:
+    - generic [ref=f319e7]:
+      - generic [ref=f319e8]:
+        - heading "Captions" [level=2] [ref=f319e9]
+        - button "Close_button" [active] [ref=f319e10] [cursor=pointer]
+      - generic [ref=f319e13]:
+        - generic [ref=f319e15]:
+          - generic [ref=f319e16]:
+            - generic [ref=f319e17]: Show captions (unavailable)
+            - generic [ref=f319e18]: Speech not recognized
+          - switch [disabled] [ref=f319e22]
+        - generic [ref=f319e23]:
+          - generic [ref=f319e24]:
+            - generic [ref=f319e25]: Always translate posts
+            - switch [ref=f319e30] [cursor=pointer]
+          - generic [ref=f319e31]: Descriptions and captions will be translated, except for languages you've excluded.
+        - button "Do not translate Select language" [ref=f319e33] [cursor=pointer]:
+          - generic [ref=f319e34]: Do not translate
+          - generic [ref=f319e35]: Select language
+        - button "Translate into English" [ref=f319e40] [cursor=pointer]:
+          - generic [ref=f319e41]: Translate into
+          - generic [ref=f319e42]: English

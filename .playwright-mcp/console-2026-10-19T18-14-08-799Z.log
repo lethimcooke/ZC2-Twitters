@@ -1,0 +1,1 @@
+[     432ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://x.com/NBA/status/2111532698447778170:0

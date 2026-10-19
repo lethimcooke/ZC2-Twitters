@@ -1,0 +1,468 @@
+- generic [ref=f678e11]:
+  - generic [ref=f678e13]:
+    - link [ref=f678e16] [cursor=pointer]:
+      - /url: /
+      - img "Instagram" [ref=f678e19]
+    - generic [ref=f678e30]:
+      - link "Log In" [ref=f678e32] [cursor=pointer]:
+        - /url: /accounts/login/?next=%2Freel%2FDelYcQjxaei%2F&source=desktop_nav
+      - link "Sign Up" [ref=f678e34] [cursor=pointer]:
+        - /url: /accounts/emailsignup/
+  - main [ref=f678e35]:
+    - dialog [ref=f678e40]:
+      - generic [ref=f678e41]:
+        - button [ref=f678e43] [cursor=pointer]:
+          - img "Close" [ref=f678e45]
+        - generic [ref=f678e49]:
+          - generic [ref=f678e50]:
+            - link [ref=f678e52] [cursor=pointer]:
+              - img "pflmma's profile picture" [ref=f678e53]
+            - generic [ref=f678e55]:
+              - generic [ref=f678e56]: Never miss a post from pflmma
+              - generic [ref=f678e57]: Sign up for Instagram to stay in the loop.
+          - generic [ref=f678e59]:
+            - link "Sign up" [ref=f678e62] [cursor=pointer]:
+              - /url: /accounts/emailsignup/
+            - link "Log in" [ref=f678e65] [cursor=pointer]:
+              - /url: /accounts/login/?source=desktop_dynamic_landing_dialog
+    - generic [ref=f678e66]:
+      - generic [ref=f678e68]:
+        - img "Video by Professional Fighters League on October 16, 2026. May be an image of text." [ref=f678e76]
+        - generic [ref=f678e79]:
+          - generic [ref=f678e81]:
+            - generic [ref=f678e83]:
+              - link [ref=f678e84]:
+                - img "dakotaditcheva's profile picture" [ref=f678e85]
+              - link [ref=f678e88]:
+                - img "pflmma's profile picture" [ref=f678e89]
+            - generic [ref=f678e91]:
+              - generic [ref=f678e93]:
+                - link "pflmma" [ref=f678e94] [cursor=pointer]:
+                  - /url: /pflmma/
+                - text: and
+                - link "2 others" [ref=f678e99] [cursor=pointer]:
+                  - /url: "#"
+              - link "Original audio" [ref=f678e104] [cursor=pointer]:
+                - /url: /reels/audio/28517779957886188/
+            - button [ref=f678e110] [cursor=pointer]:
+              - img "More options" [ref=f678e113]
+          - separator [ref=f678e117]
+          - generic [ref=f678e119]:
+            - generic [ref=f678e121]:
+              - link [ref=f678e123] [cursor=pointer]:
+                - /url: /pflmma/
+                - img "pflmma's profile picture" [ref=f678e124]
+              - generic [ref=f678e128]:
+                - generic [ref=f678e129]:
+                  - link "pflmma Verified" [ref=f678e130] [cursor=pointer]:
+                    - /url: /pflmma/
+                    - generic [ref=f678e132]:
+                      - generic [ref=f678e133]: pflmma
+                      - img "Verified" [ref=f678e135]
+                  - time [ref=f678e138]: 2d
+                - generic [ref=f678e139]:
+                  - text: Well well what do we have here 👀Jena Bishop and Dakota Ditcheva after Bishop’s win to become the PFL Women’s Flyweight World Champion
+                  - link "#PFLChicago" [ref=f678e140] [cursor=pointer]:
+                    - /url: /explore/tags/pflchicago/
+            - button [ref=f678e142] [cursor=pointer]:
+              - img "Load more comments" [ref=f678e144]
+            - generic [ref=f678e146]:
+              - generic [ref=f678e149]:
+                - link [ref=f678e151] [cursor=pointer]:
+                  - /url: /seanmorrison.uksecuritydirect/
+                  - img "seanmorrison.uksecuritydirect's profile picture" [ref=f678e152]
+                - generic [ref=f678e154]:
+                  - generic [ref=f678e156]:
+                    - generic [ref=f678e157]:
+                      - link "seanmorrison.uksecuritydirect" [ref=f678e159] [cursor=pointer]:
+                        - /url: /seanmorrison.uksecuritydirect/
+                      - link [ref=f678e164] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/17902018548602549/
+                        - time [ref=f678e165]: 3h
+                    - generic [ref=f678e166]: Love Dakota have every faith in her I respect her humbleness
+                  - generic [ref=f678e168]:
+                    - button "Like" [ref=f678e169] [cursor=pointer]
+                    - button "Reply" [ref=f678e171] [cursor=pointer]
+              - generic [ref=f678e176]:
+                - link [ref=f678e178] [cursor=pointer]:
+                  - /url: /yesseurdcl/
+                  - img "yesseurdcl's profile picture" [ref=f678e179]
+                - generic [ref=f678e181]:
+                  - generic [ref=f678e183]:
+                    - generic [ref=f678e184]:
+                      - link "yesseurdcl" [ref=f678e186] [cursor=pointer]:
+                        - /url: /yesseurdcl/
+                      - link [ref=f678e191] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/17885113086512464/
+                        - time [ref=f678e192]: 7h
+                    - generic [ref=f678e193]: Jena bishop✊️✊️✊️✊️✊️
+                  - generic [ref=f678e195]:
+                    - button "Like" [ref=f678e196] [cursor=pointer]
+                    - button "Reply" [ref=f678e198] [cursor=pointer]
+              - generic [ref=f678e203]:
+                - link [ref=f678e205] [cursor=pointer]:
+                  - /url: /robtramell/
+                  - img "robtramell's profile picture" [ref=f678e206]
+                - generic [ref=f678e208]:
+                  - generic [ref=f678e210]:
+                    - generic [ref=f678e211]:
+                      - link "robtramell" [ref=f678e213] [cursor=pointer]:
+                        - /url: /robtramell/
+                      - link [ref=f678e218] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/18170506765421444/
+                        - time [ref=f678e219]: 8h
+                    - generic [ref=f678e220]: Polished champ
+                  - generic [ref=f678e222]:
+                    - button "Like" [ref=f678e223] [cursor=pointer]
+                    - button "Reply" [ref=f678e225] [cursor=pointer]
+              - generic [ref=f678e230]:
+                - link [ref=f678e232] [cursor=pointer]:
+                  - /url: /masklessfrenchies/
+                  - img "masklessfrenchies's profile picture" [ref=f678e233]
+                - generic [ref=f678e235]:
+                  - generic [ref=f678e237]:
+                    - generic [ref=f678e238]:
+                      - link "masklessfrenchies" [ref=f678e240] [cursor=pointer]:
+                        - /url: /masklessfrenchies/
+                      - link [ref=f678e245] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/18140898661711858/
+                        - time [ref=f678e246]: 8h
+                    - generic [ref=f678e247]: She's not playing with no little girl now....
+                  - generic [ref=f678e249]:
+                    - button "Like" [ref=f678e250] [cursor=pointer]
+                    - button "Reply" [ref=f678e252] [cursor=pointer]
+              - generic [ref=f678e257]:
+                - link [ref=f678e259] [cursor=pointer]:
+                  - /url: /michaelburge7/
+                  - img "michaelburge7's profile picture" [ref=f678e260]
+                - generic [ref=f678e262]:
+                  - generic [ref=f678e264]:
+                    - generic [ref=f678e265]:
+                      - link "michaelburge7" [ref=f678e267] [cursor=pointer]:
+                        - /url: /michaelburge7/
+                      - link [ref=f678e272] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/18018509429957960/
+                        - time [ref=f678e273]: 14h
+                    - generic [ref=f678e274]: DD's got a Wimp-Handshake
+                  - generic [ref=f678e276]:
+                    - button "Like" [ref=f678e277] [cursor=pointer]
+                    - button "Reply" [ref=f678e279] [cursor=pointer]
+              - generic [ref=f678e284]:
+                - link [ref=f678e286] [cursor=pointer]:
+                  - /url: /jeffinyoureye/
+                  - img "jeffinyoureye's profile picture" [ref=f678e287]
+                - generic [ref=f678e289]:
+                  - generic [ref=f678e291]:
+                    - generic [ref=f678e292]:
+                      - link "jeffinyoureye" [ref=f678e294] [cursor=pointer]:
+                        - /url: /jeffinyoureye/
+                      - link [ref=f678e299] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/17977608692936653/
+                        - time [ref=f678e300]: 15h
+                    - generic [ref=f678e301]: Go to the UFC and see what you got.
+                  - generic [ref=f678e303]:
+                    - button "Like" [ref=f678e304] [cursor=pointer]
+                    - button "Reply" [ref=f678e306] [cursor=pointer]
+              - generic [ref=f678e311]:
+                - link [ref=f678e313] [cursor=pointer]:
+                  - /url: /juniedp/
+                  - img "juniedp's profile picture" [ref=f678e314]
+                - generic [ref=f678e316]:
+                  - generic [ref=f678e318]:
+                    - generic [ref=f678e319]:
+                      - link "juniedp" [ref=f678e321] [cursor=pointer]:
+                        - /url: /juniedp/
+                      - link [ref=f678e326] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/17936514693143767/
+                        - time [ref=f678e327]: 15h
+                    - generic [ref=f678e328]: Did Dakota move up a weight class? She looks jacked! 🔥
+                  - generic [ref=f678e330]:
+                    - button "Like" [ref=f678e331] [cursor=pointer]
+                    - button "Reply" [ref=f678e333] [cursor=pointer]
+              - generic [ref=f678e338]:
+                - link [ref=f678e340] [cursor=pointer]:
+                  - /url: /damonmarcus33/
+                  - img "damonmarcus33's profile picture" [ref=f678e341]
+                - generic [ref=f678e343]:
+                  - generic [ref=f678e345]:
+                    - generic [ref=f678e346]:
+                      - link "damonmarcus33" [ref=f678e348] [cursor=pointer]:
+                        - /url: /damonmarcus33/
+                      - link [ref=f678e353] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/18121634641820153/
+                        - time [ref=f678e354]: 16h
+                    - generic [ref=f678e355]: Who vs Who
+                  - generic [ref=f678e357]:
+                    - button "Like" [ref=f678e358] [cursor=pointer]
+                    - button "Reply" [ref=f678e360] [cursor=pointer]
+              - generic [ref=f678e365]:
+                - link [ref=f678e367] [cursor=pointer]:
+                  - /url: /cosgrovekendal/
+                  - img "cosgrovekendal's profile picture" [ref=f678e368]
+                - generic [ref=f678e370]:
+                  - generic [ref=f678e372]:
+                    - generic [ref=f678e373]:
+                      - link "cosgrovekendal" [ref=f678e375] [cursor=pointer]:
+                        - /url: /cosgrovekendal/
+                      - link [ref=f678e380] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/17948419476068320/
+                        - time [ref=f678e381]: 17h
+                    - generic [ref=f678e382]: Bishop is gonna get knocked out AGAIN
+                  - generic [ref=f678e384]:
+                    - button "Like" [ref=f678e385] [cursor=pointer]
+                    - button "Reply" [ref=f678e387] [cursor=pointer]
+              - generic [ref=f678e392]:
+                - link [ref=f678e394] [cursor=pointer]:
+                  - /url: /w_walk20/
+                  - img "w_walk20's profile picture" [ref=f678e395]
+                - generic [ref=f678e397]:
+                  - generic [ref=f678e399]:
+                    - generic [ref=f678e400]:
+                      - link "w_walk20" [ref=f678e402] [cursor=pointer]:
+                        - /url: /w_walk20/
+                      - link [ref=f678e407] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/17954596422270553/
+                        - time [ref=f678e408]: 19h
+                    - generic [ref=f678e409]: Dakota to long, Silva vs Leben
+                  - generic [ref=f678e411]:
+                    - button "Like" [ref=f678e412] [cursor=pointer]
+                    - button "Reply" [ref=f678e414] [cursor=pointer]
+              - generic [ref=f678e419]:
+                - link [ref=f678e421] [cursor=pointer]:
+                  - /url: /hambojbo92/
+                  - img "hambojbo92's profile picture" [ref=f678e422]
+                - generic [ref=f678e424]:
+                  - generic [ref=f678e426]:
+                    - generic [ref=f678e427]:
+                      - link "hambojbo92" [ref=f678e429] [cursor=pointer]:
+                        - /url: /hambojbo92/
+                      - link [ref=f678e434] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/18429793216146581/
+                        - time [ref=f678e435]: 21h
+                    - generic [ref=f678e436]: Dakota would dominate the men’s division aswel she’s a diffrent kinda level 🙌 champ
+                  - generic [ref=f678e438]:
+                    - button "1 like" [ref=f678e439] [cursor=pointer]
+                    - button "Reply" [ref=f678e442] [cursor=pointer]
+              - generic [ref=f678e447]:
+                - link [ref=f678e449] [cursor=pointer]:
+                  - /url: /gustavo_gattuso/
+                  - img "gustavo_gattuso's profile picture" [ref=f678e450]
+                - generic [ref=f678e452]:
+                  - generic [ref=f678e454]:
+                    - generic [ref=f678e455]:
+                      - link "gustavo_gattuso" [ref=f678e457] [cursor=pointer]:
+                        - /url: /gustavo_gattuso/
+                      - link [ref=f678e462] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/17899869747394133/
+                        - time [ref=f678e463]: 21h
+                    - generic [ref=f678e464]: La siguiente víctima.....
+                  - generic [ref=f678e466]:
+                    - button "Like" [ref=f678e467] [cursor=pointer]
+                    - button "Reply" [ref=f678e469] [cursor=pointer]
+              - generic [ref=f678e474]:
+                - link [ref=f678e476] [cursor=pointer]:
+                  - /url: /fueltank73/
+                  - img "fueltank73's profile picture" [ref=f678e477]
+                - generic [ref=f678e479]:
+                  - generic [ref=f678e481]:
+                    - generic [ref=f678e482]:
+                      - link "fueltank73" [ref=f678e484] [cursor=pointer]:
+                        - /url: /fueltank73/
+                      - link [ref=f678e489] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/17956325238254509/
+                        - time [ref=f678e490]: 23h
+                    - generic [ref=f678e491]: Don’t beat her up to badly Dakota but win at all costs
+                  - generic [ref=f678e493]:
+                    - button "Like" [ref=f678e494] [cursor=pointer]
+                    - button "Reply" [ref=f678e496] [cursor=pointer]
+              - generic [ref=f678e501]:
+                - link [ref=f678e503] [cursor=pointer]:
+                  - /url: /igooods72/
+                  - img "igooods72's profile picture" [ref=f678e504]
+                - generic [ref=f678e506]:
+                  - generic [ref=f678e508]:
+                    - generic [ref=f678e509]:
+                      - link "igooods72" [ref=f678e511] [cursor=pointer]:
+                        - /url: /igooods72/
+                      - link [ref=f678e516] [cursor=pointer]:
+                        - /url: /p/DelYcQjxaei/c/18117252572026707/
+                        - time [ref=f678e517]: 23h
+                    - generic [ref=f678e518]: Dakota Ditcheva 🔥🔥🔥👍👍👍
+                  - generic [ref=f678e520]:
+                    - button "Like" [ref=f678e521] [cursor=pointer]
+                    - button "Reply" [ref=f678e523] [cursor=pointer]
+              - progressbar [ref=f678e528]:
+                - img "Loading..." [ref=f678e529]
+          - generic [ref=f678e542]:
+            - generic [ref=f678e543]:
+              - generic [ref=f678e544]:
+                - button [ref=f678e547] [cursor=pointer]:
+                  - img "Like" [ref=f678e550]
+                - button "19.4K" [ref=f678e552] [cursor=pointer]
+                - button [ref=f678e554] [cursor=pointer]:
+                  - img "Comment" [ref=f678e556]
+                - button "408" [ref=f678e558] [cursor=pointer]
+                - button [ref=f678e559] [cursor=pointer]:
+                  - img "Share" [ref=f678e560]
+              - button [ref=f678e564] [cursor=pointer]:
+                - img "Save" [ref=f678e566]
+            - link [ref=f678e570] [cursor=pointer]:
+              - /url: /pflmma/reel/DelYcQjxaei/
+              - time [ref=f678e572]: 2 days ago
+          - generic [ref=f678e577]:
+            - link "Log in" [ref=f678e578] [cursor=pointer]:
+              - /url: /accounts/login/?next=%2Freel%2FDelYcQjxaei%2F&source=post_comment_input
+            - text: to like or comment.
+      - separator [ref=f678e580]
+      - generic [ref=f678e581]:
+        - generic [ref=f678e583]:
+          - text: More posts from
+          - link "pflmma" [ref=f678e584] [cursor=pointer]:
+            - /url: /pflmma/
+        - generic [ref=f678e587]:
+          - generic [ref=f678e588]:
+            - link [ref=f678e590] [cursor=pointer]:
+              - /url: /mostvaluablepromotions/p/Dcdlk3GRbC0/
+            - link [ref=f678e595] [cursor=pointer]:
+              - /url: /pflmma/p/Dc-oG1yCvnE/
+            - link [ref=f678e600] [cursor=pointer]:
+              - /url: /pflmma/p/DdEA9ZVi3sM/
+          - generic [ref=f678e604]:
+            - link "Carousel" [ref=f678e606] [cursor=pointer]:
+              - /url: /pflmma/p/Der1yOriUI-/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link "Clip" [ref=f678e611] [cursor=pointer]:
+              - /url: /pflmma/reel/DerksDAR-Xu/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clip"
+            - link "Clip" [ref=f678e616] [cursor=pointer]:
+              - /url: /mostvaluablepromotions/reel/DerjGrwRMS9/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clip"
+          - generic [ref=f678e620]:
+            - link "Carousel" [ref=f678e622] [cursor=pointer]:
+              - /url: /fujisportsus/p/DerXSDrFyLd/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+            - link "Clip" [ref=f678e627] [cursor=pointer]:
+              - /url: /mostvaluablepromotions/reel/Depd3BExxnH/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Clip"
+            - link "Carousel" [ref=f678e632] [cursor=pointer]:
+              - /url: /pflmma/p/DepZKMiCbDb/
+              - generic:
+                - generic:
+                  - generic:
+                    - img "Carousel"
+        - generic [ref=f678e636]:
+          - link "See more posts" [ref=f678e638] [cursor=pointer]:
+            - /url: /pflmma/
+          - separator [ref=f678e640]
+  - contentinfo [ref=f678e641]:
+    - generic [ref=f678e642]:
+      - generic [ref=f678e644]:
+        - link "Meta" [ref=f678e646] [cursor=pointer]:
+          - /url: https://about.meta.com/
+        - link "About" [ref=f678e649] [cursor=pointer]:
+          - /url: https://about.instagram.com/
+        - link "Blog" [ref=f678e652] [cursor=pointer]:
+          - /url: https://about.instagram.com/blog/
+        - link "Jobs" [ref=f678e655] [cursor=pointer]:
+          - /url: https://about.instagram.com/about-us/careers
+        - link "Help" [ref=f678e658] [cursor=pointer]:
+          - /url: https://help.instagram.com/
+        - link "API" [ref=f678e661] [cursor=pointer]:
+          - /url: https://developers.facebook.com/docs/instagram
+        - link "Privacy" [ref=f678e664] [cursor=pointer]:
+          - /url: /legal/privacy/
+        - link "Consumer Health Privacy" [ref=f678e667] [cursor=pointer]:
+          - /url: /legal/privacy/health_privacy_policy/
+        - link "Terms" [ref=f678e670] [cursor=pointer]:
+          - /url: /legal/terms/
+        - link "Locations" [ref=f678e673] [cursor=pointer]:
+          - /url: /explore/locations/
+        - link "Popular" [ref=f678e676] [cursor=pointer]:
+          - /url: /popular/
+        - link "Instagram Lite" [ref=f678e679] [cursor=pointer]:
+          - /url: /web/lite/
+        - link "Meta AI" [ref=f678e682] [cursor=pointer]:
+          - /url: https://www.meta.ai/?utm_source=foa_web_footer
+        - link "Muse" [ref=f678e685] [cursor=pointer]:
+          - /url: https://muse.ai/
+        - link "Threads" [ref=f678e688] [cursor=pointer]:
+          - /url: https://www.threads.com/
+        - link "Contact Uploading & Non-Users" [ref=f678e691] [cursor=pointer]:
+          - /url: https://www.facebook.com/help/instagram/261704639352628
+        - link "Meta Verified" [ref=f678e694] [cursor=pointer]:
+          - /url: /accounts/meta_verified/?entrypoint=web_footer
+      - generic [ref=f678e696]:
+        - generic [ref=f678e697] [cursor=pointer]:
+          - generic [ref=f678e698]:
+            - generic [ref=f678e699]: English
+            - img "Down chevron icon" [ref=f678e702]
+          - combobox "Switch Display Language" [ref=f678e704]:
+            - option "Afrikaans"
+            - option "العربية"
+            - option "Čeština"
+            - option "Dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English" [selected]
+            - option "English (UK)"
+            - option "Español (España)"
+            - option "Español"
+            - option "فارسی"
+            - option "Suomi"
+            - option "Français"
+            - option "עברית"
+            - option "Bahasa Indonesia"
+            - option "Italiano"
+            - option "日本語"
+            - option "한국어"
+            - option "Bahasa Melayu"
+            - option "Norsk"
+            - option "Nederlands"
+            - option "Polski"
+            - option "Português (Brasil)"
+            - option "Português (Portugal)"
+            - option "Русский"
+            - option "Svenska"
+            - option "ภาษาไทย"
+            - option "Filipino"
+            - option "Türkçe"
+            - option "中文(简体)"
+            - option "中文(台灣)"
+            - option "বাংলা"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "Hrvatski"
+            - option "Magyar"
+            - option "ಕನ್ನಡ"
+            - option "മലയാളം"
+            - option "मराठी"
+            - option "नेपाली"
+            - option "ਪੰਜਾਬੀ"
+            - option "සිංහල"
+            - option "Slovenčina"
+            - option "தமிழ்"
+            - option "తెలుగు"
+            - option "اردو"
+            - option "Tiếng Việt"
+            - option "中文(香港)"
+            - option "Български"
+            - option "Français (Canada)"
+            - option "Română"
+            - option "Српски"
+            - option "Українська"
+        - generic [ref=f678e705]: © 2026 Instagram from Meta

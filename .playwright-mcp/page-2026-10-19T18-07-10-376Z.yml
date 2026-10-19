@@ -1,0 +1,200 @@
+- generic [ref=f121e1]:
+  - generic:
+    - region "Notifications alt+T"
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link "Go to TikTok For You feed":
+                - /url: /
+                - strong: TikTok
+            - generic:
+              - searchbox "Search"
+          - generic:
+            - generic:
+              - generic:
+                - link "For You":
+                  - /url: /
+                  - listitem "For You"
+              - generic:
+                - link "Shop":
+                  - /url: https://shop.tiktok.com/us
+                  - listitem "Shop"
+              - generic:
+                - link "Explore":
+                  - /url: /explore
+                  - listitem "Explore"
+              - generic:
+                - link "Following":
+                  - /url: /following
+                  - listitem "Following"
+              - generic:
+                - link "Short dramas":
+                  - /url: /shortdrama
+                  - listitem "Short dramas"
+              - generic:
+                - generic:
+                  - link "LIVE":
+                    - /url: /live
+                    - listitem "LIVE"
+              - generic:
+                - generic:
+                  - link "Upload":
+                    - /url: /tiktokstudio/upload?from=webapp&tab=video
+                    - listitem "Upload"
+              - generic:
+                - link "Profile":
+                  - /url: /@
+                  - listitem "Profile"
+              - generic:
+                - listitem "More"
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - button "Log in"
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - article:
+                  - generic:
+                    - region "Watch in full screen":
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - 'img "Watch out! This adorable little Yorkie chased a bear up a tree in Bent Creek, N.C. Thank you to John and KC Murdoch for sharing. Submit your wildlife photos/videos: https://wlos.com/chimein #news #wildlife #bears #bear #dog #nc"'
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - button "Volume" [pressed]
+                            - generic:
+                              - generic:
+                                - button
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "WLOS News 13":
+                                    - /url: /@wlos_news_13
+                                    - generic:
+                                      - paragraph: WLOS News 13
+                                  - generic: · 2d ago
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic: "Watch out! This adorable little Yorkie chased a bear up a tree in Bent Creek, N.C. Thank you to John and KC Murdoch for sharing. Submit your wildlife photos/videos: https://wlos.com/chimein"
+                                        - link "Watch more videos of the news category":
+                                          - /url: /tag/news
+                                          - paragraph: "#news"
+                                        - link "Watch more videos of the wildlife category":
+                                          - /url: /tag/wildlife
+                                          - paragraph: "#wildlife"
+                                        - link "Watch more videos of the bears category":
+                                          - /url: /tag/bears
+                                          - paragraph: "#bears"
+                                        - link "Watch more videos of the bear category":
+                                          - /url: /tag/bear
+                                          - paragraph: "#bear"
+                                        - link "Watch more videos of the dog category":
+                                          - /url: /tag/dog
+                                          - paragraph: "#dog"
+                                        - link "Watch more videos of the nc category":
+                                          - /url: /tag/nc
+                                          - paragraph: "#nc"
+                                    - button "more"
+                        - generic:
+                          - paragraph: 00:00 / 00:24
+                          - generic:
+                            - generic:
+                              - slider "Video progress"
+                    - generic:
+                      - generic:
+                        - link "wlos_news_13":
+                          - /url: /@wlos_news_13
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img "wlos_news_13"
+                        - button
+                      - generic:
+                        - button "Like video 125.8K likes":
+                          - generic:
+                            - generic:
+                              - button
+                          - strong: 125.8K
+                      - button "Read or add comments 6899 comments":
+                        - generic:
+                          - generic:
+                            - button
+                        - strong: "6899"
+                      - generic:
+                        - generic:
+                          - button "Add to Favorites. 7676 added to Favorites":
+                            - generic:
+                              - generic:
+                                - button
+                            - strong: "7676"
+                      - generic:
+                        - button "Share video 49.2K shares":
+                          - generic:
+                            - generic:
+                              - button
+                          - strong: 49.2K
+                      - link "Watch more videos with music original sound - WLOS News 13":
+                        - /url: /music/original-sound-7697329765199497997
+              - complementary
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - button "Comments"
+                        - generic:
+                          - generic:
+                            - button "You may like"
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - generic:
+                - button
+            - generic:
+              - button "Log in"
+  - dialog [ref=f121e6]:
+    - generic [ref=f121e7]:
+      - generic [ref=f121e8]:
+        - heading "Captions" [level=2] [ref=f121e9]
+        - button "Close_button" [active] [ref=f121e10] [cursor=pointer]
+      - generic [ref=f121e13]:
+        - generic [ref=f121e15]:
+          - generic [ref=f121e16]:
+            - generic [ref=f121e17]: Show captions (unavailable)
+            - generic [ref=f121e18]: Speech not recognized
+          - switch [disabled] [ref=f121e22]
+        - generic [ref=f121e23]:
+          - generic [ref=f121e24]:
+            - generic [ref=f121e25]: Always translate posts
+            - switch [ref=f121e30] [cursor=pointer]
+          - generic [ref=f121e31]: Descriptions and captions will be translated, except for languages you've excluded.
+        - button "Do not translate Select language" [ref=f121e33] [cursor=pointer]:
+          - generic [ref=f121e34]: Do not translate
+          - generic [ref=f121e35]: Select language
+        - button "Translate into English" [ref=f121e40] [cursor=pointer]:
+          - generic [ref=f121e41]: Translate into
+          - generic [ref=f121e42]: English
