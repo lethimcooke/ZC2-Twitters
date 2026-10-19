@@ -1,1 +1,9 @@
 [     384ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://x.com/MLFootball/status/2111960771613585687:0
+[ 2546620ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://api.x.com/live_pipeline/events?topic=%2Ftweet_engagement%2F2111960771613585687:0
+[ 2602394ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.x.com/1.1/live_pipeline/update_subscriptions:0
+[ 5303713ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.x.com/1.1/live_pipeline/update_subscriptions:0
+[ 8004870ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.x.com/1.1/live_pipeline/update_subscriptions:0
+[10706027ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.x.com/1.1/live_pipeline/update_subscriptions:0
+[11460302ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://api.x.com/live_pipeline/events?topic=%2Ftweet_engagement%2F2111960771613585687,%2Ftweet_engagement%2F2111982682523496717,%2Ftweet_engagement%2F2112011535556243893,%2Ftweet_engagement%2F2112064665085731309,%2Ftweet_engagement%2F2104723943936704666,%2Ftweet_engagement%2F2112011343897276591,%2Ftweet_engagement%2F2112075990562427157,%2Ftweet_engagement%2F2111966430375591942:0
+[12507167ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.x.com/1.1/live_pipeline/update_subscriptions:0
+[15208319ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://api.x.com/1.1/live_pipeline/update_subscriptions:0

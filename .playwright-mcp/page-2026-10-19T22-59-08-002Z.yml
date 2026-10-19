@@ -1,0 +1,4 @@
+- generic [ref=f40e3]:
+  - banner [ref=f40e4]
+  - main [ref=f40e5]:
+    - progressbar "Loading" [ref=f40e8]
