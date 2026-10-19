@@ -1,0 +1,75 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=e3]:
+        - generic [ref=e4]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=e5] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic [ref=e6]:
+        - button "Skip to home timeline" [ref=e7] [cursor=pointer]
+        - button "Skip to trending" [ref=e9] [cursor=pointer]
+        - banner [ref=e11]:
+          - generic [ref=e13]:
+            - generic [ref=e14]:
+              - heading [level=1] [ref=e16] [cursor=pointer]:
+                - link "X" [ref=e17]:
+                  - /url: /home
+              - navigation "Primary" [ref=e23]:
+                - link "Home" [ref=e24] [cursor=pointer]:
+                  - /url: /home
+                - link "Search and explore" [ref=e30] [cursor=pointer]:
+                  - /url: /explore
+                - link "Notifications" [ref=e36] [cursor=pointer]:
+                  - /url: /notifications
+                - link "Follow" [ref=e42] [cursor=pointer]:
+                  - /url: /i/connect_people
+                - link "Direct Messages" [ref=e48] [cursor=pointer]:
+                  - /url: /i/chat
+                - link "Calls" [ref=e54] [cursor=pointer]:
+                  - /url: /i/calls
+                - link "Grok" [ref=e60] [cursor=pointer]:
+                  - /url: /i/grok
+                  - generic "undefined unread items" [ref=e66]
+                - link "History" [ref=e67] [cursor=pointer]:
+                  - /url: /i/history
+                - link "Premium" [ref=e73] [cursor=pointer]:
+                  - /url: /i/premium_sign_up
+                - link "Profile" [ref=e79] [cursor=pointer]:
+                  - /url: /BigBlueMadden
+                - button "More menu items" [ref=e85] [cursor=pointer]
+              - link "Post" [ref=e92] [cursor=pointer]:
+                - /url: /compose/post
+            - button "Account menu" [ref=e100] [cursor=pointer]:
+              - generic [ref=e108]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "BigBlueMadden":
+                        - img "BigBlueMadden"
+        - main [ref=e111]:
+          - generic "Home timeline" [ref=e116]:
+            - generic [ref=e117]:
+              - generic [ref=e118]:
+                - generic [ref=e123]:
+                  - button "Back" [ref=e125] [cursor=pointer]
+                  - search "Search" [ref=e135]:
+                    - combobox "Search query" [ref=e147]: (NBA OR NFL OR MLB OR NHL OR UFC OR soccer OR football OR basketball OR baseball) filter:native_video min_faves:3000 within_time:24h lang:en -trump -biden -harris -vance -election -congress -senate -democrat -republican -war -military -army -soldier -missile -drone -israel -gaza -ukraine -russia -iran -police -arrest -protest -breaking
+                  - button "More" [ref=e149] [cursor=pointer]
+                - navigation [ref=e155]:
+                  - generic [ref=e156]:
+                    - generic:
+                      - button "Previous" [disabled]
+                    - tablist [ref=e158]:
+                      - tab "Top" [selected] [ref=e159] [cursor=pointer]
+                      - tab "Latest" [ref=e164] [cursor=pointer]
+                      - tab "People" [ref=e168] [cursor=pointer]
+                      - tab "Media" [ref=e172] [cursor=pointer]
+                      - tab "Lists" [ref=e176] [cursor=pointer]
+                    - generic:
+                      - button "Next" [disabled]
+              - generic:
+                - generic:
+                  - status:
+                    - button [aria-hidden]:
+                      - generic: See new posts
+            - progressbar "Loading timeline" [ref=e182]

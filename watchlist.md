@@ -8,7 +8,7 @@ Every query ends with the exclusion list below. Always keep it on; it stops poli
 
 Exclusion list (add new words when off-niche clips keep showing up):
 ```
--trump -biden -harris -vance -election -congress -senate -democrat -republican -war -military -army -soldier -missile -drone -israel -gaza -ukraine -russia -iran -police -arrest -protest -breaking
+-trump -biden -harris -vance -election -congress -senate -democrat -republican -war -military -army -soldier -missile -drone -israel -gaza -ukraine -russia -iran -police -arrest -protest -breaking -riot -riots -looting -gunpoint -joongdunk
 ```
 
 ### Sports
@@ -34,7 +34,7 @@ Exclusion list (add new words when off-niche clips keep showing up):
 @NBA @NFL @MLB @NHL @ufc @FOXSports @CBSSports @TheAthletic @FearedBuck
 
 ## General viral / repost accounts
-@DailyLoud @PopBase @Dexerto @OnlyBangers @crazyclips_ @FightHaven
+@DailyLoud @PopBase @Dexerto @OnlyBangers @crazyclips_
 
 ## vidIQ searches
 Run an outlier search on TikTok and Instagram for: sports highlights, crazy catch, basketball, football,
