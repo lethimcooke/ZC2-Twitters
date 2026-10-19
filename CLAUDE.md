@@ -16,11 +16,32 @@ We don't need to be first with news. We need clips that make people stop scrolli
 - `posted.md`: every clip we've posted. Check it before suggesting anything so we never repost a clip.
 - `slates/YYYY-MM-DD.md`: each day's shortlist, captions and reply drafts.
 
+## Niche check (run on every candidate before it goes on a shortlist)
+A clip is in the niche only if it's one of these:
+- **Sports**: games, highlights, athletes, fans, stadiums, youth/high school/college, extreme and action sports, trick shots.
+- **Viral physical/skill moments**: stunts, near misses, fails, impressive skills, crowd moments.
+- **Feel-good or funny** clips that aren't about news.
+
+Reject it, whatever its numbers, if it's:
+- politics, politicians, elections or political memes
+- war, military, police, crime, protests or breaking news
+- graphic injuries, blood, fights outside a sport, or mocking someone who's hurt
+- celebrity gossip with no sports or skill angle, ads, giveaways, or AI-generated clips.
+
+Before suggesting a clip, look at the video itself (open the post and check the thumbnail/first frames), not just the post text.
+If you're unsure which bucket it's in, leave it out.
+
+## Finding the original creator
+- Big repost accounts (e.g. @HaterReport, @DailyLoud, @PopBase, @OnlyBangers, @crazyclips_) are where we *find* clips, not who we credit.
+- Look for the original: a watermark or handle on the video, "🎥:" or "via" in the post or replies, or the earliest post of the same clip.
+- Credit the original creator: `🎥: @creator`. If you can't find them, mark the clip "creator unknown" in the shortlist
+  and rank it lower; if it's used, credit the account we found it on: `via @account`.
+
 ## Rules for picking clips
 - Prefer clips from the last 24–48 hours with high engagement for their account size (an outlier for that account, not just a big account).
 - 5–60 seconds, understandable with the sound off, the payoff in the first 3 seconds.
 - Mix: about 6 sports, 4 general viral. No more than 2 from one creator or one sport per day.
-- Skip anything graphic, anything that mocks someone who's clearly hurt, and anything already all over the timeline for 2+ days.
+- Skip anything already all over the timeline for 2+ days.
 - Always record the original creator's handle and link. Keep the creator's original watermark on the video.
 
 ## Caption style
