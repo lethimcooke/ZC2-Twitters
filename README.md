@@ -14,7 +14,7 @@ The daily workflow for running @sidelinesync with Claude Code.
 One-time for `/prep`: `winget install yt-dlp` and `winget install Gyan.FFmpeg`, then open a new terminal.
 
 Run `claude` in this folder, then:
-- `/batch 3`: build slates for the next 3 days at once (2 FRESH slots a day left open for last night's games).
+- `/slates 3`: build slates for the next 3 days at once (2 FRESH slots a day left open for last night's games).
 - `/daily fresh`: fill today's FRESH slots the morning of.
 - `/daily`: find clips, pick the 10 best and write captions. Saved to `slates/<date>.md`.
 - `/replies`: draft replies to fresh posts from big accounts. Run it 2–3 times a day.

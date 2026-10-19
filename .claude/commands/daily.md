@@ -3,7 +3,7 @@ description: Find today's clips and build the 10-post slate
 ---
 Run today's clip search for @sidelinesync, following CLAUDE.md.
 
-If "$ARGUMENTS" contains "fresh": today's slate already exists from `/batch`. Only fill its FRESH slots, with clips from the
+If "$ARGUMENTS" contains "fresh": today's slate already exists from `/slates`. Only fill its FRESH slots, with clips from the
 last 24 hours (last night's games first), using steps 1, 2 and 4 below with a shortlist of 5. Write the clips and captions into
 those slots in today's slate file and show me just those. Skip the rest of this list.
 
