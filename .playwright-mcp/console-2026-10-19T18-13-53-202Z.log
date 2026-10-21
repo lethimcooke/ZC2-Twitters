@@ -1,1 +1,0 @@
-[     380ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://x.com/MLFootball/status/2111634177649152427:0
