@@ -17,6 +17,8 @@ Start from tomorrow unless I say "starting today".
    - Follow the mix and per-sport limits for each day separately.
    - Evergreen clips age too: put the biggest outliers and the oldest clips on the earliest days, but keep a strong
      clip at 12:00, 7:00 and 10:00 PM every day.
+   - Use up to 2 unused clips from `backlog.md` a day (not used in the last 60 days) instead of a weak new clip. Copy the file
+     path and caption into the slate, and fill in "Used on" in `backlog.md`.
    - Only leave a slot FRESH (filled the morning of with `/daily fresh`) if I ask for it, or if the only clips left
      for it are weak, creator-unknown or borderline. Say so in the summary if you do.
    - Collect about 12 candidates per day plus 5 spares so there's room to drop weak ones.

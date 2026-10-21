@@ -3,7 +3,7 @@ description: Download today's slate clips and lay out captions for posting
 ---
 Get posts ready to upload, following CLAUDE.md.
 Which days: if "$ARGUMENTS" names a date, do that day; if it says "all", do every slate from today onward; otherwise do today.
-Run the steps below for each day, using `clips/<that day's date>/`. Skip FRESH slots that haven't been filled yet.
+Run the steps below for each day, using `clips/<that day's date>/`. Skip FRESH slots that haven't been filled yet. For a backlog clip, copy its file from `clips/backlog/` instead of downloading it again.
 
 1. Read the day's slate in `slates/` (use the "Revised schedule" section if there is one) and `posted.md`.
    Skip anything already in `posted.md`.

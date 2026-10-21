@@ -18,6 +18,8 @@ We don't need to be first with news. We need clips that make people stop scrolli
 - `watchlist.md`: accounts to check and X search queries to run.
 - `posted.md`: every clip we've posted. Check it before suggesting anything so we never repost a clip.
 - `slates/YYYY-MM-DD.md`: each day's shortlist, captions and reply drafts.
+- `backlog.md`: proven viral clips already downloaded to `clips/backlog/`, used when a slate is short or a planned clip goes stale.
+  A backlog clip can be reposted once every 60 days.
 
 ## Niche check (run on every candidate before it goes on a shortlist)
 A clip is in the niche only if it's one of these:

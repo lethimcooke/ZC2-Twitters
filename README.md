@@ -15,6 +15,7 @@ One-time for `/prep`: `winget install yt-dlp` and `winget install Gyan.FFmpeg`, 
 
 Run `claude` in this folder, then:
 - `/slates 3`: build all 30 posts for the next 3 days at once. Do this every 3 days (a reminder fires each time).
+- `/backlog 20`: download 20 proven viral clips into `clips/backlog/` to fall back on.
 - `/daily fresh`: fill any FRESH slots the morning of, or swap one (`/daily fresh 8:00 AM`).
 - `/daily`: find clips, pick the 10 best and write captions. Saved to `slates/<date>.md`.
 - `/replies`: draft replies to fresh posts from big accounts. Run it 2–3 times a day.
