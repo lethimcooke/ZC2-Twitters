@@ -1,1 +1,0 @@
-[     652ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://x.com/Combat_Casuals/status/2112177814799835633:0

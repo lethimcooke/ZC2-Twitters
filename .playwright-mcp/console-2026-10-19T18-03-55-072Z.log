@@ -1,1 +1,0 @@
-[     367ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://x.com/carterjlowe/status/2111702183897182439:0
