@@ -3,3 +3,42 @@
 | Date | Time (ET) | Clip link | Creator | Caption | Views / likes after 24h |
 |------|-----------|-----------|---------|---------|-------------------------|
 | 2026-10-19 | 8:00 AM | https://x.com/Underdog/status/2111947131758198893 | @NFL (via @Underdog) | Josh Allen escaped the Raiders' rush and threw THIS for the touchdown / Best QB in the league right now? | |
+| 2026-10-19 | 10:00 AM | https://x.com/MLB/status/2111623997393637457 | @MLB | Full speed into the wall in the ALCS and he still holds on / Would you have caught that? | |
+| 2026-10-19 | 12:00 PM | https://www.instagram.com/reel/Demyyi1gzG_/ | pakistantapeballchampionship (IG) | He thought it was six. The fielder had other plans 🤯 / Rate this catch 1–10 | |
+| 2026-10-19 | 1:30 PM | https://www.tiktok.com/@espn/video/7697353126902271262 | jon_soccer_coach (IG) (via @espn TikTok) | She served a volleyball and scored a basket 😂 | |
+| 2026-10-19 | 3:00 PM | https://www.tiktok.com/@ojsglovee/video/7698104909182373133 | ojsglovee (TikTok) | AJ Brown after his 10-target game 😭 | |
+| 2026-10-19 | 5:00 PM | https://x.com/BleacherReport/status/2111667366199476726 | @DAZNBoxing (via @BleacherReport) | Knockout with one second left on the clock / Ever seen a cleaner buzzer beater? | |
+| 2026-10-19 | 7:00 PM | https://www.instagram.com/reel/DekVcoZorHs/ | gettishow (IG) | One jump. Land inside the chalk outline or you're out 😂 / Who's winning this? | |
+| 2026-10-19 | 8:30 PM | https://x.com/CoachDanCasey/status/2111897964448715022 | creator unknown (via @CoachDanCasey) | Aaron Rodgers to the rookie: "I know your dad" 😭 / Football is a small world | |
+| 2026-10-19 | 10:00 PM | https://www.tiktok.com/@kingkerane/video/7697428645547134215 | kingkerane (TikTok) | This kid is cooking a grown man in the gym / How old do you think he is? | |
+| 2026-10-19 | 11:30 PM | https://www.tiktok.com/@espn/video/7697304691310333214 | @_KidWilliams (via @espn TikTok) | Nevada let her score at practice. Wait for the celebration 🔥 | |
+| 2026-10-20 | 8:00 AM | https://x.com/BleacherReport/status/2111956484330230217 | @NFL (via @BleacherReport) | Cardinals win it at the buzzer with a 47-yard field goal 🔥 / Clutch or lucky? | |
+| 2026-10-20 | 10:00 AM | https://www.tiktok.com/@nfl/video/7698047787480517901 | @NFL | Travis Hunter caught a touchdown AND picked one off in the same game 🤯 / First player to do it since Brian Dawkins in 2002 | |
+| 2026-10-20 | 12:00 PM | https://www.tiktok.com/@shesaballer/video/7696945511357517078 | @samselinasoccer (IG) (via @shesaballer TikTok) | She turned the throw-in into a front flip 🤯 / Would you even try this in a game? | |
+| 2026-10-20 | 1:30 PM | https://www.tiktok.com/@overtime/video/7697816839362972941 | @OrlandoCitySC (via @overtime TikTok) | Orlando City just scored a goal of the year candidate 🔥 | |
+| 2026-10-20 | 3:00 PM | https://www.tiktok.com/@espn/video/7696986533504486687 | via @REFLOG18 (found on @espn TikTok) | She waved at the camera through the entire game-winning catch 😭 | |
+| 2026-10-20 | 5:00 PM | https://www.tiktok.com/@ote/video/7697273660087733517 | OTE (TikTok) | Diamant Blazi lined up five people and dunked over all of them 😳 / Rate it 1–10 | |
+| 2026-10-20 | 7:00 PM | https://www.tiktok.com/@devilsfanatics/video/7697415954384342286 | @puckindevilz (TikTok) (via devilsfanatics TikTok) | The Devils played Rangers fans out, then put the train times back to New York on the jumbotron 💀 | |
+| 2026-10-20 | 8:30 PM | https://x.com/NBA/status/2111532698447778170 | @NBA | Steph had the whole arena waiting for a dunk 😂 | |
+| 2026-10-20 | 10:00 PM | https://www.tiktok.com/@wlos_news_13/video/7697329666889141518 | John and KC Murdoch (via WLOS News 13) | This tiny Yorkie chased a bear up a tree 😭 / Who's the real apex predator? | |
+| 2026-10-20 | 11:30 PM | https://www.tiktok.com/@houseofhighlights/video/7698040779100441870 | iamsierralondon (IG) (via @houseofhighlights TikTok) | The Halloween aisle got him 😭 | |
+| 2026-10-21 | 8:00 AM | https://x.com/BR_OpenIce/status/2111978190612660721 | @NHL (via @BR_OpenIce) | Backlund missed and all four guys went flying 😭 | |
+| 2026-10-21 | 10:00 AM | https://www.tiktok.com/@houseofhighlights/video/7697370725115546893 | @jackdaily (TikTok) (via @houseofhighlights TikTok) | He hit the wrong button mid-run 😭 | |
+| 2026-10-21 | 12:00 PM | https://www.instagram.com/reel/DefyWxMgYjK/ | mooselakelabs (IG) | "Sit. Gentle." He had other plans 😂 | |
+| 2026-10-21 | 1:30 PM | https://www.tiktok.com/@backyardathleticsusa/video/7697791459709226270 | backyardathleticsusa (TikTok) | She took it all the way for the touchdown in 12U 🔥 / Put some respect on her name | |
+| 2026-10-21 | 3:00 PM | https://www.tiktok.com/@nfl/video/7697722669273238798 | @NFL (NFL France) | Kylian Mbappé put on football pads and still juggled like it was nothing ⚽🏈 / Should he try the NFL? | |
+| 2026-10-21 | 5:00 PM | https://www.tiktok.com/@espn/video/7696677724567440671 | snmichaud (IG) (via @espn TikTok) | Scottie Barnes saw this warmup photo of himself: "why me man" 😭 | |
+| 2026-10-21 | 7:00 PM | https://www.instagram.com/reel/DejbXjIxZeg/ | sarahrosenborg (IG) | Their idea of hanging out with friends 🤯 / Would you let go? | |
+| 2026-10-21 | 8:30 PM | https://www.instagram.com/reel/Dem_f05ts4q/ | povhooper (IG) | Nobody is dribbling past this guy 😳 | |
+| 2026-10-21 | 10:00 PM | https://www.instagram.com/reel/DenHMPgSG7U/ | golfinsmurf (IG) | He actually holed it. Watch him take off 🤯 / Lucky or legendary? | |
+| 2026-10-21 | 11:30 PM | https://x.com/MLFootball/status/2111634177649152427 | gail.fry8 (TikTok) (via @MLFootball) | After the game, Dell put his hand on a player from the other team and prayed with him 🥹 | |
+| 2026-10-22 | 8:00 AM | https://x.com/AdriRM33/status/2111905328757387419 | @MMajeedSX (via @AdriRM33) | Arda Güler's goal from the stands hits different 🔥 | |
+| 2026-10-22 | 10:00 AM | https://www.tiktok.com/@a_suojanen/video/7697286456682876182 | a_suojanen (TikTok) | Snowmobile season starts early when you can ride on water 🤯 | |
+| 2026-10-22 | 12:00 PM | https://www.tiktok.com/@bleacherreport/video/7696706984237616414 | @DrewDirksen (TikTok) (via @bleacherreport TikTok) | Race the falling air mat. Wait for the end 😂 / Would you make it out? | |
+| 2026-10-22 | 1:30 PM | https://www.tiktok.com/@houseofhighlights/video/7697652898196360461 | raggs.swipa (IG) (via @houseofhighlights TikTok) | When you see this move at pickup, you know the run's over 😂 | |
+| 2026-10-22 | 3:00 PM | https://www.tiktok.com/@colejernstedt/video/7697687394866253069 | colejernstedt (TikTok) | His buddy got way too loud at the game 😭 / Which one are you? | |
+| 2026-10-22 | 5:00 PM | https://www.instagram.com/reel/DemYc3woziK/ | imjustdall (IG) | That's a long way down to the water 😳 / Would you jump? | |
+| 2026-10-22 | 7:00 PM | https://www.tiktok.com/@espn/video/7697787645908258079 | crunchparsippany (IG) (via @espn TikTok) | This resistance band workout went exactly how you'd expect 😭 | |
+| 2026-10-22 | 8:30 PM | https://x.com/barstoolsports/status/2111884442642051159 | @NFL (via @barstoolsports) | Danny Smith brought a streamer to check the wind before the field goal 😂 | |
+| 2026-10-22 | 10:00 PM | https://www.instagram.com/reel/DeiAkkvhXH1/ | @Lions | Jahmyr Gibbs watching his yards count up 😂 | |
+| 2026-10-22 | 11:30 PM | https://www.tiktok.com/@overtime/video/7696933988811820301 | creator unknown (via @overtime) | FSU's Marcis Ponder looks like a cheat code out there 😳 / How good is he going to be? | |
