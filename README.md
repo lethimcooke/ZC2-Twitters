@@ -23,3 +23,7 @@ Run `claude` in this folder, then:
 - `/logpost`: record what you posted so we never post the same clip twice.
 
 After you finish for the day, run `git add -A && git commit -m "slate <date>" && git push` so the log stays in sync.
+
+## @kickIIP (second account)
+Same commands, with `kickiip` first: `/slates kickiip 3`, `/prep kickiip all`, `/backlog kickiip 20`, `/logpost kickiip`,
+`/daily kickiip fresh`. Its rules and files live in `kickiip/`, and its videos download to `kickiip\clips\`.

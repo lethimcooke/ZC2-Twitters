@@ -1,6 +1,11 @@
 ---
 description: Build slates for several days ahead (default 3)
 ---
+Account: if "$ARGUMENTS" starts with "kickiip" or "@kickIIP", this run is for @kickIIP. Read and follow `kickiip/CLAUDE.md`
+instead of the root CLAUDE.md, and use the `kickiip/` copy of every file and folder named below (`kickiip/watchlist.md`,
+`kickiip/posted.md`, `kickiip/backlog.md`, `kickiip/slates/`, `kickiip/clips/`). Treat the rest of "$ARGUMENTS" as the
+normal arguments. Otherwise this run is for @sidelinesync and uses the root files.
+
 Build posting slates for the next several days for @sidelinesync, following CLAUDE.md.
 Number of days: the number in "$ARGUMENTS" if there is one, otherwise 3. Never more than 5: clips go stale.
 Start from tomorrow unless I say "starting today".

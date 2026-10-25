@@ -1,6 +1,11 @@
 ---
 description: Download today's slate clips and lay out captions for posting
 ---
+Account: if "$ARGUMENTS" starts with "kickiip" or "@kickIIP", this run is for @kickIIP. Read and follow `kickiip/CLAUDE.md`
+instead of the root CLAUDE.md, and use the `kickiip/` copy of every file and folder named below (`kickiip/watchlist.md`,
+`kickiip/posted.md`, `kickiip/backlog.md`, `kickiip/slates/`, `kickiip/clips/`). Treat the rest of "$ARGUMENTS" as the
+normal arguments. Otherwise this run is for @sidelinesync and uses the root files.
+
 Get posts ready to upload, following CLAUDE.md.
 Which days: if "$ARGUMENTS" names a date, do that day; if it says "all", do every slate from today onward; otherwise do today.
 Run the steps below for each day, using `clips/<that day's date>/`. Skip FRESH slots that haven't been filled yet. For a backlog clip, copy its file from `clips/backlog/` instead of downloading it again.

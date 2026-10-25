@@ -1,6 +1,11 @@
 ---
 description: Add proven viral clips to the fallback backlog (default 20)
 ---
+Account: if "$ARGUMENTS" starts with "kickiip" or "@kickIIP", this run is for @kickIIP. Read and follow `kickiip/CLAUDE.md`
+instead of the root CLAUDE.md, and use the `kickiip/` copy of every file and folder named below (`kickiip/watchlist.md`,
+`kickiip/posted.md`, `kickiip/backlog.md`, `kickiip/slates/`, `kickiip/clips/`). Treat the rest of "$ARGUMENTS" as the
+normal arguments. Otherwise this run is for @sidelinesync and uses the root files.
+
 Grow the backlog of proven, evergreen viral clips for @sidelinesync, following CLAUDE.md.
 How many to add: the number in "$ARGUMENTS" if there is one, otherwise 20. A category in "$ARGUMENTS" (e.g. "fails", "trick shots") narrows the search.
 

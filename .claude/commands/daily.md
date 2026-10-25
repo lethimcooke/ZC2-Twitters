@@ -1,6 +1,11 @@
 ---
 description: Find today's clips and build the 10-post slate
 ---
+Account: if "$ARGUMENTS" starts with "kickiip" or "@kickIIP", this run is for @kickIIP. Read and follow `kickiip/CLAUDE.md`
+instead of the root CLAUDE.md, and use the `kickiip/` copy of every file and folder named below (`kickiip/watchlist.md`,
+`kickiip/posted.md`, `kickiip/backlog.md`, `kickiip/slates/`, `kickiip/clips/`). Treat the rest of "$ARGUMENTS" as the
+normal arguments. Otherwise this run is for @sidelinesync and uses the root files.
+
 Run today's clip search for @sidelinesync, following CLAUDE.md.
 
 If "$ARGUMENTS" contains "fresh": today's slate already exists from `/slates`. Only fill its FRESH slots, with clips from the
