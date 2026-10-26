@@ -58,6 +58,20 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
 - Only describe what happens in the clip. No claims about anyone's private life, motives, or behavior off camera.
 - Every few posts, end with a question that gets replies ("Who had the better reaction?", "Would you do this?").
 
+## Backlog classics (for `/backlog kickiip`)
+What counts as a proven classic here: iconic stream moments and celebrity clips that get reposted again and again,
+e.g. legendary streamer reactions, famous IRL stream moments, all-time talk show and interview moments, viral fan
+interactions with celebrities, award-show and concert moments that still circulate.
+- Search X with no date limit and high thresholds, e.g.
+  `(stream OR streamer OR "on stream") filter:native_video min_faves:50000 <exclusions>`,
+  `(interview OR podcast OR "talk show" OR "red carpet") filter:native_video min_faves:50000 <exclusions>`,
+  `(concert OR fan) (singer OR rapper OR actor) filter:native_video min_faves:50000 <exclusions>`,
+  plus the clip accounts' most-liked posts. Use the exclusion list from `kickiip/watchlist.md`.
+- It must still land today: no references to a feud, relationship, lawsuit or news story that has since changed,
+  and nothing from a person who is now known mainly for a scandal.
+- Same niche check and credit rules as above. Captions written for a classic: "This will never get old 😭",
+  "Still the funniest stream moment ever 💀", "The internet will never let this go 😂".
+
 ## Posting times (ET, adjust from results)
 10:00 AM, 12:00, 1:30, 3:00, 5:00, 7:00, 8:30, 10:00, 11:00 PM, 12:30 AM.
 This audience is later than sports: strongest clips at 7:00, 10:00 and 11:00 PM.
