@@ -42,3 +42,35 @@
 | 2026-10-22 | 8:30 PM | https://x.com/barstoolsports/status/2111884442642051159 | @NFL (via @barstoolsports) | Danny Smith brought a streamer to check the wind before the field goal 😂 | |
 | 2026-10-22 | 10:00 PM | https://www.instagram.com/reel/DeiAkkvhXH1/ | @Lions | Jahmyr Gibbs watching his yards count up 😂 | |
 | 2026-10-22 | 11:30 PM | https://www.tiktok.com/@overtime/video/7696933988811820301 | creator unknown (via @overtime) | FSU's Marcis Ponder looks like a cheat code out there 😳 / How good is he going to be? | |
+| 2026-10-23 | 8:00 AM | https://x.com/SportsCenter/status/2113066230370214038 | @NBA (via @SportsCenter) | "That's a travel." How many steps do you count? 😭 | |
+| 2026-10-23 | 10:00 AM | https://x.com/BR_OpenIce/status/2113059114284925426 | @NHL (via @BR_OpenIce) | Ottawa booed Brady Tkachuk through his own tribute video, so he took a victory lap 😂 | |
+| 2026-10-23 | 12:00 PM | https://x.com/NBA/status/2113108498221334601 | @NBA | Luka from half-court at the buzzer 🔥 / Best shooter in the league from 40 feet? | |
+| 2026-10-23 | 1:30 PM | https://x.com/ChampionsLeague/status/2113229245241561542 | @ChampionsLeague | Harry Kane dropped back and took a goal kick 😭 / Striker or keeper? | |
+| 2026-10-23 | 3:00 PM | https://x.com/barstoolsports/status/2112999004950942200 | @NFL (via @barstoolsports) | Travis Hunter faked a stumble to bait the QB, then took it the other way 🤯 | |
+| 2026-10-23 | 5:00 PM | https://x.com/MLB/status/2112946001527103939 | @MLB | Randy Arozarena and Brett Phillips reunited and ran the airplane back 🥹 | |
+| 2026-10-23 | 7:00 PM | https://www.tiktok.com/@jennacottrell_/video/7698465058556284191 | @jennacottrell_ (TikTok) | Josh Allen spotted his old Wyoming teammates after the win 🥹 | |
+| 2026-10-23 | 8:30 PM | https://x.com/Rainmaker1973/status/2112699134054748569 | graciebarrafoz (IG) (via @Rainmaker1973) | He found a training partner his own size 😭 | |
+| 2026-10-23 | 10:00 PM | https://x.com/InternetH0F/status/1901332675249700972 | The Dick Van Dyke Show (1962) (backlog B001) | Mary Tyler Moore hit this trick shot on The Dick Van Dyke Show in 1962 🤯 | |
+| 2026-10-23 | 11:30 PM | https://www.tiktok.com/@happydadloves/video/7671032390701075743 | @happydadloves (TikTok) (backlog B016) | Tried a front moonwalk and folded 😭 | |
+| 2026-10-24 | 8:00 AM | https://x.com/SportsCenter/status/2113063256998785083 | @NBA (via @SportsCenter) | Tyrese Haliburton's first bucket back after 486 days 🥹 | |
+| 2026-10-24 | 10:00 AM | https://x.com/ESPNCFB/status/2112988542737490198 | @ESPNCFB | 20 years ago, Marshawn Lynch took the injury cart for a joyride 😂 | |
+| 2026-10-24 | 12:00 PM | https://www.instagram.com/reel/DerULOqvddi/ | thekinghandles (IG) | He hit him with one move and the defender hit the floor 😳 / Rate the crossover 1–10 | |
+| 2026-10-24 | 1:30 PM | https://x.com/MLB/status/2112354414325559395 | @MLB | Chandler Simpson was almost to first before they picked up the bunt 🤯 | |
+| 2026-10-24 | 3:00 PM | https://x.com/AceFreeByChoice/status/1584336416678375426 | @eckeltadeas (TikTok) (backlog B020) | Cat drive-by on a skateboard 😭 | |
+| 2026-10-24 | 5:00 PM | https://x.com/NHL/status/2112699042090070115 | @NHL | Slafkovsky flipped it over the defender and buried it 🔥 | |
+| 2026-10-24 | 7:00 PM | https://x.com/Rainmaker1973/status/2112541848019292507 | terevadavid (IG) (via @Rainmaker1973) | POV: you're inside the wave 🤯 / Would you paddle out? | |
+| 2026-10-24 | 8:30 PM | https://x.com/barstoolsports/status/2112401128310845517 | creator unknown (via @barstoolsports) | The ball came into the stands and he headed it straight back from his seat 😂 | |
+| 2026-10-24 | 10:00 PM | https://x.com/ImAleeJeje/status/2112718555925848354 | @FOXDeportes (via @ImAleeJeje) | He saw the keeper off his line and shot from halfway 🤯 | |
+| 2026-10-24 | 11:30 PM | https://www.tiktok.com/@houseofhighlights/video/7674331381027065102 | leeboxwalburn (IG) (backlog B014) | The flag guy waved it right in his face 😭 | |
+| 2026-10-25 | 8:00 AM | https://x.com/NFL/status/2113008760457216356 | @NFL | "You look huge." "Thank you." Linemen banter is undefeated 😂 | |
+| 2026-10-25 | 10:00 AM | https://x.com/SkySportsPL/status/1848362862647103984 | @SkySportsPL (backlog B024) | David James saved TWO penalties from a little kid at halftime 😭 / Villain or legend? | |
+| 2026-10-25 | 12:00 PM | https://www.tiktok.com/@espnw/video/7698936656354692365 | @NBA (via @espnW) | She was having the time of her life with LeBron standing right in front of her 😂 | |
+| 2026-10-25 | 1:30 PM | https://x.com/espn/status/2112322709187174605 | @espn | George Kittle stopped to sign a young fan's #85 jersey 🥹 | |
+| 2026-10-25 | 3:00 PM | https://x.com/buitengebieden/status/2112164480415420490 | creator unknown (via @buitengebieden) | He knew the course. He picked violence 😂 | |
+| 2026-10-25 | 5:00 PM | https://x.com/MLB/status/1932253737474826247 | @MLB (backlog B006) | Denzel Clarke made this catch look like a video game 🤯 / Would you have caught that? | |
+| 2026-10-25 | 7:00 PM | https://www.tiktok.com/@pacers/video/7698523144314735886 | @Pacers | Tyrese Haliburton vs the Locker Room Time Trial 😂 / Could you beat his time? | |
+| 2026-10-25 | 8:30 PM | https://x.com/Rainmaker1973/status/2112919335840735497 | creator unknown (via @Rainmaker1973) | The invite said "pets welcome," so she brought her own gift 😭 | |
+| 2026-10-25 | 10:00 PM | https://x.com/BleacherReport/status/1870881564051312843 | @GolfChannel (backlog B005) | Charlie Woods made his first hole-in-one and Tiger lost it 🥹 | |
+| 2026-10-25 | 11:30 PM | https://x.com/FCBarcelona/status/2113012639219532236 | @FCBarcelona | Xavi Espart levels it against PSG 🔥 / Rate the finish 1–10 | |
+| 2026-10-26 | 10:00 AM | https://x.com/SportsCenter/status/1480372147511988227 | @NBA (found via @SportsCenter) (backlog B009) | Ja Morant's chase-down block still looks fake 🤯 | |
+| 2026-10-26 | 11:30 AM | https://x.com/FreddyLA7/status/2098946858903118055 | @FreddyLA7 (backlog B021) | Every Iowa home game, the whole stadium turns and waves to the kids' hospital next door 🥹 | |
