@@ -70,7 +70,7 @@
 | 2026-10-25 | 5:00 PM | https://x.com/MLB/status/1932253737474826247 | @MLB (backlog B006) | Denzel Clarke made this catch look like a video game 🤯 / Would you have caught that? | |
 | 2026-10-25 | 7:00 PM | https://www.tiktok.com/@pacers/video/7698523144314735886 | @Pacers | Tyrese Haliburton vs the Locker Room Time Trial 😂 / Could you beat his time? | |
 | 2026-10-25 | 8:30 PM | https://x.com/Rainmaker1973/status/2112919335840735497 | creator unknown (via @Rainmaker1973) | The invite said "pets welcome," so she brought her own gift 😭 | |
-| 2026-10-25 | 10:00 PM | https://x.com/BleacherReport/status/1870881564051312843 | @GolfChannel (backlog B005) | Charlie Woods made his first hole-in-one and Tiger lost it 🥹 | |
+| 2026-10-25 | 10:00 PM | https://x.com/BleacherReport/status/1870881564051312843 | @GolfChannel (backlog B005) | Charlie Woods made his first hole-in-one and Tiger lost it 🥹 | 3.4M views, 45K likes, 2.3K reposts, 2.4K bookmarks, 171 replies |
 | 2026-10-25 | 11:30 PM | https://x.com/FCBarcelona/status/2113012639219532236 | @FCBarcelona | Xavi Espart levels it against PSG 🔥 / Rate the finish 1–10 | |
 | 2026-10-26 | 10:00 AM | https://x.com/SportsCenter/status/1480372147511988227 | @NBA (found via @SportsCenter) (backlog B009) | Ja Morant's chase-down block still looks fake 🤯 | |
 | 2026-10-26 | 11:30 AM | https://x.com/FreddyLA7/status/2098946858903118055 | @FreddyLA7 (backlog B021) | Every Iowa home game, the whole stadium turns and waves to the kids' hospital next door 🥹 | |

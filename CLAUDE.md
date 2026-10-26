@@ -67,3 +67,8 @@ Put the strongest clips (highest outlier ratio, not raw views) at 12:00, 7:00 an
 Clips about last night's games lose value fast: post them in the morning slots.
 Put NFL clips during or right after a prime-time NFL game (Thursday, Sunday or Monday night) when one is on.
 Creator-unknown clips go in reserves unless the slate is short.
+
+## What's working (update as results come in)
+- 10/25 10:00 PM, backlog B005 (Charlie Woods' first hole-in-one, Tiger celebrating): 3.4M views, 45K likes, 2.4K bookmarks.
+  Proven emotional classics with a famous athlete can carry a primetime slot. Put at least one strong backlog clip in a
+  primetime slot (12:00, 7:00 or 10:00 PM) on most days.
