@@ -27,3 +27,7 @@ After you finish for the day, run `git add -A && git commit -m "slate <date>" &&
 ## @kickIIP (second account)
 Same commands, with `kickiip` first: `/slates kickiip 3`, `/prep kickiip all`, `/backlog kickiip 20`, `/logpost kickiip`,
 `/daily kickiip fresh`. Its rules and files live in `kickiip/`, and its videos download to `kickiip\clips\`.
+
+## @fitnessclip (third account)
+Same commands, with `fitnessclip` first: `/slates fitnessclip 3`, `/prep fitnessclip all`, `/backlog fitnessclip 20`,
+`/logpost fitnessclip`. Its rules and files live in `fitnessclip/`, and its videos download to `fitnessclip\clips\`.

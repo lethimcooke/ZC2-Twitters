@@ -1,6 +1,7 @@
 # @sidelinesync: viral repost account
 
-These rules are for @sidelinesync. For @kickIIP (commands run with "kickiip"), follow `kickiip/CLAUDE.md` instead.
+These rules are for @sidelinesync. For @kickIIP (commands run with "kickiip") follow `kickiip/CLAUDE.md`, and for
+@fitnessclip (commands run with "fitnessclip") follow `fitnessclip/CLAUDE.md` instead.
 
 Goal: 10 posts a day of the most viral clips we can find, with credit to the creator.
 The niche is all sports and anything else that's going viral (crazy moments, fails, crowd moments, wholesome stuff, funny clips).
