@@ -10,6 +10,11 @@ The daily workflow for running @sidelinesync with Claude Code.
 2. Start `claude` in this folder, type `/mcp`, and check that `playwright`, `vidIQ` and `MCP Market Hub` are listed.
 3. Tell Claude "Use Playwright to open x.com/login", then log into the research account yourself in the browser window that opens.
 
+## Weekly rhythm (no weekend work)
+- **Monday:** build and schedule Tue–Thu for every account (`/slates`, then `/prep all`).
+- **Thursday:** build and schedule Fri–Sun plus Monday for every account.
+- **Saturday and Sunday:** nothing to do. Everything is already scheduled.
+
 ## Daily use
 One-time for `/prep`: `winget install yt-dlp` and `winget install Gyan.FFmpeg`, then open a new terminal.
 

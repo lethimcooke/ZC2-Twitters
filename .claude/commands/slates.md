@@ -8,8 +8,20 @@ instead of the root CLAUDE.md, and use that folder's copy of every file and fold
 normal arguments. Otherwise this run is for @sidelinesync and uses the root files.
 
 Build posting slates for the next several days for @sidelinesync, following CLAUDE.md.
-Number of days: the number in "$ARGUMENTS" if there is one, otherwise 3. Never more than 5: clips go stale.
-Start from tomorrow unless I say "starting today".
+
+Weekly rhythm (all accounts): I build slates only on weekdays and do no scheduling work on Saturdays or Sundays.
+- **Monday batch:** Tuesday, Wednesday, Thursday (3 days).
+- **Thursday batch:** Friday, Saturday, Sunday, Monday (4 days), so the weekend and Monday are scheduled before Friday starts.
+If "$ARGUMENTS" has no number of days: run on a Monday builds Tue–Thu, run on a Thursday builds Fri–Mon, and any other day
+builds through the next Monday or Thursday batch day, whichever comes first, so no day is ever left uncovered.
+A number in "$ARGUMENTS" overrides this. Never more than 5 days: clips go stale. Start from tomorrow unless I say "starting today".
+
+Weekend rules (Saturday and Sunday must need zero work from me):
+- Fill all 10 slots on Saturday and Sunday. Never leave a weekend slot FRESH, and never write "swap this in with
+  `/daily fresh`" as something to do on a weekend; a weekend swap can only be an optional extra.
+- Weekend slots use evergreen clips and backlog clips, not timely ones that will be stale by then.
+- The Monday after a weekend is built in the Thursday batch, also fully filled, so nothing has to be done before Monday's posts.
+- If the account's backlog has fewer than 20 unused clips when a Thursday batch starts, say so first: the weekend depends on it.
 
 1. Read `posted.md`, `watchlist.md` and every file in `slates/`. A clip that appears in any slate or in `posted.md` can't be used again.
 2. Search the same way as `/daily` (X queries with the exclusion list, watchlist accounts, vidIQ outlier searches),
