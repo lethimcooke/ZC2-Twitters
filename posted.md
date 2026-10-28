@@ -74,3 +74,31 @@
 | 2026-10-25 | 11:30 PM | https://x.com/FCBarcelona/status/2113012639219532236 | @FCBarcelona | Xavi Espart levels it against PSG 🔥 / Rate the finish 1–10 | |
 | 2026-10-26 | 10:00 AM | https://x.com/SportsCenter/status/1480372147511988227 | @NBA (found via @SportsCenter) (backlog B009) | Ja Morant's chase-down block still looks fake 🤯 | |
 | 2026-10-26 | 11:30 AM | https://x.com/FreddyLA7/status/2098946858903118055 | @FreddyLA7 (backlog B021) | Every Iowa home game, the whole stadium turns and waves to the kids' hospital next door 🥹 | |
+| 2026-10-26 | 12:00 PM | https://www.tiktok.com/@espn/video/7700240719155383583 | @SECNetwork (found via @espn TikTok) | Try serving with her right behind you 😭 / Would you make it? | |
+| 2026-10-26 | 1:30 PM | https://x.com/ESPNFC/status/2114475620222603703 | @ESPNFC | Mbappé put Real Madrid ahead late at the Camp Nou 🔥 / Rate the team move 1–10 | |
+| 2026-10-26 | 3:00 PM | https://www.tiktok.com/@houseofhighlights/video/7700618672305425678 | @gods_ethiopian (TikTok) | She said she wasn't scared 😂 | |
+| 2026-10-26 | 5:00 PM | https://www.tiktok.com/@bleacherreport/video/7700345441833045279 | jasonrcurtis (IG) | This drummer spins 360s with the drums still on 🤯 | |
+| 2026-10-26 | 7:00 PM | https://www.tiktok.com/@espn/video/7700397002324069662 | @alxxwilson (TikTok) | This place lets you race a wolf. Wait for it 😂 / Who's winning? | |
+| 2026-10-26 | 8:30 PM | https://www.tiktok.com/@houseofhighlights/video/7700290314178694413 | @brazyy.rea (TikTok) | Lil man's face after this bottle flip 😭 | |
+| 2026-10-26 | 10:00 PM | https://x.com/NFL/status/2114509149681627494 | @NFL | The Lions hit every emote after the offsides penalty 😂 | |
+| 2026-10-26 | 11:30 PM | https://x.com/SportsCenter/status/2114521533859168386 | @NBA (found via @SportsCenter) | LaMelo got it to drop and Ant could not sit still 😭 | |
+| 2026-10-27 | 8:00 AM | https://x.com/NFL/status/2114422754657128769 | @NFL | Tank Dell's first catch in 673 days 🥹 / Welcome back | |
+| 2026-10-27 | 10:00 AM | https://x.com/NFL/status/2114467738303213944 | @NFL | Bo Nix kept it and went 62 yards for the TD 🔥 | |
+| 2026-10-27 | 12:00 PM | https://x.com/MLB/status/2113772307663458640 | @FOXSports (found via @MLB) | Junior Caminero hit a batting practice ball into the FOX set 😳 | |
+| 2026-10-27 | 1:30 PM | https://www.tiktok.com/@espn/video/7700428690647190815 | @dasean_ (TikTok) | Tug of war in front of the entire school 💀 | |
+| 2026-10-27 | 3:00 PM | https://www.tiktok.com/@espn/video/7700218802696490271 | @NBA (found via @espn TikTok) | He boxed out his own teammate 😭 | |
+| 2026-10-27 | 5:00 PM | https://x.com/NHL/status/2114569988279591199 | @NHL | Kirill Kaprizov with the filthy finish 🔥 / Rate it 1–10 | |
+| 2026-10-27 | 7:00 PM | https://x.com/ClutchPoints/status/1758903261107474901 | @NBAAllStar (backlog B002) | Luka called "bounce" before he shot it 😳 / Rate this 1–10 | |
+| 2026-10-27 | 8:30 PM | https://www.tiktok.com/@bleacherreport/video/7700685491766643998 | @pipglobal (found via @bleacherreport TikTok) | They made the lineman's rodeo look easy 😳 / Could you keep up? | |
+| 2026-10-27 | 10:00 PM | https://x.com/MLB/status/1828979040952164496 | @MLB (backlog B018) | Decoy brought the first pitch to Shohei Ohtani 🥹 | |
+| 2026-10-27 | 11:30 PM | https://x.com/tmszhjh88/status/2113742467728343264 | creator unknown (via @tmszhjh88) | The cow cat stopped by and the whole herd came to say hi 🥹 | |
+| 2026-10-28 | 8:00 AM | https://www.tiktok.com/@espn/video/7700733060727213325 | bcmbb (IG) | He jumped over him 😳 / Rate the dunk 1–10 | |
+| 2026-10-28 | 10:00 AM | https://www.tiktok.com/@houseofhighlights/video/7700436820760268045 | creator unknown (via @houseofhighlights) | Jayden Maiava got out of this sack somehow 🤯 | |
+| 2026-10-28 | 12:00 PM | https://www.tiktok.com/@espn/video/7675732209906634015 | tomasminc (IG) (backlog B012) | Got that mat there just in time 😳 | |
+| 2026-10-28 | 1:30 PM | https://x.com/MLB/status/2113817435031695408 | @Brewers (found via @MLB) | The first sausage race in World Series history 🌭 / Who you got? | |
+| 2026-10-28 | 3:00 PM | https://x.com/DailyLoud/status/2114030627146146174 | creator unknown (via @DailyLoud) | Ping pong golf might be the best new sport 😂 / Would you play? | |
+| 2026-10-28 | 5:00 PM | https://x.com/Sportsnet/status/2114131917478187457 | @Sportsnet | The smallest Jet ran the family skate 🥹 | |
+| 2026-10-28 | 7:00 PM | https://x.com/SpeedUpdates1/status/1768692549739245589 | @IShowSpeed (backlog B004) | IShowSpeed pulled off a backflip bicycle kick 😳 | |
+| 2026-10-28 | 8:30 PM | https://x.com/buitengebieden/status/2113902703068033450 | creator unknown (via @buitengebieden) | This monkey walked into the shop just for a hug 🥹 | |
+| 2026-10-28 | 10:00 PM | https://www.tiktok.com/@houseofhighlights/video/7700659996484259086 | hoopgypsy (IG) | Dropped the defender, then threw it away instead of shooting 😭 / What were you doing here? | |
+| 2026-10-28 | 11:30 PM | https://www.tiktok.com/@brittanyobrienn/video/7684558483575917844 | @brittanyobrienn (TikTok) (backlog B015) | Took three months off diving and came back like this 💀 | |
