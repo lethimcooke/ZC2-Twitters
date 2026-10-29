@@ -1,10 +1,6 @@
 # @fitnessclip: fitness and gym clip account
 
-**STATUS: PAUSED (as of 10/29). No login to the account yet, so nothing has been posted.**
-The slates in `fitnessclip/slates/` dated 10/29–11/2 were built but never posted. They are a ready-made first batch:
-when access arrives, re-date them to start on the first posting day, swap out any clip that is now stale (timely ones
-such as training-camp or "day after" clips), and re-mark the backlog clips as used on their new dates.
-Don't build new @fitnessclip slates or count it in batches until the user says the account is live.
+**STATUS: LIVE since Thu 10/29, 12:30 PM ET.** 10/29 runs a compressed 12:30–10:00 PM schedule (see that slate).
 
 This file replaces the root `CLAUDE.md` whenever a command is run for @fitnessclip. Ignore the @sidelinesync and @kickIIP rules
 when working on this account.
