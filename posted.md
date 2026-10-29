@@ -102,3 +102,53 @@
 | 2026-10-28 | 8:30 PM | https://x.com/buitengebieden/status/2113902703068033450 | creator unknown (via @buitengebieden) | This monkey walked into the shop just for a hug 🥹 | |
 | 2026-10-28 | 10:00 PM | https://www.tiktok.com/@houseofhighlights/video/7700659996484259086 | hoopgypsy (IG) | Dropped the defender, then threw it away instead of shooting 😭 / What were you doing here? | |
 | 2026-10-28 | 11:30 PM | https://www.tiktok.com/@brittanyobrienn/video/7684558483575917844 | @brittanyobrienn (TikTok) (backlog B015) | Took three months off diving and came back like this 💀 | |
+| 2026-10-29 | 8:00 AM | https://www.tiktok.com/@mlb/video/7701572409698159902 | @MLB | The Rays walked it off to stay alive in the World Series 🔥 | |
+| 2026-10-29 | 10:00 AM | https://x.com/NBA/status/2115271263623184406 | @NBA | Jayson Tatum called game at the buzzer in OT 🔥 / Rate it 1–10 | |
+| 2026-10-29 | 12:00 PM | https://www.tiktok.com/@nba/video/7701397285103471903 | @NBA | Imagine getting a turnover for being a good teammate 😭 | |
+| 2026-10-29 | 1:30 PM | https://www.tiktok.com/@houseofhighlights/video/7701727017040973070 | Gabe With Cards (found via @houseofhighlights TikTok) | Nobody in that room will forget this card trick 😳 | |
+| 2026-10-29 | 3:00 PM | https://www.tiktok.com/@espn/video/7701770953163820318 | @Bryce (TikTok, per ESPN) | "Why don't you ever cook?" 💀 | |
+| 2026-10-29 | 5:00 PM | https://x.com/MLB/status/2114879534382055638 | @MLB | He hit the wall and still held on 😳 / Would you have caught that? | |
+| 2026-10-29 | 7:00 PM | https://x.com/historyinmemes/status/1827335047730622914 | creator unknown (via @historyinmemes) (backlog B040) | Suárez's son walked right past Messi, and his mom sent him back to say hi 😂 | |
+| 2026-10-29 | 8:30 PM | https://www.tiktok.com/@nfl/video/7701395449369873677 | @NFL | Quenton Nelson pancaked him, then asked if he was good 😂 | |
+| 2026-10-29 | 10:00 PM | https://www.tiktok.com/@nfl/video/7701165579943693581 | @NFL | CeeDee Lamb left him on the turf 😳 | |
+| 2026-10-29 | 11:30 PM | https://x.com/buitengebieden/status/2114773293295386890 | creator unknown (via @buitengebieden) | The orange one did all the work. The tuxedo didn't lift a paw 😭 | |
+| 2026-10-30 | 8:00 AM | https://x.com/SportsCenter/status/2114873684876046764 | @NBA (found via @SportsCenter) | Rookie Caleb Wilson hit Paul George with the jab, then went up 🔥 | |
+| 2026-10-30 | 10:00 AM | https://x.com/NBAPerformances/status/2114887750822560194 | @NBA (found via @NBAPerformances) | Giannis with one of the dunks of the year 😳 | |
+| 2026-10-30 | 12:00 PM | https://www.tiktok.com/@barstoolsports/video/7701347762033397006 | drewsmedina (IG) | Dad had the urge to jump in there with him 😭 | |
+| 2026-10-30 | 1:30 PM | https://www.tiktok.com/@mlb/video/7701517280479399199 | @MLB | Brother energy between William Contreras and Yandy Díaz 😂 | |
+| 2026-10-30 | 3:00 PM | https://www.tiktok.com/@espn/video/7701790318160612639 | kreemna (IG) | Never going down this slide again 😭 | |
+| 2026-10-30 | 5:00 PM | https://www.tiktok.com/@mlb/video/7701560235386735903 | @MLB | Aaron Ashby was not letting Chandler Simpson go anywhere 😂 | |
+| 2026-10-30 | 7:00 PM | https://x.com/historyinmemes/status/1754487285180223611 | creator unknown (via @historyinmemes) (backlog B048) | A little boy ran onto the pitch to hug the keeper after a last-minute loss 🥹 | |
+| 2026-10-30 | 8:30 PM | https://x.com/AidanDoc__/status/2115230095690346589 | @CBSSports (found via @AidanDoc__) | Big Red got in his face after the touchdown 😂 | |
+| 2026-10-30 | 10:00 PM | https://www.tiktok.com/@overtime/video/7701465490056678670 | creator unknown (via @overtime) | She hit the Fortnite pose at the end of her routine 😭 | |
+| 2026-10-30 | 11:30 PM | https://www.tiktok.com/@espn/video/7701741004650679583 | Panayotes Sechai (found via @espn TikTok) | Legend says it's still counting 😭 / Could you beat it? | |
+| 2026-10-31 | 8:00 AM | https://x.com/ESPNCFB/status/2114052952881041589 | @ESPNCFB | Sam Leavitt scored, then missed the goalpost dunk 💀 | |
+| 2026-10-31 | 10:00 AM | https://www.tiktok.com/@espn/video/7701811533352799519 | ohemm_geez (IG) | They had to settle who the real Michael was 😂 | |
+| 2026-10-31 | 12:00 PM | https://www.tiktok.com/@houseofhighlights/video/7701560498608672014 | @NBA (found via @houseofhighlights TikTok) | The definition of a rookie mistake 😭 | |
+| 2026-10-31 | 1:30 PM | https://x.com/AMAZlNGNATURE/status/1781739021019791800 | creator unknown (via @AMAZlNGNATURE) (backlog B043) | This raven beat a human at tic-tac-toe 🤯 | |
+| 2026-10-31 | 3:00 PM | https://www.tiktok.com/@espn/video/7701737400023780639 | lucychavez (IG) | The ultimate uno reverse in sumo 😳 | |
+| 2026-10-31 | 5:00 PM | https://www.tiktok.com/@ladbible/video/7699051042666745110 | creator unknown (via @ladbible) | He thought this was going to be an easy stroll on the beach 😭 | |
+| 2026-10-31 | 7:00 PM | https://x.com/TheFigen_/status/1896538948991865214 | MileSplit (backlog B037) | A dog jumped into a high school relay and ran the whole leg 😂 | |
+| 2026-10-31 | 8:30 PM | https://www.tiktok.com/@overtime/video/7701165685703003405 | @Ana_montanaaa (per Overtime) | LaMelo Ball's son LaOne went to his first NBA game 🥹 | |
+| 2026-10-31 | 10:00 PM | https://www.tiktok.com/@overtime/video/7701460279468559630 | creator unknown (via @overtime) | Lamine Yamal's little brother Keyne is a whole character 😂 | |
+| 2026-10-31 | 11:30 PM | https://x.com/awkwardgoogle/status/1975680281815220645 | creator unknown (via @awkwardgoogle) (backlog B041) | This bird found out golf balls bounce on the cart path 😂 | |
+| 2026-11-01 | 8:00 AM | https://www.tiktok.com/@overtime/video/7700314414351781133 | creator unknown (via @overtime (broadcast)) | Ain't no way this happened on a field goal 💀 | |
+| 2026-11-01 | 10:00 AM | https://www.tiktok.com/@barstoolsports/video/7698755856170634510 | @meg (per Barstool) | Dad will buy anything except a new couch 💀 | |
+| 2026-11-01 | 12:00 PM | https://x.com/ESPNFC/status/1683986215157084160 | @ESPNFC (backlog B034) | Messi took care of DJ Khaled's son when he started crying 🥹 | |
+| 2026-11-01 | 1:30 PM | https://www.tiktok.com/@barstoolsports/video/7701127478433123598 | @barstoolsports | The widest swing you will ever see 😭 / Rate it 1–10 | |
+| 2026-11-01 | 3:00 PM | https://x.com/TheSavBananas/status/1678939412263043073 | @TheSavBananas (backlog B022) | In Banana Ball, a fan catching a foul ball is an out. This fan ended the game 😂 | |
+| 2026-11-01 | 5:00 PM | https://www.tiktok.com/@overtime/video/7701470766180748558 | creator unknown (via @overtime) | That no-look fist bump was cold 😭 | |
+| 2026-11-01 | 7:00 PM | https://x.com/NBA/status/1990452357298376892 | @NBA (backlog B049) | This lil fan in Phoenix stole the show with her wave on the jumbotron 🥹 | |
+| 2026-11-01 | 8:30 PM | https://x.com/NFL/status/2114531030011158895 | @NFL | POV: Jaxon Smith-Njigba scores right in front of your seat 😳 | |
+| 2026-11-01 | 10:00 PM | https://www.tiktok.com/@nfl/video/7701085706566847758 | @NFL | "Funny seeing you here" 😭 / Jameson Williams and Penei Sewell | |
+| 2026-11-01 | 11:30 PM | https://x.com/MarioNawfal/status/2058540771020541990 | creator unknown (via @MarioNawfal) (backlog B036) | A cat fell from the upper deck and fans caught it with a flag 😳 | |
+| 2026-11-02 | 8:00 AM | https://www.tiktok.com/@barstoolsports/video/7698083517955116302 | @937_chatty (per Barstool) | "I'm bouta send it" 💀 / (He's okay) | |
+| 2026-11-02 | 10:00 AM | https://www.tiktok.com/@espn/video/7701711662084066590 | @Jacob (TikTok, per ESPN) | Can't mess up here 😳 / Would you ride it? | |
+| 2026-11-02 | 12:00 PM | https://x.com/perry_ron/status/1962972869761069424 | creator unknown (via @perry_ron) (backlog B035) | A Blue Jays fan caught Judge's home run and handed it to a little Yankees fan 🥹 | |
+| 2026-11-02 | 1:30 PM | https://www.tiktok.com/@barstoolsports/video/7698782341883350285 | ryanxpeterson (IG) | Feeding time for the ocean 💀 | |
+| 2026-11-02 | 3:00 PM | https://www.tiktok.com/@barstoolsports/video/7697682871858793741 | tarynandjake (IG) | The wind had other plans for this wedding 😭 | |
+| 2026-11-02 | 5:00 PM | https://www.tiktok.com/@nba/video/7701449063937363230 | @NBA | Ja and Luka always keep it interesting 😂 | |
+| 2026-11-02 | 7:00 PM | https://x.com/InternetH0F/status/1817824925056401697 | creator unknown (via @InternetH0F) (backlog B038) | Kobe gave his sleeve to one fan and the whole row went for it 😭 | |
+| 2026-11-02 | 8:30 PM | https://x.com/john322226/status/2115070323129532744 | creator unknown (via @john322226) | Mbappé stopped for a selfie with a young fan 🥹 | |
+| 2026-11-02 | 10:00 PM | https://x.com/PicturesFoIder/status/1953100731784810768 | creator unknown (via @PicturesFoIder) (backlog B032) | This kid made Tyreek Hill fall at his own camp 😭 | |
+| 2026-11-02 | 11:30 PM | https://x.com/crazyclipsonly/status/1741574952422080881 | creator unknown (via @crazyclipsonly) (backlog B044) | He started celebrating before the finish line 💀 | |
