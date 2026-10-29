@@ -46,6 +46,9 @@ Look at the video itself before suggesting it. If unsure, leave it out.
 - Mix: about 4 strength/skill, 3 gym moments (funny or wholesome), 2 inspiring, 1 athlete training or tip.
   No more than 2 from one creator per day.
 - Skip anything already all over the timeline for 2+ days.
+- Game or practice highlights (a dunk, a lob, a goal) are @sidelinesync clips, not fitness. Athlete clips only count here
+  when the training itself is the point (conditioning, lifting, drills), and at most 1 a day.
+- Prefer clips with a findable creator. Fitness creators post their own clips, so a "via @repost account" credit should be rare.
 
 ## Caption style
 - Hook first, under ~100 characters, conversational. Emojis on most captions (1–2): 😳🤯 wild, 💪🔥 strong, 😭😂 funny, 🥹 wholesome, 💀 fail.
