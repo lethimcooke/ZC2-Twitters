@@ -4,7 +4,8 @@ These rules are for @sidelinesync. For @kickIIP (commands run with "kickiip") fo
 @fitnessclip (commands run with "fitnessclip") follow `fitnessclip/CLAUDE.md` instead.
 
 Goal: 10 posts a day of the most viral clips we can find, with credit to the creator.
-The niche is all sports and anything else that's going viral (crazy moments, fails, crowd moments, wholesome stuff, funny clips).
+The niche is **sports only** (narrowed 10/29): games, athletes, fans and everything that happens around a sport.
+No general viral clips (random fails, animals, pranks, internet stunts) unless they happen at a sporting event or involve athletes.
 We don't need to be first with news. We need clips that make people stop scrolling, reply and repost.
 
 ## Tools
@@ -26,9 +27,12 @@ We don't need to be first with news. We need clips that make people stop scrolli
 
 ## Niche check (run on every candidate before it goes on a shortlist)
 A clip is in the niche only if it's one of these:
-- **Sports**: games, highlights, athletes, fans, stadiums, youth/high school/college, extreme and action sports, trick shots.
-- **Viral physical/skill moments**: stunts, near misses, fails, impressive skills, crowd moments.
-- **Feel-good or funny** clips that aren't about news.
+- **Games and highlights**: pro, college, high school and youth, in any sport (including combat, extreme and action sports).
+- **Athletes**: funny, wholesome or emotional moments with players and coaches, on or off the field.
+- **Fans and venues**: crowd moments, fan catches, kids at games, mascots, jumbotron moments, animals at games.
+- **Sports skills**: trick shots, sports fails and bloopers, amateur athletes doing something impressive.
+
+Not in the niche any more: fails, stunts, animals, pranks or feel-good clips with no sport in them.
 
 Reject it, whatever its numbers, if it's:
 - politics, politicians, elections or political memes
@@ -49,7 +53,8 @@ If you're unsure which bucket it's in, leave it out.
 ## Rules for picking clips
 - Prefer clips from the last 24–48 hours with high engagement for their account size (an outlier for that account, not just a big account).
 - 5–60 seconds, understandable with the sound off, the payoff in the first 3 seconds.
-- Mix: about 6 sports, 4 general viral. No more than 2 from one creator or one sport per day.
+- Mix: all 10 are sports. Spread them: no more than 2 from one sport or one creator per day, and aim for at least 4 different
+  sports a day plus 2–3 fan/athlete moments (kids, wholesome, funny) so the feed isn't only highlights.
 - Skip anything already all over the timeline for 2+ days.
 - Always record the original creator's handle and link. Keep the creator's original watermark on the video.
 

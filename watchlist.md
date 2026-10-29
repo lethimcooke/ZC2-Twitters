@@ -21,12 +21,12 @@ Exclusion list (add new words when off-niche clips keep showing up):
 ("high school" OR "youth" OR "little league") (play OR highlight OR catch OR dunk) filter:native_video min_faves:1000 within_time:72h <exclusions>
 ```
 
-### Viral / general (sports-adjacent first)
+### Fans, athletes and sports skills
 ```
-(crowd OR fan OR "ball boy" OR mascot OR "kiss cam" OR stadium OR sideline) filter:native_video min_faves:2000 within_time:48h <exclusions>
-("trick shot" OR "how did" OR "no way" OR unreal OR insane) (shot OR throw OR jump OR skate OR bike) filter:native_video min_faves:2000 within_time:48h <exclusions>
-(fail OR "nearly" OR "almost") (gym OR skate OR bike OR jump OR ski OR surf OR trampoline) filter:native_video min_faves:3000 within_time:48h <exclusions>
-(wholesome OR "made his day" OR "made her day" OR "surprised") (fan OR kid OR player OR coach) filter:native_video min_faves:2000 within_time:48h <exclusions>
+(crowd OR fan OR "ball boy" OR mascot OR "kiss cam" OR jumbotron OR stadium OR sideline) filter:native_video min_faves:2000 within_time:48h <exclusions>
+("trick shot" OR "how did" OR "no way") (basketball OR football OR golf OR soccer OR baseball OR hockey) filter:native_video min_faves:2000 within_time:48h <exclusions>
+(fail OR blooper OR "nearly" OR "almost") (game OR match OR field OR court OR pitch OR rink) filter:native_video min_faves:3000 within_time:48h <exclusions>
+(wholesome OR "made his day" OR "made her day" OR surprised) (fan OR kid OR player OR coach) filter:native_video min_faves:2000 within_time:48h <exclusions>
 ```
 
 ## Sports accounts

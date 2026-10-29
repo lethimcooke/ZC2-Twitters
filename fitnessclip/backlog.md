@@ -11,7 +11,6 @@ Rules:
 
 | ID | File | Link | Original creator | Category | Type | Why it's proven | Caption | Used on |
 |----|------|------|------------------|----------|------|-----------------|---------|---------|
-| FB001 | FB001-trooper-haybale.mp4 | https://x.com/ianmiles/status/1763053575805284393 | creator unknown (dashcam) | strength | feat | Viral twice: @ianmiles 260K / 26.5M, @InternetH0F 45K / 4.3M. 57s | This trooper moved a hay bale off the road by himself 😳<br><br>via @ianmiles | 2026-10-30 |
 | FB002 | FB002-real-gym-bro.mp4 | https://x.com/NoContextHumans/status/1871344789092003978 | creator unknown | gym moment | wholesome | Viral twice on @NoContextHumans: 192K / 56.1M (2024) and 52K / 27M (2025). 21s | A stranger stepped in to spot her right on time 🥹<br><br>via @NoContextHumans | 2026-10-30 |
 | FB003 | FB003-need-spotter.mp4 | https://x.com/InternetH0F/status/1954498020231241975 | creator unknown | gym moment | spotter save | 175K likes / 33.1M views on @InternetH0F. 28s | His spotter had one job and nailed it 😳<br><br>Tag your spotter<br><br>via @InternetH0F | 2026-10-29 |
 | FB004 | FB004-spotter-gagged.mp4 | https://x.com/Swaggsocali/status/2012517653525520806 | creator unknown | skill | cheer | 151K likes / 8.2M views on @Swaggsocali. 52s | This cheer stunt left the spotter stunned 😳<br><br>via @Swaggsocali | 2026-11-02 |
@@ -34,9 +33,7 @@ Rules:
 | FB021 | FB021-bodybuilder-wsm.mp4 | https://x.com/historyinmemes/status/1760809987931070526 | creator unknown | strength | strongman | 133K likes / 29.8M views on @historyinmemes. 14s | When a bodybuilder stands next to the world's strongest man 😳<br><br>via @historyinmemes | 2026-10-29 |
 | FB022 | FB022-gym-spotters.mp4 | https://x.com/interesting_aIl/status/1888204155459645920 | creator unknown | gym moment | spotter save | 25K likes / 7M views on @interesting_aIl. 30s | Gymnastics spotters don't get enough credit 😳<br><br>via @interesting_aIl | 2026-11-02 |
 | FB023 | FB023-gymnastics-best.mp4 | https://x.com/kirawontmiss/status/1819196456298766625 | creator unknown | skill | gymnastics | 131K likes / 27.5M views on @kirawontmiss. 11s | This gymnast's control is unreal 🤯<br><br>via @kirawontmiss | 2026-10-30 |
-| FB024 | FB024-sza-biles.mp4 | https://x.com/2Cool2Blog/status/1807791423686578436 | NBC Olympics (found via @2Cool2Blog) | athlete training | gymnastics | 82K likes / 11.6M views on @2Cool2Blog. 58s | SZA tried gymnastics with Simone Biles 😭<br><br>🎥: NBC Olympics | 2026-11-02 |
 | FB025 | FB025-thor-event.mp4 | https://x.com/ThorBjornsson_/status/1964988509971968257 | @ThorBjornsson_ | strength | strongman | 58K likes / 8.6M views on @ThorBjornsson_. 19s | Thor won this event and could barely stand after 😳<br><br>🎥: @ThorBjornsson_ | 2026-11-01 |
-| FB026 | FB026-trampoline-cam.mp4 | https://x.com/0xgaut/status/1819032998525698542 | Olympics broadcast (found via @0xgaut) | gym moment | funny | 156K likes / 7.6M views on @0xgaut. 6s | The trampoline cameraman was locked in 😭<br><br>via @0xgaut | 2026-10-31 |
 | FB027 | FB027-climber-bodybuilders.mp4 | https://x.com/interesting_aIl/status/1888385356170506632 | creator unknown (TikTok watermark) | strength | climbing | Viral twice: @interesting_aIl 120K / 21M, @thelmaoclips 52K / 7.8M. 61s, one second over the limit | Rock climber vs bodybuilders 😳<br><br>Who you got?<br><br>via @interesting_aIl | 2026-11-02 |
 | FB028 | FB028-larry-sprint-race.mp4 | https://www.tiktok.com/@larrywheels/video/7624572202419096846 | @LarryWheels | gym moment | funny | Viral on two platforms: 13.8M views / 547K likes on his TikTok, 27.8M views on his X post. 7s | Two bodybuilders racing down the street 😂<br><br>Who you got?<br><br>🎥: @LarryWheels | |
 | FB029 | FB029-thor-505.mp4 | https://x.com/ThorBjornsson_/status/1949426769355841794 | @ThorBjornsson_ | strength | strongman | Posted twice by Hafthor: 34K / 2.8M and 25K / 2.5M; the lift was reposted widely. 31s | Hafthor pulled 505 kg (1,113 lb) 🤯<br><br>Still one of the strongest clips ever<br><br>🎥: @ThorBjornsson_ | |
@@ -68,3 +65,12 @@ Rules:
 | FB055 | FB055-squatu-pushup-tip.mp4 | https://x.com/SquatUniversity/status/1856378116127555961 | @SquatUniversity | tip | push-ups | 78K likes / 6.1M views on his own post. 43s | Try this on your next set of push-ups 💪<br><br>Did you know this one?<br><br>🎥: @SquatUniversity | |
 | FB056 | FB056-noodle-shop-handstand.mp4 | https://x.com/JunaUSA/status/2078134034140680577 | @JunaUSA | skill | handstand | 34K likes / 0.8M views on the original post; below the usual bar. 18s | The noodle shop owner just ripped a handstand mid-shift 😳<br><br>🎥: @JunaUSA | |
 | FB057 | FB057-wirfs-seated-box.mp4 | https://x.com/TristanWirfs78/status/1414618678512046087 | @TristanWirfs78 | athlete training | box jump | 10K likes on his own post (2021); below the usual bar. 13s | Tristan Wirfs hit a 48-inch seated box jump in a weight vest 😳<br><br>🎥: @TristanWirfs78 | |
+
+## Retired (off-niche since 10/29, do not use)
+Not fitness: a roadside feat, a celebrity cameo, a cameraman.
+
+| ID | File | Link | Original creator | Category | Type | Why it's proven | Caption | Used on |
+|----|------|------|------------------|----------|------|-----------------|---------|---------|
+| FB001 | FB001-trooper-haybale.mp4 | https://x.com/ianmiles/status/1763053575805284393 | creator unknown (dashcam) | strength | feat | Viral twice: @ianmiles 260K / 26.5M, @InternetH0F 45K / 4.3M. 57s | This trooper moved a hay bale off the road by himself 😳<br><br>via @ianmiles | 2026-10-30 |
+| FB024 | FB024-sza-biles.mp4 | https://x.com/2Cool2Blog/status/1807791423686578436 | NBC Olympics (found via @2Cool2Blog) | athlete training | gymnastics | 82K likes / 11.6M views on @2Cool2Blog. 58s | SZA tried gymnastics with Simone Biles 😭<br><br>🎥: NBC Olympics | 2026-11-02 |
+| FB026 | FB026-trampoline-cam.mp4 | https://x.com/0xgaut/status/1819032998525698542 | Olympics broadcast (found via @0xgaut) | gym moment | funny | 156K likes / 7.6M views on @0xgaut. 6s | The trampoline cameraman was locked in 😭<br><br>via @0xgaut | 2026-10-31 |

@@ -24,7 +24,7 @@ A clip is in the niche if it's one of these:
 - **Strength and skill**: big lifts, calisthenics and gymnastics skills, strongman, powerlifting, grip and balance feats.
 - **Gym moments**: funny or wholesome gym clips, spotter saves, gym-buddy moments, creators' own fails and skits.
 - **Inspiring**: older lifters, adaptive athletes, comebacks, first pull-up or first big PR, training partners.
-- **Athletes training**: pro athletes' workouts and conditioning drills.
+- **Athletes training**: pro athletes in the weight room or doing conditioning work (not game, practice or celebrity clips).
 - **Useful**: short, clearly correct form tips from qualified or well-known coaches.
 
 Reject it, whatever its numbers, if it's:
@@ -45,6 +45,8 @@ Look at the video itself before suggesting it. If unsure, leave it out.
 ## Rules for picking clips
 - Prefer clips from the last 24–72 hours with high engagement for their account size; fitness clips age slower than sports.
 - 5–60 seconds, understandable with the sound off, the payoff in the first 3 seconds.
+- Fitness only (narrowed 10/29): every clip has to be about training, lifting, a physical skill or the gym. No general viral
+  clips (cameramen, celebrity cameos, roadside feats) and no game highlights.
 - Mix: about 4 strength/skill, 3 gym moments (funny or wholesome), 2 inspiring, 1 athlete training or tip.
   No more than 2 from one creator per day.
 - Skip anything already all over the timeline for 2+ days.
