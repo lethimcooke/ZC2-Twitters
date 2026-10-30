@@ -19,7 +19,7 @@ they're reposted: all-time great catches, dunks, trick shots, fails, crowd momen
      (use the exclusion list from `watchlist.md`), and the same with min_faves:20000 for each category.
    - Repost accounts' most-liked clips, and clips that show up again and again from different accounts (proof it's a proven repost).
    - vidIQ outlier searches on TikTok and Instagram without a recent-only filter.
-3. Run the niche check from CLAUDE.md on each one, look at the video itself, and find the original creator.
+3. Run the niche check and the Video rules (no other platforms' watermarks, no black bars that can't be cropped cleanly) from CLAUDE.md on each one, look at the video itself, and find the original creator.
    A clip qualifies if it has gone viral more than once or has huge numbers (100K+ likes or 5M+ views somewhere), and nothing in it
    is tied to a date (no "last night", no season-specific stakes, no injured players since).
 4. Download each one with yt-dlp into `clips/backlog/` as `<id>-<short-name>.mp4` (ids B001, B002, ... continuing from `backlog.md`),

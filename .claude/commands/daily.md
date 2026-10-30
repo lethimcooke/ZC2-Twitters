@@ -19,7 +19,7 @@ moving the clip that was there to Reserves.
 2. With Playwright, run the X search queries in `watchlist.md` (replace `<exclusions>` with the exclusion list) and skim the watchlist accounts.
    Only read; don't interact with anything.
 3. With vidIQ, run outlier searches on TikTok and Instagram for a few of the vidIQ terms.
-4. Run the niche check from CLAUDE.md on every candidate and drop anything that fails. Find the original creator for each one that passes.
+4. Run the niche check and the Video rules (no other platforms' watermarks, no black bars that can't be cropped cleanly) from CLAUDE.md on every candidate and drop anything that fails. Find the original creator for each one that passes.
    Make a shortlist of 15 clips we haven't posted. Show it as a table: #, link, original creator, found via, platform, views/likes, age, length, category, why it should do well.
    Under the table, list how many candidates you rejected and why (e.g. "6 politics, 2 graphic"), so I can see the filter working.
 5. Pick your top 10 and assign them to the posting times in CLAUDE.md, with the strongest clips at 12:00, 7:00 and 10:00 PM.

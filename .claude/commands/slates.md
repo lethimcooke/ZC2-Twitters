@@ -25,7 +25,7 @@ Weekend rules (Saturday and Sunday must need zero work from me):
 
 1. Read `posted.md`, `watchlist.md` and every file in `slates/`. A clip that appears in any slate or in `posted.md` can't be used again.
 2. Search the same way as `/daily` (X queries with the exclusion list, watchlist accounts, vidIQ outlier searches),
-   but collect about 12 candidates per day plus 5 spares. Run the niche check and find the original creator for each.
+   but collect about 12 candidates per day plus 5 spares. Run the niche check and the Video rules (no other platforms' watermarks, no black bars that can't be cropped cleanly) and find the original creator for each.
 3. Label every clip:
    - **timely**: tied to a specific game, result or moment from the last 48 hours. It must be scheduled on the first day.
    - **evergreen**: trick shots, skills, fails, crowd moments, kids, wholesome, funny. These can go on any day.

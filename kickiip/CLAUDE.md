@@ -52,6 +52,15 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
   so the feed isn't only Kai and Speed.
 - Skip anything already all over the timeline for 2+ days.
 
+## Video rules (all accounts, added 10/30)
+- **No other platforms' watermarks.** Skip any clip with a TikTok, Instagram/Reels, YouTube Shorts, Snapchat or CapCut logo or
+  handle stamp on the video. Look for a clean copy instead (the creator's own X upload, the original broadcast or stream clip);
+  if there isn't one, don't use the clip. Never blur, crop or edit a watermark out. A creator's own logo, a stream overlay or a
+  broadcaster's score bug is fine and stays.
+- **No black bars.** Clips are cropped to fill the frame (see `/prep`). If the only way to remove the bars would cut off the
+  action, a caption burned into the video, or the creator's own logo/credit, skip the clip instead.
+- These apply to backlog clips too: check them before using one, and retire any that fail.
+
 ## Caption style
 - Hook first, under ~100 characters, conversational. Emojis on most captions (1–2): 😭😂 funny, 💀 fail, 😳 wild, 🥹 wholesome.
 - No hashtags (or 1 at most), no links.
