@@ -50,6 +50,9 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
   caption text set up the joke.
 - Mix: all 10 are streamer clips. No more than 2 from one streamer per day, and aim for at least 5 different streamers a day,
   so the feed isn't only Kai and Speed.
+- Every day include at least 3 **IRL stream** clips (out in public: trips, street run-ins, events; e.g. Clavicular and other
+  Kick IRL streamers) and at least 2 clips from **women streamers** (IRL or in-studio), when ones that pass the niche check exist.
+  Same rules as everyone else: no sexualized clips, no steroid or supplement promo, no harassing strangers.
 - Skip anything already all over the timeline for 2+ days.
 
 ## Video rules (all accounts, added 10/30)
