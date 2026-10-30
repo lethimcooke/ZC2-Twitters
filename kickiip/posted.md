@@ -42,40 +42,40 @@
 | 2026-10-30 | 10:00 AM | https://x.com/ChampionsLeague/status/2114750149050441911 | @ChampionsLeague | Dembélé's mum joined him on stage 🥹 | |
 | 2026-10-30 | 12:00 PM | https://www.tiktok.com/@overtime/video/7701052174754680077 | @IShowSpeed (found via @overtime) | When IShowSpeed dapped up Harry Kane 😭 | |
 | 2026-10-30 | 1:30 PM | https://x.com/kamakaziih/status/2114355161560994213 | @KaiCenat (clip: @kamakaziih) | SillyMusic found Kai Cenat AGAIN in Japan 😭 | |
-| 2026-10-30 | 3:00 PM | https://www.tiktok.com/@overtime/video/7701143780707142926 | creator unknown (via @overtime) | LeBron's handshake with everyone vs his handshake with Dean Wade 😭 | |
+| 2026-10-30 | 3:00 PM | https://x.com/kirawontmiss/status/1800368407075832304 | creator unknown (via @kirawontmiss) (backlog KB022) | What is even happening on this stream 😭 | |
 | 2026-10-30 | 5:00 PM | https://x.com/AdinReports/status/1956150040717566427 | @adinross (clip: @AdinReports) (backlog KB016) | MrBeast had enough of Adin Ross touching him 😭 | |
-| 2026-10-30 | 7:00 PM | https://www.tiktok.com/@overtime/video/7701174372953836813 | creator unknown (via @overtime) | The Zendaya effect 👀 | |
+| 2026-10-30 | 7:00 PM | https://x.com/scubaryan_/status/1756145875682820519 | @KaiCenat (clip: @scubaryan_) (backlog KB024) | Kai Cenat, Adin Ross and Speed met Tom Brady and he knew who they were 😳 | |
 | 2026-10-30 | 8:30 PM | https://x.com/ilySalt/status/2113862238721458594 | Silky (stream) (clip: @ilySalt) | Silky pulled up next to a Cadillac at the light and got humbled 💀 | |
 | 2026-10-30 | 10:00 PM | https://www.tiktok.com/@overtime/video/7701141430110096654 | @IShowSpeed (found via @overtime) | IShowSpeed when he realized Ronaldo isn't in the top 30 😭 | |
 | 2026-10-30 | 11:00 PM | https://x.com/yoxics/status/2113071892357877787 | @KaiCenat (clip: @yoxics) | Kai Cenat crashed IRL Mario Kart in Japan because he was on his phone 💀 | |
-| 2026-10-31 | 12:30 AM | https://x.com/crazyclipsonly/status/1744821280455475264 | creator unknown (via @crazyclipsonly) (backlog KB007) | Watch the woman standing behind Scarlett Johansson 😳 | |
+| 2026-10-31 | 12:30 AM | https://x.com/FearedBuck/status/1974333307367407792 | Lacy (stream) (found via @FearedBuck) | Lacy got Kevin Hart and Druski lookalikes on stream 😭 / Rate the lookalikes 1–10 | |
 | 2026-10-31 | 10:00 AM | https://x.com/SlatDontMiss/status/2114532544444059783 | @KaiCenat (clip: @SlatDontMiss) | Kai Cenat ran into another streamer on the street in Tokyo 😳 | |
 | 2026-10-31 | 12:00 PM | https://x.com/scubaryan_/status/2114869244227956805 | @IShowSpeed (clip: @scubaryan_) | IShowSpeed let Jeffy meet the actual Annabelle doll 😭 / Would you go in that room? | |
-| 2026-10-31 | 1:30 PM | https://x.com/womenpostingws/status/1900458448049103348 | creator unknown (via @womenpostingws) (backlog KB010) | Taty Girl stopped the fireworks because a dog was enjoying her show 🥹 | |
+| 2026-10-31 | 1:30 PM | https://x.com/yoxics/status/2116003381055733892 | LosPollosTV (stream) (clip: @yoxics) | Los Pollos started his Halloween stream dressed as Shrek 😭 | |
 | 2026-10-31 | 3:00 PM | https://x.com/userisstack/status/2114804189461434789 | Faxuty (stream) (clip: @userisstack) | Faxuty's kid pulled up and took over the whole stream 🥹 | |
-| 2026-10-31 | 5:00 PM | https://www.tiktok.com/@overtime/video/7700273477898554638 | @h00pifyshow (found via @overtime) | The LeBron song with a full choir 😭 | |
-| 2026-10-31 | 7:00 PM | https://x.com/historyinmemes/status/1755031054853743028 | creator unknown (via @historyinmemes) (backlog KB028) | Snoop Dogg left his live running for 8 hours 💀 | |
+| 2026-10-31 | 5:00 PM | https://x.com/SlatDontMiss/status/1890909382487007601 | Agent 00 (stream) (clip: @SlatDontMiss) | Agent really thought Duke Dennis and Marshawn Lynch were about to fight 😭 | |
+| 2026-10-31 | 7:00 PM | https://x.com/FearedBuck/status/1911230756384354304 | creator unknown (via @FearedBuck) | Shaq kept pressing Adin Ross at UFC 314 😭 / Who's winning this one? | |
 | 2026-10-31 | 8:30 PM | https://x.com/ilySalt/status/2115191585126433240 | Agent 00 (stream) (clip: @ilySalt) | Agent hit a diving crossbody off the top rope on his first try 😳 | |
 | 2026-10-31 | 10:00 PM | https://x.com/scubaryan_/status/2113475319126528119 | @KaiCenat (clip: @scubaryan_) | Kai Cenat tried samurai training in Japan and got jumped 😭 | |
 | 2026-10-31 | 11:00 PM | https://x.com/DramaAlert/status/1873226966960353508 | @IShowSpeed (backlog KB013) | IShowSpeed backflipped straight into his setup 💀 | |
-| 2026-11-01 | 12:30 AM | https://x.com/PopCrave/status/2114555539044839932 | creator unknown (via @PopCrave) | Lana Del Rey gave money to a stranger while Tate McRae played in the car 🥹 | |
-| 2026-11-01 | 10:00 AM | https://x.com/swifferupdates/status/2113805348410990916 | The Graham Norton Show (found via @swifferupdates) | Prince William says he tried to move Travis Kelce out of the photo 😂 | |
+| 2026-11-01 | 12:30 AM | https://x.com/scubaryan_/status/2115509134913139160 | Fanum (stream) (clip: @scubaryan_) | Fanum played Five Nights at Freddy's for the first time and ended stream after the jumpscare 💀 | |
+| 2026-11-01 | 10:00 AM | https://x.com/SlatDontMiss/status/2115465936408838329 | Ray (stream) (clip: @SlatDontMiss) | Madi2Hotty, Bilzo and Kelo flew to Taiwan to surprise Ray for his 21st birthday 🥹 | |
 | 2026-11-01 | 12:00 PM | https://www.tiktok.com/@overtime/video/7701045527621766414 | @IShowSpeed (found via @overtime) | When IShowSpeed met Lamine Yamal at the Ballon d'Or 😭 | |
 | 2026-11-01 | 1:30 PM | https://x.com/yoxics/status/2115323606905541056 | Lacy (stream) (clip: @yoxics) | Lacy thought he met a Japan local. He's from the same state 😭 | |
-| 2026-11-01 | 3:00 PM | https://x.com/PopBase/status/1948178816712544385 | @FallonTonight (backlog KB027) | Anthony Mackie recreated his own meme pose 😭 | |
+| 2026-11-01 | 3:00 PM | https://x.com/FearedBuck/status/1890879597471805547 | Agent 00 and Duke Dennis (stream) (found via @FearedBuck) | Agent and Duke Dennis met Jayson Tatum and brought up his "we did it" moment 😭 | |
 | 2026-11-01 | 5:00 PM | https://www.tiktok.com/@overtime/video/7700783129077779726 | @druski (via @whymedia_, per Overtime) | Druski at the park 😭 | |
 | 2026-11-01 | 7:00 PM | https://www.tiktok.com/@overtime/video/7699930049796951309 | @KaiCenat (found via @overtime) | All-time Kai Cenat clip 😭 | |
 | 2026-11-01 | 8:30 PM | https://x.com/scubaryan_/status/1881019725024829704 | creator unknown (via @scubaryan_) (backlog KB001) | She hid from the deer in Nara and one crept up right behind her 😭 | |
-| 2026-11-01 | 10:00 PM | https://x.com/waybackintimes/status/2113980504680865985 | creator unknown (via @waybackintimes) | Keke Palmer got jumpscared mid-interview when her son climbed onto the counter 😭 | |
+| 2026-11-01 | 10:00 PM | https://x.com/scubaryan_/status/1909301387193725113 | Agent 00 (stream) (clip: @scubaryan_) | Agent ate a whole Culver's burger in about 40 seconds on stream 😳 / Could you? | |
 | 2026-11-01 | 11:00 PM | https://x.com/TsByNats/status/2011064277432745994 | @IShowSpeed (backlog KB003) | IShowSpeed met two of his lookalikes in Ethiopia and they did the Spider-Man meme 😭 | |
-| 2026-11-02 | 12:30 AM | https://x.com/PopBase/status/1709088026364903857 | creator unknown (via @PopBase) (backlog KB025) | Drake gave $50K to the fan whose sign said his girlfriend left him 😭 | |
-| 2026-11-02 | 10:00 AM | https://x.com/beyoncegarden/status/2113870367248793654 | creator unknown (via @beyoncegarden (fan video)) | Blue Ivy on stage with Jay-Z 🥹 | |
+| 2026-11-02 | 12:30 AM | https://x.com/yoxics/status/2115281530302222498 | PlaqueBoyMax (stream) (clip: @yoxics) | Jahmyr Gibbs kept passing to himself in Madden and PlaqueBoyMax couldn't take it 😭 | |
+| 2026-11-02 | 10:00 AM | https://x.com/SlatDontMiss/status/1835035300030009812 | Duke Dennis (stream) (clip: @SlatDontMiss) | Duke Dennis hit a backflip and his back felt it right away 😭 | |
 | 2026-11-02 | 12:00 PM | https://x.com/SpeedUpdates1/status/2113713541157195902 | @IShowSpeed (clip: @SpeedUpdates1) | She stopped IShowSpeed to say she watches every stream 🥹 | |
 | 2026-11-02 | 1:30 PM | https://x.com/SlatDontMiss/status/1883213988336713885 | @KaiCenat (clip: @SlatDontMiss) (backlog KB012) | Duke Dennis and Kai Cenat with the Beyblades will never get old 😭 | |
-| 2026-11-02 | 3:00 PM | https://x.com/404xwavey/status/2114531203772559482 | creator unknown (via @404xwavey (broadcast)) | Shai Gilgeous-Alexander got emotional in his postgame interview 🥹 | |
+| 2026-11-02 | 3:00 PM | https://x.com/yoxics/status/1966526917282238521 | FaZe Adapt (stream) (clip: @yoxics) | A viewer said he was late, so Adapt restarted the whole stream 😭 | |
 | 2026-11-02 | 5:00 PM | https://x.com/Jingggxd/status/2114677287786594308 | @Jingggxd | Full-time streamer, full-time ace 😳 | |
 | 2026-11-02 | 7:00 PM | https://x.com/yoxics/status/2113445034318250356 | @KaiCenat (clip: @yoxics) | Kai Cenat FaceTimed StableRonaldo from a boat in Japan 😭 | |
-| 2026-11-02 | 8:30 PM | https://x.com/orlacsm/status/1612752389160816640 | The Eric Andre Show (backlog KB023) | She thought she was going on a normal talk show 💀 | |
-| 2026-11-02 | 10:00 PM | https://x.com/dom_lucre/status/1787176580466327702 | creator unknown (via @dom_lucre) (backlog KB014) | Sylvester Stallone gave a young fan the Rocky speech in person 🥹 | |
+| 2026-11-02 | 8:30 PM | https://x.com/streamupdates_/status/2103890129647714760 | Lacy (stream) (clip: @streamupdates_) | Lacy found a fan watching his stream and panned the camera to him. He had no idea 😭 | |
+| 2026-11-02 | 10:00 PM | https://x.com/FearedBuck/status/1905446533266366613 | creator unknown (via @FearedBuck) | Adin Ross smacked Shaq's leg and spilled his M&M's 😭 / Look at Shaq's face | |
 | 2026-11-02 | 11:00 PM | https://x.com/misterduby/status/1578171113779216384 | @IShowSpeed (backlog KB005) | IShowSpeed's Mario movie reaction will never get old 😭 | |
-| 2026-11-03 | 12:30 AM | https://x.com/historyinmemes/status/1757702722395209870 | creator unknown (via @historyinmemes) (backlog KB029) | Scotland welcomed Snoop Dogg with bagpipes on the runway 😭 | |
+| 2026-11-03 | 12:30 AM | https://x.com/Dexerto/status/1700237821770891507 | xQc (stream) (found via @Dexerto) | xQc didn't realize red lights apply to bikes too 💀 | |
