@@ -63,6 +63,10 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
 - **No black bars.** Clips are cropped to fill the frame (see `/prep`). If the only way to remove the bars would cut off the
   action, a caption burned into the video, or the creator's own logo/credit, skip the clip instead.
 - These apply to backlog clips too: check them before using one, and retire any that fail.
+- **No adult-content creators, ever.** Never open, use or credit an account that sells or links to adult content
+  (OnlyFans, Fansly, "18+", "link in bio" thirst accounts, NSFW). If a search result or a profile turns out to be one, close it
+  right away and move on; don't scroll it. Skip any clip whose creator is one, even if the clip itself looks clean.
+- When a session ends, leave the research browser on x.com/home (or close it), never on a profile or search page.
 
 ## Caption style
 - Hook first, under ~100 characters, conversational. Emojis on most captions (1–2): 😭😂 funny, 💀 fail, 😳 wild, 🥹 wholesome.
