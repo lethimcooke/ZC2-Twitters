@@ -4,7 +4,7 @@ Check that each handle still exists the first time you use it, and replace dead 
 
 ## Exclusion list (add to every query)
 ```
--trump -biden -harris -vance -election -democrat -republican -war -police -arrest -stake -roobet -casino -slots -gamble -giveaway -promo -onlyfans
+-trump -biden -harris -vance -election -democrat -republican -war -police -arrest -stake -roobet -casino -slots -gamble -giveaway -promo -onlyfans -fansly -nsfw -"18+" -"link in bio"
 ```
 
 ## X search queries

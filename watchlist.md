@@ -8,7 +8,7 @@ Every query ends with the exclusion list below. Always keep it on; it stops poli
 
 Exclusion list (add new words when off-niche clips keep showing up):
 ```
--trump -biden -harris -vance -election -congress -senate -democrat -republican -war -military -army -soldier -missile -drone -israel -gaza -ukraine -russia -iran -police -arrest -protest -breaking -riot -riots -looting -gunpoint -joongdunk
+-trump -biden -harris -vance -election -congress -senate -democrat -republican -war -military -army -soldier -missile -drone -israel -gaza -ukraine -russia -iran -police -arrest -protest -breaking -onlyfans -fansly -nsfw -"18+" -"link in bio" -riot -riots -looting -gunpoint -joongdunk
 ```
 
 ### Sports
