@@ -64,10 +64,12 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
 - **No black bars.** Clips are cropped to fill the frame (see `/prep`). If the only way to remove the bars would cut off the
   action, a caption burned into the video, or the creator's own logo/credit, skip the clip instead.
 - These apply to backlog clips too: check them before using one, and retire any that fail.
-- **Suggestive content is fine on this account** (changed 11/3): thirst, dancing, flirting, streamer drama, and streamers
-  who also run OnlyFans or similar. Limits: no explicit nudity or sex acts, never anyone who looks underage in a sexual
-  context, and no OnlyFans/Fansly links, promo codes or "link in bio" plugs in our captions. Skip clips that are themselves
-  ads for an adult page.
+- **Suggestive content is fine when it's stream content** (changed 11/3). Streamers who are also OnlyFans models are in the niche
+  and should be used (e.g. Piper Rockelle): their stream clips, IRL clips and collabs, including flirty or thirst moments.
+  Not in the niche: random OnlyFans or thirst accounts that don't stream, and clips that are just ads for an adult page.
+  Hard limits: no explicit nudity or sex acts; no OnlyFans/Fansly links, promo codes or "link in bio" plugs in our captions;
+  nothing sexual involving anyone under 18. For Piper Rockelle specifically, only use clips from after she turned 18
+  (August 2025): never anything from her child-YouTuber years.
 - When a session ends, leave the research browser on x.com/home (or close it), never on a profile or search page.
 
 ## Caption style
