@@ -53,6 +53,8 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
   creator's logo or credit. If it only works whole, it can run up to 2:20 (X's limit) as long as the payoff comes early.
 - Mix: all 10 are streamer clips. No more than 2 from one streamer per day, and aim for at least 5 different streamers a day,
   so the feed isn't only Kai and Speed.
+- **Owner-approved people and clip accounts** are listed in `kickiip/watchlist.md` under "Approved by the account owner".
+  Check them first every batch; aim for at least 2 of their clips a day.
 - **Clavicular is a priority**: include 1–2 Clavicular clips every day when any pass (he's the biggest IRL streamer right now).
 - Every day include at least 3 **IRL stream** clips (out in public: trips, street run-ins, events; e.g. Clavicular and other
   Kick IRL streamers) and at least 2 clips from **women streamers** (IRL or in-studio), when ones that pass the niche check exist.

@@ -7,6 +7,15 @@ Check that each handle still exists the first time you use it, and replace dead 
 -trump -biden -harris -vance -election -democrat -republican -war -police -arrest -stake -roobet -casino -slots -gamble -giveaway -promo -nsfw
 ```
 
+## Approved by the account owner (use these first; add new ones here as they're sent)
+Stream and IRL clips of these people are in the niche, including revealing or scandalous moments. Not in the niche: posts that
+exist to promote an adult page (link drops, "link in bio", subscription teasers). Never put adult links or promo in captions.
+- Clip accounts: @clipperviralhq
+- Streamers / personalities: Clavicular, Piper Rockelle (clips from after August 2025 only), Julia Filippo, Alice Rosenblum,
+  Sophie Rain, Zherka, Camilla Araujo
+Search each by name with `filter:native_video` and check their clip accounts every batch. Verify each one's X handle the first
+time and add it next to their name.
+
 ## X search queries
 ```
 (stream OR streamer OR "on stream" OR "live stream") filter:native_video min_faves:5000 within_time:24h lang:en <exclusions>
