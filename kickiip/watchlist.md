@@ -13,6 +13,8 @@ exist to promote an adult page (link drops, "link in bio", subscription teasers)
 - Clip accounts: @clipperviralhq @luxuries @teefyeclips @midaqih @streamzHQ @wydblaise @streamerbatch @ragergalactic @viewsceo @yoxics
 - Streamers / personalities: Clavicular, Piper Rockelle (clips from after August 2025 only), Julia Filippo, Alice Rosenblum,
   Sophie Rain, Zherka, Camilla Araujo, Jack Doherty, Bryce Hall, SteveWillDoIt, No Jumper podcast
+- Druski and his events (Coulda Been Records, his tours and live shows, his appearances on streams): high priority
+- SNEAKO, if he's actively streaming: use his IRL and stream moments; skip clips built around slurs or hate
 - Adult performers when they're on a stream or podcast (that clip, not their own adult content): Lily Phillips, Bonnie Blue,
   Mia Malkova, Lena the Plug, Breckie Hill, Violet Myers
 Search each by name with `filter:native_video` and check their clip accounts every batch. Verify each one's X handle the first
