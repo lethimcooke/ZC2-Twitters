@@ -45,6 +45,9 @@ Look at the video itself before suggesting it. If unsure, leave it out.
 ## Rules for picking clips
 - Prefer clips from the last 24–72 hours with high engagement for their account size; fitness clips age slower than sports.
 - 5–60 seconds, understandable with the sound off, the payoff in the first 3 seconds.
+- **Long clips (over 60s):** don't skip a strong clip just for length. Trim it to its best self-contained 15–60s stretch with
+  ffmpeg (`-ss <start> -to <end>`, re-encode H.264/AAC), keeping the start of the action and the payoff, and never cutting a
+  creator's logo or credit. If it only works whole, it can run up to 2:20 (X's limit) as long as the payoff comes early.
 - Fitness only (narrowed 10/29): every clip has to be about training, lifting, a physical skill or the gym. No general viral
   clips (cameramen, celebrity cameos, roadside feats) and no game highlights.
 - Mix: about 4 strength/skill, 3 gym moments (funny or wholesome), 2 inspiring, 1 athlete training or tip.

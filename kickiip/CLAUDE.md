@@ -48,6 +48,9 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
 - Prefer clips from the last 24–48 hours with high engagement for their account size.
 - 5–60 seconds, the payoff in the first 3 seconds. Clips that need sound are fine here if burned-in captions or the
   caption text set up the joke.
+- **Long clips (over 60s):** don't skip a strong clip just for length. Trim it to its best self-contained 15–60s stretch with
+  ffmpeg (`-ss <start> -to <end>`, re-encode H.264/AAC), keeping the start of the action and the payoff, and never cutting a
+  creator's logo or credit. If it only works whole, it can run up to 2:20 (X's limit) as long as the payoff comes early.
 - Mix: all 10 are streamer clips. No more than 2 from one streamer per day, and aim for at least 5 different streamers a day,
   so the feed isn't only Kai and Speed.
 - **Clavicular is a priority**: include 1–2 Clavicular clips every day when any pass (he's the biggest IRL streamer right now).

@@ -53,6 +53,9 @@ If you're unsure which bucket it's in, leave it out.
 ## Rules for picking clips
 - Prefer clips from the last 24–48 hours with high engagement for their account size (an outlier for that account, not just a big account).
 - 5–60 seconds, understandable with the sound off, the payoff in the first 3 seconds.
+- **Long clips (over 60s):** don't skip a strong clip just for length. Trim it to its best self-contained 15–60s stretch with
+  ffmpeg (`-ss <start> -to <end>`, re-encode H.264/AAC), keeping the start of the action and the payoff, and never cutting a
+  creator's logo or credit. If it only works whole, it can run up to 2:20 (X's limit) as long as the payoff comes early.
 - Mix: all 10 are sports. Spread them: no more than 2 from one sport or one creator per day, and aim for at least 4 different
   sports a day plus 2–3 fan/athlete moments (kids, wholesome, funny) so the feed isn't only highlights.
 - Skip anything already all over the timeline for 2+ days.
