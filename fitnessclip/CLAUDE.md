@@ -33,7 +33,7 @@ Reject it, whatever its numbers, if it's:
 - injuries, bad form that ends in a real injury, or dangerous challenges people might copy
 - steroid, SARMs or supplement promotion, sponsor reads, ads, giveaways, coupon codes
 - diet or medical claims (fat-loss hacks, "this cures…"), extreme cutting or dehydration content
-- sexualized clips where the "fitness" is just a pretext
+- clips where the "fitness" is just a pretext: fake workouts made as thirst bait or to funnel people to a subscription page
 - politics, hate, AI-generated clips, or staged clips passed off as real (obvious comedy skits are fine)
 
 Look at the video itself before suggesting it. If unsure, leave it out.
@@ -50,6 +50,7 @@ Look at the video itself before suggesting it. If unsure, leave it out.
   creator's logo or credit. If it only works whole, it can run up to 2:20 (X's limit) as long as the payoff comes early.
 - Fitness only (narrowed 10/29): every clip has to be about training, lifting, a physical skill or the gym. No general viral
   clips (cameramen, celebrity cameos, roadside feats) and no game highlights.
+- Heavy bodybuilding clips and short informational/form videos are especially good.
 - Mix: about 4 strength/skill, 3 gym moments (funny or wholesome), 2 inspiring, 1 athlete training or tip.
   No more than 2 from one creator per day.
 - Skip anything already all over the timeline for 2+ days.
@@ -65,9 +66,10 @@ Look at the video itself before suggesting it. If unsure, leave it out.
 - **No black bars.** Clips are cropped to fill the frame (see `/prep`). If the only way to remove the bars would cut off the
   action, a caption burned into the video, or the creator's own logo/credit, skip the clip instead.
 - These apply to backlog clips too: check them before using one, and retire any that fail.
-- **No adult-content creators, ever.** Never open, use or credit an account that sells or links to adult content
-  (OnlyFans, Fansly, "18+", "link in bio" thirst accounts, NSFW). If a search result or a profile turns out to be one, close it
-  right away and move on; don't scroll it. Skip any clip whose creator is one, even if the clip itself looks clean.
+- **Attractive or suggestive fitness creators are fine** (changed 11/3), any demographic, as long as the clip shows real training,
+  a real skill or real fitness content. Not fine: fake workouts made as thirst bait, posts that exist to push a subscription
+  or adult page, and any adult links, promo codes or "link in bio" plugs in our captions. Adults only: if you can't tell
+  someone is 18+, skip the clip.
 - When a session ends, leave the research browser on x.com/home (or close it), never on a profile or search page.
 
 ## Caption style

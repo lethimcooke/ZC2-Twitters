@@ -10,9 +10,11 @@ Check that each handle still exists the first time you use it, and replace dead 
 ## Approved by the account owner (use these first; add new ones here as they're sent)
 Stream and IRL clips of these people are in the niche, including revealing or scandalous moments. Not in the niche: posts that
 exist to promote an adult page (link drops, "link in bio", subscription teasers). Never put adult links or promo in captions.
-- Clip accounts: @clipperviralhq
+- Clip accounts: @clipperviralhq @luxuries @teefyeclips @midaqih @streamzHQ @wydblaise @streamerbatch @ragergalactic @viewsceo @yoxics
 - Streamers / personalities: Clavicular, Piper Rockelle (clips from after August 2025 only), Julia Filippo, Alice Rosenblum,
-  Sophie Rain, Zherka, Camilla Araujo
+  Sophie Rain, Zherka, Camilla Araujo, Jack Doherty, Bryce Hall, SteveWillDoIt, No Jumper podcast
+- Adult performers when they're on a stream or podcast (that clip, not their own adult content): Lily Phillips, Bonnie Blue,
+  Mia Malkova, Lena the Plug, Breckie Hill, Violet Myers
 Search each by name with `filter:native_video` and check their clip accounts every batch. Verify each one's X handle the first
 time and add it next to their name.
 

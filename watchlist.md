@@ -2,6 +2,11 @@
 
 Check that each handle still exists the first time you use it. Delete dead ones and add accounts that keep showing up in good results.
 
+## Approved by the account owner (check every batch; the list is a start, keep researching beyond it)
+@barstoolsports @bleacherreport @espnnba @legionhoops @internetinvitational @CFBONFOX @lakeshowyo @thedunkcentral
+Recent major sports clips are great, but the best performer so far was a throwback (Charlie Woods' ace with Tiger).
+Every batch, look for 1–2 nostalgic or "remember this" clips of famous athletes, on top of the backlog.
+
 ## X search queries
 Paste into x.com/search and look at both the **Top** and **Latest** tabs.
 Every query ends with the exclusion list below. Always keep it on; it stops politics, war and news from flooding the results.

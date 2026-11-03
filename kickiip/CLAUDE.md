@@ -24,7 +24,8 @@ A clip is in the niche if it's one of these:
   from popular streamers (Kick, Twitch, YouTube), including streamers at sports events.
 - **Streamers with celebrities**: a celebrity on a stream, at a streamer's event, or meeting a streamer IRL counts.
   A celebrity clip with no streamer in it (talk shows, red carpets, concerts, interviews) does not.
-- **Streamer culture**: streamer collabs, events, IRL trips, fan run-ins, chat moments, clips from streamer podcasts.
+- **Streamer culture**: streamer collabs, events, IRL trips, fan run-ins, chat moments, clips from streamer and creator
+  podcasts (No Jumper and similar), including adult performers appearing on a stream or podcast.
 
 Reject it, whatever its numbers, if it's:
 - politics, elections or political memes
