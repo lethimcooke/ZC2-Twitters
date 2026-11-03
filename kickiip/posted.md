@@ -79,3 +79,33 @@
 | 2026-11-02 | 10:00 PM | https://x.com/FearedBuck/status/1905446533266366613 | creator unknown (via @FearedBuck) | Adin Ross smacked Shaq's leg and spilled his M&M's 😭 / Look at Shaq's face | |
 | 2026-11-02 | 11:00 PM | https://x.com/misterduby/status/1578171113779216384 | @IShowSpeed (backlog KB005) | IShowSpeed's Mario movie reaction will never get old 😭 | |
 | 2026-11-03 | 12:30 AM | https://x.com/Dexerto/status/1700237821770891507 | xQc (stream) (found via @Dexerto) | xQc didn't realize red lights apply to bikes too 💀 | |
+| 2026-11-03 | 10:00 AM | https://x.com/scubaryan_/status/2117335770474184867 | CaseOh (stream) (clip: @scubaryan_) | CaseOh's jaw dropped when a whole castle got launched at him in Minecraft 😭 | |
+| 2026-11-03 | 12:00 PM | https://x.com/philipharts/status/1807453834916073630 | creator unknown (via @philipharts) (backlog KB033) | She summoned her boyfriend to voice Goofy on her stream 😭 / This will never get old | |
+| 2026-11-03 | 1:30 PM | https://x.com/ilySalt/status/2116804642512457910 | CORE (stream) (clip: @ilySalt) | The CORE boys were shocked when Fortnite showed their One Piece collab 😳 | |
+| 2026-11-03 | 3:00 PM | https://x.com/0xdiego404/status/2117080686817317292 | Clavicular (stream) (clip: @0xdiego404) | Clavicular walked into the club with two blondes 😳 | |
+| 2026-11-03 | 5:00 PM | https://x.com/StableRonaldoHQ/status/2116907337156047295 | StableRonaldo (stream) (clip: @StableRonaldoHQ) | StableRonaldo and Jason said "Balenciaga" in every accent in Japan 😭 | |
+| 2026-11-03 | 7:00 PM | https://x.com/SlatDontMiss/status/2116946411959001492 | Kai Cenat (stream) (clip: @SlatDontMiss) | Tyler Posey reacted to Kai Cenat's Teen Wolf costume 😭 | |
+| 2026-11-03 | 8:30 PM | https://x.com/Atlas8a/status/2116918911103119462 | Clavicular (stream) (clip: @Atlas8a) | Clavicular turned a casual couch hangout into a full cuddle session 😳 | |
+| 2026-11-03 | 10:00 PM | https://x.com/Agent00update/status/2116701907855310872 | Agent 00 (stream) (clip: @Agent00update) | Agent and Duke Dennis were in shock at what Silly did to Duke 😳 | |
+| 2026-11-03 | 11:00 PM | https://x.com/KillaKreww/status/2078563638839791648 | creator unknown (via @KillaKreww) (backlog KB032) | EmilyCC pulled up to Kai Cenat's stream and told him to end her 24/7 stream after 5 years 😳 | |
+| 2026-11-04 | 12:30 AM | https://x.com/scubaryan_/status/2089031326791766494 | Tyla (stream) (clip: @scubaryan_) (backlog KB042) | Tyla's first IRL stream drew a crowd so big she had to stop and check on the kids 😳 | |
+| 2026-11-04 | 10:00 AM | https://x.com/yoxics/status/1944566176769814566 | FaZe Rug (stream) (clip: @yoxics) (backlog KB044) | FaZe Rug pauses his whole stream when an ad plays so chat doesn't miss anything 🥹 | |
+| 2026-11-04 | 12:00 PM | https://x.com/scubaryan_/status/1911218601379438772 | Agent 00 (stream) (clip: @scubaryan_) (backlog KB046) | Agent's most awkward fan interaction ever 😭 | |
+| 2026-11-04 | 1:30 PM | https://x.com/norvex1029/status/2116880792500535622 | Clavicular (stream) (clip: @norvex1029) | She wanted Clavicular to hold her hand the whole time. Then he realized it looked like a date 😭 | |
+| 2026-11-04 | 3:00 PM | https://x.com/AMPexclusive/status/2117106834813173920 | AMP (stream) (clip: @AMPexclusive) | Fanum couldn't believe Kai came out in another Halloween costume 😭 | |
+| 2026-11-04 | 5:00 PM | https://x.com/scubaryan_/status/1938763684177944924 | Fanum (stream) (clip: @scubaryan_) (backlog KB035) | Fanum got swarmed at the mall and turned around to hug everyone 🥹 | |
+| 2026-11-04 | 7:00 PM | https://x.com/ChipGotIt_/status/2085151427882561662 | creator unknown (via @ChipGotIt_) (backlog KB055) | They started stream as three SpongeBob characters 😭 / Who nailed it? | |
+| 2026-11-04 | 8:30 PM | https://x.com/scubaryan_/status/2015811501756473539 | IShowSpeed (stream) (clip: @scubaryan_) (backlog KB021) | IShowSpeed's security ran into his own aunt in Ghana 🥹 | |
+| 2026-11-04 | 10:00 PM | https://x.com/CinnaUpdatess/status/1895596800444416144 | creator unknown (via @CinnaUpdatess) (backlog KB053) | Cinna, Valkyrae and Pokimane vs one spider 😭 | |
+| 2026-11-04 | 11:00 PM | https://x.com/scubaryan_/status/1819832606646837433 | IShowSpeed (stream) (clip: @scubaryan_) (backlog KB006) | IShowSpeed jumped over a Lamborghini and a McLaren on stream 😳 | |
+| 2026-11-05 | 12:30 AM | https://x.com/StreamersEra/status/2117101839405793529 | Kai Cenat and Duke Dennis (stream) (clip: @StreamersEra) | Kai knew exactly what Duke would say before he walked in 😭 / Who knows you that well? | |
+| 2026-11-05 | 10:00 AM | https://x.com/Dexerto/status/1622965155289092096 | creator unknown (via @Dexerto) (backlog KB060) | They need to take Hogwarts Legacy away from xQc 😭 | |
+| 2026-11-05 | 12:00 PM | https://x.com/clavicular/status/2117012278557937902 | @clavicular | Minimum IOI 😳 | |
+| 2026-11-05 | 1:30 PM | https://x.com/SlatDontMiss/status/1944210661258445258 | Duke Dennis (stream) (clip: @SlatDontMiss) (backlog KB040) | Duke Dennis stopped to talk with a young fan and it turned into a real moment 🥹 | |
+| 2026-11-05 | 3:00 PM | https://x.com/SlatDontMiss/status/1927026257411133864 | Fanum (stream) (clip: @SlatDontMiss) (backlog KB036) | Fanum stopping for his fans in NYC 🥹 | |
+| 2026-11-05 | 5:00 PM | https://x.com/domainsdomain/status/1849635026549301248 | creator unknown (via @domainsdomain) (backlog KB047) | YourRAGE walked into the back of Agent and QTCinderella's stream like nothing 💀 | |
+| 2026-11-05 | 7:00 PM | https://x.com/ilySalt/status/1898092238766588356 | Lacy (stream) (clip: @ilySalt) (backlog KB038) | Lacy went looking for fans in London and MrBeast flamed him 💀 | |
+| 2026-11-05 | 8:30 PM | https://x.com/Ading_1/status/1544860753668505600 | creator unknown (via @Ading_1) (backlog KB056) | Bella Poarch singing opera with Valkyrae and fuslie 😳 / Still can't believe this was real | |
+| 2026-11-05 | 10:00 PM | https://x.com/scubaryan_/status/1813602430837281024 | Kai Cenat (stream) (clip: @scubaryan_) (backlog KB018) | She threw water on Kai Cenat's whole fit 😭 | |
+| 2026-11-05 | 11:00 PM | https://x.com/AMPexclusive/status/2117110028364661075 | AMP (stream) (clip: @AMPexclusive) | Kai and Duke couldn't stop laughing at Fanum acting like he didn't know what to order 😭 | |
+| 2026-11-06 | 12:30 AM | https://x.com/CinnaUpdatess/status/1894971942618247490 | creator unknown (via @CinnaUpdatess) (backlog KB054) | Valkyrae and Cinna on the same couch was a bad idea 😭 | |

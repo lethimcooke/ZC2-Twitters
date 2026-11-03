@@ -152,3 +152,33 @@
 | 2026-11-02 | 8:30 PM | https://x.com/john322226/status/2115070323129532744 | creator unknown (via @john322226) | Mbappé stopped for a selfie with a young fan 🥹 | |
 | 2026-11-02 | 10:00 PM | https://x.com/PicturesFoIder/status/1953100731784810768 | creator unknown (via @PicturesFoIder) (backlog B032) | This kid made Tyreek Hill fall at his own camp 😭 | |
 | 2026-11-02 | 11:30 PM | https://x.com/crazyclipsonly/status/1741574952422080881 | creator unknown (via @crazyclipsonly) (backlog B044) | He started celebrating before the finish line 💀 | |
+| 2026-11-03 | 8:00 AM | https://x.com/InterMiamiCF/status/2117102801461346478 | @InterMiamiCF | The match-winner from this angle 🔥 | |
+| 2026-11-03 | 10:00 AM | https://x.com/TheHoopCentral/status/2117091759822152141 | creator unknown (via @TheHoopCentral (Lakers broadcast)) | Luka at the buzzer 🤯 | |
+| 2026-11-03 | 12:00 PM | https://x.com/AdriRM33/status/2116961768664932798 | creator unknown (via @AdriRM33 (creator unknown)) | Mbappé blamed Tchouaméni for the ball that hit this kid 😭 | |
+| 2026-11-03 | 1:30 PM | https://x.com/TennisTV/status/2116894394452160671 | @TennisTV | Alcaraz with the point of the match 🤯 / Rate it 1–10 | |
+| 2026-11-03 | 3:00 PM | https://www.tiktok.com/@bleacherreport/video/7703625729870744862 | @bleacherreport (TikTok) | Yaxel wanted a 40 piece. Steph and Draymond wanted it too 😂 | |
+| 2026-11-03 | 5:00 PM | https://x.com/espn/status/2116981230788854101 | @espn | Texas swept Texas A&M for the first time since 2019 🔥 | |
+| 2026-11-03 | 7:00 PM | https://www.tiktok.com/@bleacherreport/video/7703642896200781086 | creator unknown (via @BleacherReport (found via @bleacherreport)) | This Cowboys fan had enough after the OT loss 😭 | |
+| 2026-11-03 | 8:30 PM | https://x.com/SportsCenter/status/2117054038852419956 | @NFL (found via @SportsCenter) | Broncos goal-line stand for the win 🤯 | |
+| 2026-11-03 | 10:00 PM | https://x.com/historyinmemes/status/1728191305648660844 | creator unknown (via @historyinmemes) (backlog B031) | The whole arena cheered every time this kid came on the screen 😭 | |
+| 2026-11-03 | 11:30 PM | https://x.com/MLB/status/1959771129532342593 | @MLB (backlog B027) | That popcorn bag is bigger than the kid 😭 | |
+| 2026-11-04 | 8:00 AM | https://www.tiktok.com/@nfl/video/7703618475083812109 | @NFL | Baker Mayfield out here looking for blocks 💪 | |
+| 2026-11-04 | 10:00 AM | https://www.tiktok.com/@nfl/video/7703617754363890958 | @NFL | Bo Nix showed Patrick Mahomes some love after the game 🥹 | |
+| 2026-11-04 | 12:00 PM | https://x.com/HumansNoContext/status/1822195037335085064 | creator unknown (via @HumansNoContext) (backlog B065) | Keep your eyes on the mascot 😭 | |
+| 2026-11-04 | 1:30 PM | https://www.tiktok.com/@espn/video/7703673390925745439 | @espnW (ESPN broadcast) | Dad Matt Harpring told UNC's Kate Harpring to rebound 😂 | |
+| 2026-11-04 | 3:00 PM | https://x.com/MLS/status/1988638850969657423 | @MLS (backlog B067) | Imagine scoring a bicycle kick at 13 🤯 | |
+| 2026-11-04 | 5:00 PM | https://www.tiktok.com/@nba/video/7703687771549912351 | creator unknown (via @NBA (found via @NBA TikTok)) | Cooper Flagg came through for this kid 🥹 | |
+| 2026-11-04 | 7:00 PM | https://x.com/TrollFootball/status/1791172848892936686 | creator unknown (via @TrollFootball) (backlog B029) | Keeper saves a 90th-minute penalty, the ref orders a retake, and he saves that one too 🤯 | |
+| 2026-11-04 | 8:30 PM | https://x.com/WolfofX/status/1930675078640849278 | @MLB (backlog B028) | Gave the foul ball to a kid. A few innings later, this happened 🥹 | |
+| 2026-11-04 | 10:00 PM | https://x.com/TheFigen_/status/1752740906443092097 | creator unknown (via @TheFigen_) (backlog B013) | Skiing straight across a lake like it's nothing 🤯 | |
+| 2026-11-04 | 11:30 PM | https://x.com/DiscussingFilm/status/1866193352082743498 | @ICdave (backlog B053) | Bob Odenkirk ended up on the celebrity lookalike cam at a Jets game 😭 | |
+| 2026-11-05 | 8:00 AM | https://x.com/TylerRatcliff17/status/2116532219116396968 | creator unknown (via @TylerRatcliff17 (creator unknown)) | How about this play to end a high school football game 🤯 | |
+| 2026-11-05 | 10:00 AM | https://www.tiktok.com/@houseofhighlights/video/7703696759620373773 | creator unknown (via @houseofhighlights (TikTok, per House of Highlights)) | Pops is her biggest hater 😭 | |
+| 2026-11-05 | 12:00 PM | https://x.com/dog_rates/status/1815520864969875775 | creator unknown (via @dog_rates) (backlog B064) | Layla the bat dog bringing in the bat one last time 🥹 | |
+| 2026-11-05 | 1:30 PM | https://x.com/keisyaclarissa/status/2050529027224743980 | creator unknown (via @keisyaclarissa) (backlog B003) | He built a whole obstacle course of pans for one ping pong ball 😭 | |
+| 2026-11-05 | 3:00 PM | https://www.tiktok.com/@espn/video/7703680297904213278 | creator unknown (via @espn (found via @espn TikTok)) | She started at 9am and finished at midnight. The crowd stayed 🥹 | |
+| 2026-11-05 | 5:00 PM | https://www.tiktok.com/@overtime/video/7703581072000339213 | creator unknown (via @overtime (found via @overtime)) | That first move is actually insane 🤯 | |
+| 2026-11-05 | 7:00 PM | https://www.tiktok.com/@overtime/video/7703471352916790541 | creator unknown (via @overtime (found via @overtime)) | So many NFL teams need him right now 😭 | |
+| 2026-11-05 | 8:30 PM | https://x.com/BleacherReport/status/1964343805777166351 | creator unknown (via @BleacherReport) (backlog B046) | The Phillies brought Lincoln into the locker room and Harrison Bader gave him a signed bat 🥹 | |
+| 2026-11-05 | 10:00 PM | https://x.com/CrewsMat10/status/1696123352354619579 | creator unknown (via @CrewsMat10) (backlog B045) | Messi on the floor playing with his son Ciro 🥹 | |
+| 2026-11-05 | 11:30 PM | https://x.com/FearedBuck/status/2012951229333209332 | @IShowSpeed (backlog B051) | IShowSpeed was the mascot for the AFCON final and the whole stadium erupted 😳 | |

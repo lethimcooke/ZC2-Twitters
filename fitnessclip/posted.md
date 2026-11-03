@@ -52,3 +52,33 @@
 | 2026-11-02 | 7:00 PM | https://www.tiktok.com/@houseofhighlights/video/7701509860361391374 | @NBA (found via @houseofhighlights) | Mitchell Robinson playing bully ball 💪 | |
 | 2026-11-02 | 8:30 PM | https://www.tiktok.com/@larrywheels/video/7684011474158750989 | @larrywheels (TikTok) | He was tough to catch 😳 | |
 | 2026-11-02 | 10:00 PM | https://x.com/TheHoopCentral/status/2105058086264123520 | @sixers (found via @TheHoopCentral) | LeBron to VJ Edgecombe at training camp 😳 | |
+| 2026-11-03 | 6:30 AM | https://x.com/historyinmemes/status/1773440925680742709 | ESPN (found via @historyinmemes) (backlog FB031) | Hafthor's 501 kg (1,104 lb) deadlift 🤯 / This will never get old | |
+| 2026-11-03 | 8:00 AM | https://x.com/PicturesFoIder/status/1922393719665234206 | creator unknown (via @PicturesFoIder) (backlog FB045) | Fingertip push-ups. Now look at his feet 😳 / Could you do one rep? | |
+| 2026-11-03 | 10:00 AM | https://x.com/Brink_Thinker/status/1951638073432789049 | creator unknown (via @Brink_Thinker) (backlog FB049) | He has cerebral palsy and he just loaded the Atlas stone 🥹 | |
+| 2026-11-03 | 12:00 PM | https://x.com/overtime/status/1630669155904151552 | kingbishop73 (TikTok) (backlog FB032) | His spotter just stood there and watched 💀 / Tag your spotter | |
+| 2026-11-03 | 2:00 PM | https://x.com/interesting_aIl/status/1874276286626967939 | Gero Arias (backlog FB048) | Gero Arias started the year with 1 pull-up and added one every day. He finished with 67,161 🥹 | |
+| 2026-11-03 | 4:00 PM | https://x.com/KemariCopeland/status/1806735665599480273 | @KemariCopeland (backlog FB039) | Kemari Copeland squatted 605 lb for 10 reps 🤯 | |
+| 2026-11-03 | 5:30 PM | https://x.com/historyinmemes/status/1766667797650936144 | creator unknown (via @historyinmemes) (backlog FB062) | Jesus Olivares squatted 478 kg (1,053.8 lb) for a world record 🤯 / Still one of the strongest clips ever | |
+| 2026-11-03 | 7:00 PM | https://x.com/DiloConPerritos/status/1990209279534485679 | creator unknown (via @DiloConPerritos) (backlog FB035) | When you start working out at home and your gym bro shows up 😭 | |
+| 2026-11-03 | 8:30 PM | https://x.com/InternetH0F/status/1775206659922563555 | creator unknown (via @InternetH0F) (backlog FB036) | Muscles vs real strength 😳 / Who you got? | |
+| 2026-11-03 | 10:00 PM | https://x.com/ShannenPill/status/1613485000485400578 | @ShannenPill (backlog FB044) | She did a handstand, drew the bow with her feet and hit the target 🤯 | |
+| 2026-11-04 | 6:30 AM | https://x.com/ThorBjornsson_/status/1949426769355841794 | @ThorBjornsson_ (backlog FB029) | Hafthor pulled 505 kg (1,113 lb) 🤯 / Still one of the strongest clips ever | |
+| 2026-11-04 | 8:00 AM | https://x.com/overtime/status/1605269834518138881 | vinaceee (TikTok) (backlog FB033) | He let his girl spot him on bench 😭 / Would you trust yours? | |
+| 2026-11-04 | 10:00 AM | https://x.com/Rainmaker1973/status/1754802245462343958 | axelmarilyn (backlog FB046) | Her grip strength on this climbing wall 🤯 | |
+| 2026-11-04 | 12:00 PM | https://x.com/TheFigen_/status/1918398922172555420 | creator unknown (via @TheFigen_) (backlog FB037) | Everyone pulled with their arms. He used his legs 😳 | |
+| 2026-11-04 | 2:00 PM | https://x.com/NBCSports/status/1821911507925373211 | @NBCSports (backlog FB043) | Rizki Juniansyah weighs about 160 lb. He put 437 lb over his head 🤯 | |
+| 2026-11-04 | 4:00 PM | https://x.com/MLFootball/status/1956504073533792625 | creator unknown (via @MLFootball) (backlog FB065) | Deion Sanders benching 245 lb at nearly 60, in regular clothes 😳 / What's your max? | |
+| 2026-11-04 | 5:30 PM | https://x.com/GrantSSC/status/1422224155064225793 | creator unknown (via @GrantSSC) (backlog FB050) | She's 85 and still deadlifting 🥹 | |
+| 2026-11-04 | 7:00 PM | https://x.com/crazyclipsonly/status/1728119289897709993 | creator unknown (via @crazyclipsonly) (backlog FB034) | 405 on bench with no spotter 💀 | |
+| 2026-11-04 | 8:30 PM | https://x.com/SquatUniversity/status/1856378116127555961 | @SquatUniversity (backlog FB055) | Try this on your next set of push-ups 💪 / Did you know this one? | |
+| 2026-11-04 | 10:00 PM | https://x.com/Sabine_BC/status/1629134803982512129 | @Sabine_BC (backlog FB064) | At 40 she couldn't do a single pull-up. Weeks before turning 50, look at her now 🥹 | |
+| 2026-11-05 | 6:30 AM | https://x.com/ThorBjornsson_/status/2021625601095004643 | @ThorBjornsson_ (backlog FB030) | Everyone else tried the 30 kg keg toss. Then Hafthor stepped up 😳 | |
+| 2026-11-05 | 8:00 AM | https://x.com/BloodyElbow/status/1709335651840049621 | creator unknown (via @BloodyElbow) (backlog FB063) | Bradley Martyn tried to wrestle Brian Shaw 😭 / Who you got? | |
+| 2026-11-05 | 10:00 AM | https://x.com/espn/status/1383827563634561031 | creator unknown (via @espn) (backlog FB054) | Zac Sanders has been the team manager since junior high. Watch the team when he beats his vertical jump PR 🥹 | |
+| 2026-11-05 | 12:00 PM | https://x.com/historyinmemes/status/1686411205630480390 | creator unknown (via @historyinmemes) (backlog FB047) | Valentin Dikul juggling 40 kg (88 lb) balls in 1985 🤯 / Still can't believe this was real | |
+| 2026-11-05 | 2:00 PM | https://x.com/interesting_aIl/status/1967219830529916938 | creator unknown (via @interesting_aIl) (backlog FB038) | Hold the water jug out straight. Easy, right? 😳 / How long could you last? | |
+| 2026-11-05 | 4:00 PM | https://x.com/overtime/status/2061266099547914662 | h20fitness (backlog FB066) | Victor Wembanyama's underwater training session 😳 | |
+| 2026-11-05 | 5:30 PM | https://x.com/PicturesFoIder/status/1932343593693266276 | creator unknown (via @PicturesFoIder) (backlog FB051) | She's 70 and trap bar deadlifted 103 kg (227 lb) 🤯 / What's your max? | |
+| 2026-11-05 | 7:00 PM | https://x.com/overtime/status/1639004590505971712 | @LoganPaul (backlog FB041) | Logan Paul made a 60-inch box jump look easy 😳 / Could you clear it? | |
+| 2026-11-05 | 8:30 PM | https://x.com/SquatUniversity/status/1706779975683055684 | @SquatUniversity (backlog FB058) | Dr. Stuart McGill's pull-up method 💪 / Did you know this one? | |
+| 2026-11-05 | 10:00 PM | https://x.com/SportsCenter/status/1286290539474817024 | @NubAbility (backlog FB053) | Tim beat his fear and landed the box jump. Watch the whole gym 🥹 | |
