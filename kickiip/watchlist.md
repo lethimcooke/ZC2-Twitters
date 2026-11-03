@@ -18,6 +18,24 @@ exist to promote an adult page (link drops, "link in bio", subscription teasers)
 Search each by name with `filter:native_video` and check their clip accounts every batch. Verify each one's X handle the first
 time and add it next to their name.
 
+## Research seeds (from a deep dive on 11/3; verify each handle and that they're active before first use)
+These widen the net. They are not a limit: keep researching what's trending every batch and add new finds to "Discovered".
+English-speaking audience first; big non-English streamers only when a clip works without the language.
+
+Men streamers and creators: Kai Cenat, IShowSpeed, Adin Ross, xQc, Clavicular, Duke Dennis, Fanum, Agent 00, Lacy, Jynxzi,
+Sketch, N3ON, CaseOh, Silky, Marlon, RayAsianBoy, PlaqueBoyMax, StableRonaldo, JasonTheWeen, Deshae Frost, DeenTheGreat,
+Jack Doherty, Bryce Hall, SteveWillDoIt, Trainwreckstv (non-gambling clips only), Ice Poseidon, Ludwig, FaZe Rug, Zherka,
+WestCOL (top Kick by followers)
+Women streamers and personalities: Valkyrae, Pokimane, Emiru, Fanfan, Cinna, Kyedae, QTCinderella, fuslie, Cuffem,
+Amouranth, Morgpie, Hannah Owo, Corinna Kopf, Breckie Hill, Sophie Rain, Alice Rosenblum, Julia Filippo, Camilla Araujo,
+Piper Rockelle (after Aug 2025 only), Bhad Bhabie, Hailey Welch
+Adult performers when they're on a stream or podcast: Lily Phillips, Bonnie Blue, Mia Malkova, Lena the Plug, Violet Myers,
+Adriana Chechik
+Podcasts and shows: No Jumper, Full Send (NELK), BFFs, Impaulsive, Whatever, Talk Tuah, H3, Adin Ross's stream shows,
+Kai Cenat's events (e.g. Streamer University)
+Where to check what's trending: streamscharts.com and kickranker.com top lists (who's live and growing this week), Kick and
+Twitch "trending clips", the clip accounts above, and vidIQ outliers.
+
 ## Discovered (added by Claude during research; keep growing this)
 Streamers and clip accounts found in research that are worth checking again. Add the handle, who they are, and the date.
 

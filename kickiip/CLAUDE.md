@@ -62,6 +62,9 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
   blow up because they're attractive or suggestive. Find them through trending X searches, streamer clip accounts, Kick and
   Twitch trending clips, and vidIQ. Add each new streamer or clip account you'd use again to "Discovered" in
   `kickiip/watchlist.md` so the list keeps growing.
+- **Two kinds of clips, both priorities:** clips that have already gone viral (high views/likes for the account), and fresh
+  moments with clear potential (a big streamer or personality, a wild or scandalous moment, posted in the last 24–48 hours,
+  picking up fast). Each day should have both.
 - **Adults only.** Before using a suggestive clip of anyone, be sure they're 18+ (a known age, or clearly an adult). If you
   can't tell, skip it.
 - **Clavicular is a priority**: include 1–2 Clavicular clips every day when any pass (he's the biggest IRL streamer right now).
