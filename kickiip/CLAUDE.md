@@ -29,7 +29,7 @@ A clip is in the niche if it's one of these:
 Reject it, whatever its numbers, if it's:
 - politics, elections or political memes
 - slurs, hate, harassment, or a pile-on against a private person
-- sexual content or nudity, or anything sexualizing or demeaning a minor
+- explicit nudity or sex acts (X marks these as sensitive media and buries them), or anything sexualizing or demeaning a minor
 - gambling or casino streams, betting promos, sponsor reads, ads or giveaways
 - graphic violence or injuries, real fights, crime, police, or mocking someone who's hurt
 - doxxing or anything showing someone's private info (addresses, phone numbers, messages)
@@ -50,9 +50,10 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
   caption text set up the joke.
 - Mix: all 10 are streamer clips. No more than 2 from one streamer per day, and aim for at least 5 different streamers a day,
   so the feed isn't only Kai and Speed.
+- **Clavicular is a priority**: include 1–2 Clavicular clips every day when any pass (he's the biggest IRL streamer right now).
 - Every day include at least 3 **IRL stream** clips (out in public: trips, street run-ins, events; e.g. Clavicular and other
   Kick IRL streamers) and at least 2 clips from **women streamers** (IRL or in-studio), when ones that pass the niche check exist.
-  Same rules as everyone else: no sexualized clips, no steroid or supplement promo, no harassing strangers.
+  No steroid or supplement promo, no harassing strangers.
 - Skip anything already all over the timeline for 2+ days.
 
 ## Video rules (all accounts, added 10/30)
@@ -63,9 +64,10 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
 - **No black bars.** Clips are cropped to fill the frame (see `/prep`). If the only way to remove the bars would cut off the
   action, a caption burned into the video, or the creator's own logo/credit, skip the clip instead.
 - These apply to backlog clips too: check them before using one, and retire any that fail.
-- **No adult-content creators, ever.** Never open, use or credit an account that sells or links to adult content
-  (OnlyFans, Fansly, "18+", "link in bio" thirst accounts, NSFW). If a search result or a profile turns out to be one, close it
-  right away and move on; don't scroll it. Skip any clip whose creator is one, even if the clip itself looks clean.
+- **Suggestive content is fine on this account** (changed 11/3): thirst, dancing, flirting, streamer drama, and streamers
+  who also run OnlyFans or similar. Limits: no explicit nudity or sex acts, never anyone who looks underage in a sexual
+  context, and no OnlyFans/Fansly links, promo codes or "link in bio" plugs in our captions. Skip clips that are themselves
+  ads for an adult page.
 - When a session ends, leave the research browser on x.com/home (or close it), never on a profile or search page.
 
 ## Caption style

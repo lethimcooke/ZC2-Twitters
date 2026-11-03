@@ -4,7 +4,7 @@ Check that each handle still exists the first time you use it, and replace dead 
 
 ## Exclusion list (add to every query)
 ```
--trump -biden -harris -vance -election -democrat -republican -war -police -arrest -stake -roobet -casino -slots -gamble -giveaway -promo -onlyfans -fansly -nsfw -"18+" -"link in bio"
+-trump -biden -harris -vance -election -democrat -republican -war -police -arrest -stake -roobet -casino -slots -gamble -giveaway -promo -nsfw
 ```
 
 ## X search queries
@@ -14,7 +14,7 @@ Check that each handle still exists the first time you use it, and replace dead 
 ("IRL stream" OR "stream got" OR "chat was") filter:native_video min_faves:2000 within_time:48h <exclusions>
 (Twitch OR Kick OR "YouTube live") (clip OR moment) filter:native_video min_faves:3000 within_time:48h <exclusions>
 ("Duke Dennis" OR Lacy OR Agent OR "Jynxzi" OR "Sketch" OR "Marlon" OR "Silky" OR "N3ON") filter:native_video min_faves:2000 within_time:48h <exclusions>
-(Clavicular OR "IRL stream" OR "IRL streamer" OR "Kick IRL") filter:native_video min_faves:1000 within_time:48h <exclusions>
+(Clavicular OR clavicular OR "Clav" OR "IRL stream" OR "IRL streamer" OR "Kick IRL") filter:native_video min_faves:1000 within_time:48h <exclusions>
 ("streamer girl" OR "female streamer" OR "her stream" OR "she streams" OR Valkyrae OR Pokimane OR Emiru OR Kyedae OR Fanfan) filter:native_video min_faves:1000 within_time:48h <exclusions>
 ```
 
