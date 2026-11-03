@@ -16,6 +16,9 @@ exist to promote an adult page (link drops, "link in bio", subscription teasers)
 Search each by name with `filter:native_video` and check their clip accounts every batch. Verify each one's X handle the first
 time and add it next to their name.
 
+## Discovered (added by Claude during research; keep growing this)
+Streamers and clip accounts found in research that are worth checking again. Add the handle, who they are, and the date.
+
 ## X search queries
 ```
 (stream OR streamer OR "on stream" OR "live stream") filter:native_video min_faves:5000 within_time:24h lang:en <exclusions>

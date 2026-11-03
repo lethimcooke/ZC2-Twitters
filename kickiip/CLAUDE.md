@@ -55,6 +55,14 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
   so the feed isn't only Kai and Speed.
 - **Owner-approved people and clip accounts** are listed in `kickiip/watchlist.md` under "Approved by the account owner".
   Check them first every batch; aim for at least 2 of their clips a day.
+- **The approved list is a starting point, not a limit.** Every batch, do your own research on what's going viral in streaming
+  right now: the top men streamers driving clips this week (Kai, Speed, Adin, xQc, Duke Dennis, Fanum, Lacy, Agent, Jynxzi,
+  Sketch, N3ON, Clavicular and whoever is trending), and the young women streamers whose clips go viral, including clips that
+  blow up because they're attractive or suggestive. Find them through trending X searches, streamer clip accounts, Kick and
+  Twitch trending clips, and vidIQ. Add each new streamer or clip account you'd use again to "Discovered" in
+  `kickiip/watchlist.md` so the list keeps growing.
+- **Adults only.** Before using a suggestive clip of anyone, be sure they're 18+ (a known age, or clearly an adult). If you
+  can't tell, skip it.
 - **Clavicular is a priority**: include 1–2 Clavicular clips every day when any pass (he's the biggest IRL streamer right now).
 - Every day include at least 3 **IRL stream** clips (out in public: trips, street run-ins, events; e.g. Clavicular and other
   Kick IRL streamers) and at least 2 clips from **women streamers** (IRL or in-studio), when ones that pass the niche check exist.
