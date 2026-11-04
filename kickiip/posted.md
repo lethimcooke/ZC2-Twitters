@@ -79,11 +79,6 @@
 | 2026-11-02 | 10:00 PM | https://x.com/FearedBuck/status/1905446533266366613 | creator unknown (via @FearedBuck) | Adin Ross smacked Shaq's leg and spilled his M&M's 😭 / Look at Shaq's face | |
 | 2026-11-02 | 11:00 PM | https://x.com/misterduby/status/1578171113779216384 | @IShowSpeed (backlog KB005) | IShowSpeed's Mario movie reaction will never get old 😭 | |
 | 2026-11-03 | 12:30 AM | https://x.com/Dexerto/status/1700237821770891507 | xQc (stream) (found via @Dexerto) | xQc didn't realize red lights apply to bikes too 💀 | |
-| 2026-11-03 | 10:00 AM | https://x.com/scubaryan_/status/2117335770474184867 | CaseOh (stream) (clip: @scubaryan_) | CaseOh's jaw dropped when a whole castle got launched at him in Minecraft 😭 | |
-| 2026-11-03 | 12:00 PM | https://x.com/philipharts/status/1807453834916073630 | creator unknown (via @philipharts) (backlog KB033) | She summoned her boyfriend to voice Goofy on her stream 😭 / This will never get old | |
-| 2026-11-03 | 1:30 PM | https://x.com/ilySalt/status/2116804642512457910 | CORE (stream) (clip: @ilySalt) | The CORE boys were shocked when Fortnite showed their One Piece collab 😳 | |
-| 2026-11-03 | 3:00 PM | https://x.com/0xdiego404/status/2117080686817317292 | Clavicular (stream) (clip: @0xdiego404) | Clavicular walked into the club with two blondes 😳 | |
-| 2026-11-03 | 5:00 PM | https://x.com/StableRonaldoHQ/status/2116907337156047295 | StableRonaldo (stream) (clip: @StableRonaldoHQ) | StableRonaldo and Jason said "Balenciaga" in every accent in Japan 😭 | |
 | 2026-11-03 | 7:00 PM | https://x.com/SlatDontMiss/status/2116946411959001492 | Kai Cenat (stream) (clip: @SlatDontMiss) | Tyler Posey reacted to Kai Cenat's Teen Wolf costume 😭 | |
 | 2026-11-03 | 8:30 PM | https://x.com/Atlas8a/status/2116918911103119462 | Clavicular (stream) (clip: @Atlas8a) | Clavicular turned a casual couch hangout into a full cuddle session 😳 | |
 | 2026-11-03 | 10:00 PM | https://x.com/Agent00update/status/2116701907855310872 | Agent 00 (stream) (clip: @Agent00update) | Agent and Duke Dennis were in shock at what Silly did to Duke 😳 | |
