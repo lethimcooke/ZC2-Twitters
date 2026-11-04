@@ -40,6 +40,11 @@ Twitch "trending clips", the clip accounts above, and vidIQ outliers.
 
 ## Discovered (added by Claude during research; keep growing this)
 Streamers and clip accounts found in research that are worth checking again. Add the handle, who they are, and the date.
+- @KillaKreww: clip account for Druski's Coulda Been Records auditions and Druski on Kai's streams; posts get 20K–116K likes (11/4)
+- @TsByNats: IShowSpeed tour clips; Speed meeting his lookalikes in Ethiopia got 296K / 15.2M (11/4)
+- @barragers and @Clav0Updates: Clavicular clip accounts. Most of their big posts are scandal or politics, so check each one (11/4)
+- @Agent00update and @CaseOhUpdates0: fan clip accounts for Agent 00 and CaseOh, active daily (11/4)
+- @Kick_Champ: Kick streamer clips, mostly SNEAKO; many are drama, check each one (11/4)
 
 ## X search queries
 ```
