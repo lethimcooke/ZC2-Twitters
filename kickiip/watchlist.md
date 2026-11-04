@@ -10,7 +10,7 @@ Check that each handle still exists the first time you use it, and replace dead 
 ## Approved by the account owner (use these first; add new ones here as they're sent)
 Stream and IRL clips of these people are in the niche, including revealing or scandalous moments. Not in the niche: posts that
 exist to promote an adult page (link drops, "link in bio", subscription teasers). Never put adult links or promo in captions.
-- Clip accounts: @clipperviralhq @luxuries @teefyeclips @midaqih @streamzHQ @wydblaise @streamerbatch @ragergalactic @viewsceo @yoxics
+- Clip accounts: @clipperviralhq @ClipOverdose @luxuries @teefyeclips @midaqih @streamzHQ @wydblaise @streamerbatch @ragergalactic @viewsceo @yoxics
 - Streamers / personalities: Clavicular, Piper Rockelle (clips from after August 2025 only), Julia Filippo, Alice Rosenblum,
   Sophie Rain, Zherka, Camilla Araujo, Jack Doherty, Bryce Hall, SteveWillDoIt, No Jumper podcast
 - Druski and his events (Coulda Been Records, his tours and live shows, his appearances on streams): high priority
@@ -19,6 +19,11 @@ exist to promote an adult page (link drops, "link in bio", subscription teasers)
   Mia Malkova, Lena the Plug, Breckie Hill, Violet Myers
 Search each by name with `filter:native_video` and check their clip accounts every batch. Verify each one's X handle the first
 time and add it next to their name.
+
+## Owner-sent clips to add (add to the backlog on the next run, then delete the line)
+- https://x.com/ClipOverdose/status/2118065076733378866 (Alice Rosenblum in a bikini on stream)
+- https://x.com/ClipperViralHQ/status/2118006549218197578 (Clavicular kissing a girl on stream)
+These are the kind of clip the owner wants: suggestive stream/IRL moments that go viral because of who's in them.
 
 ## Research seeds (from a deep dive on 11/3; verify each handle and that they're active before first use)
 These widen the net. They are not a limit: keep researching what's trending every batch and add new finds to "Discovered".
