@@ -81,12 +81,12 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
 - **No black bars.** Clips are cropped to fill the frame (see `/prep`). If the only way to remove the bars would cut off the
   action, a caption burned into the video, or the creator's own logo/credit, skip the clip instead.
 - These apply to backlog clips too: check them before using one, and retire any that fail.
-- **The formula that's taking over the streamer/IRL niche:** people on a live stream or IRL clip looking good or doing
-  something crazy. That's what pulls millions of views. Examples (illustrations only, not the limit): Alice Rosenblum in a
-  bikini on stream, Clavicular kissing a girl on stream. Use the owner's foundation of people and content as a starting point
-  and build outward: find more streamers, personalities and moments like these every batch.
-- **The line:** it has to be a stream, podcast or IRL clip where it happens naturally. Not the kind of posed, explicit-leaning
-  content that adult film stars or OnlyFans accounts make to promote their pages.
+- **Main guide: what's already going viral on X clipping accounts.** Anything in the streamer / IRL / live stream / podcast
+  world that's blowing up on clip accounts right now is what will go viral for us: funny, wild, wholesome, drama, collabs,
+  reactions, IRL chaos, podcast moments and every other style. The owner's people, accounts and content types are the
+  foundation; build outward from them and don't limit yourself to them.
+- **Don't skip a clip for being a bit suggestive or controversial.** If it's a natural stream/IRL/podcast moment (someone
+  looking good on stream, a kiss, a wild or scandalous moment) and it's in the niche, it's usable within the hard limits below.
 - **Suggestive content is fine when it's stream content** (changed 11/3). Streamers who are also OnlyFans models are in the niche
   and should be used (e.g. Piper Rockelle): their stream clips, IRL clips and collabs, including flirty or thirst moments.
   Not in the niche: random OnlyFans or thirst accounts that don't stream, and clips that are just ads for an adult page.
