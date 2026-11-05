@@ -18,8 +18,10 @@ days to change (default: the next day that hasn't been scheduled yet). "all" mea
 3. For each day, replace the weakest slots (backlog clips first, then the lowest-potential new clips) with the hottest finds,
    keeping each day at 10 posts and the account's mix and per-person limits. Put the hottest at the primetime slots.
    Swapped-out backlog clips get their "Used on" cleared; swapped-out new clips go to Reserves.
-4. Download each new clip into that day's clips folder with the slot's time prefix (crop black bars, trim long clips per the
-   rules), delete the replaced files by name, and rewrite that day's captions.txt.
+4. Download each new clip into that day's clips folder with the slot's time prefix and run every `/prep` check on it
+   (watermarks including first/last frames, black bars, trims, final file check). A clip that fails is dropped and the next
+   find takes the slot; nothing is left for the owner to edit or check. Delete the replaced files by name, and rewrite that
+   day's captions.txt.
 5. Add a "Viral swap (<date/time>)" section to each slate, commit "viral swap <dates>", git pull --no-rebase, git push, and
    leave the research browser on x.com/home.
 6. Show me a table: date, time, old clip, new clip file, caption, so I can schedule (or swap) them in X.

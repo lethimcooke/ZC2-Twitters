@@ -23,7 +23,8 @@ they're reposted: all-time great catches, dunks, trick shots, fails, crowd momen
    A clip qualifies if it has gone viral more than once or has huge numbers (100K+ likes or 5M+ views somewhere), and nothing in it
    is tied to a date (no "last night", no season-specific stakes, no injured players since).
 4. Download each one with yt-dlp into `clips/backlog/` as `<id>-<short-name>.mp4` (ids B001, B002, ... continuing from `backlog.md`),
-   using the same command and rules as `/prep` (keep the creator's watermark, temp files on this drive).
+   using the same command and every check from `/prep` (keep the creator's watermark, temp files on this drive). Only clips
+   that pass every check get added: a backlog clip must be post-ready as-is, with no edits left for the owner.
 5. Add a row to `backlog.md` for each: id, file, link, original creator, category, sport (or "general"), why it's proven, and a caption
    written for a repost of a classic (e.g. "This will never get old 😭", "Still can't believe this was real 🤯"). Leave "Used on" empty.
 6. Show me what was added and the backlog's totals by category.

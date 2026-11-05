@@ -50,7 +50,9 @@ Weekend rules (Saturday and Sunday must need zero work from me):
    - Collect about 12 candidates per day plus 5 spares so there's room to drop weak ones.
 5. Write one file per day, `slates/<date>.md`, with the schedule table (time, #, clip, link, credit, timely/evergreen)
    and the caption for each slot. Put the spares under "Reserves" in the last day's file.
-6. Show me a summary: one line per day with its 3 primetime clips, the number of fresh vs backlog clips per day, how many posts
+6. Nothing in a slate may need manual video work from me (owner's rule, 11/5). Don't put a clip on a slate with a note like
+   "trim before posting" or "check for a watermark": either `/prep` can fix it with the rules it has, or drop it.
+7. Show me a summary: one line per day with its 3 primetime clips, the number of fresh vs backlog clips per day, how many posts
    you scanned, plus anything you're unsure about.
 
 Clip-account scouting (every run, every account): whenever you come across a clipping or repost account posting viral clips in
