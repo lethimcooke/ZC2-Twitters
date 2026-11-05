@@ -104,3 +104,43 @@
 | 2026-11-05 | 10:00 PM | https://x.com/scubaryan_/status/1813602430837281024 | Kai Cenat (stream) (clip: @scubaryan_) (backlog KB018) | She threw water on Kai Cenat's whole fit 😭 | |
 | 2026-11-05 | 11:00 PM | https://x.com/AMPexclusive/status/2117110028364661075 | AMP (stream) (clip: @AMPexclusive) | Kai and Duke couldn't stop laughing at Fanum acting like he didn't know what to order 😭 | |
 | 2026-11-06 | 12:30 AM | https://x.com/CinnaUpdatess/status/1894971942618247490 | creator unknown (via @CinnaUpdatess) (backlog KB054) | Valkyrae and Cinna on the same couch was a bad idea 😭 | |
+| 2026-11-06 | 10:00 AM | https://x.com/yoxics/status/2118034302848110822 | creator unknown (via @yoxics) | IShowSpeed ran a 3.88 second sprint to first base for Derek Jeter 😳 | |
+| 2026-11-06 | 12:00 PM | https://x.com/KXNGAO/status/2118141029396471813 | creator unknown (via @KXNGAO) | Nick Wayne told Agent he beat Chris Jericho twice and chat lost it 😭 | |
+| 2026-11-06 | 1:30 PM | https://x.com/CoreBoysWorld/status/2118154269421605138 | creator unknown (via @CoreBoysWorld) | Valkyrae's new assistant told Jasontheween she doesn't know how the CoreBoys live like this 😭 | |
+| 2026-11-06 | 3:00 PM | https://x.com/yoxics/status/2103828930020946134 | Kai Cenat (stream) (clip: @yoxics) (backlog KB090) | Kai Cenat got his hat snatched right off his head in Iceland 😭 | |
+| 2026-11-06 | 5:00 PM | https://x.com/yoxics/status/2117721379210752021 | creator unknown (via @yoxics) | Pokimane couldn't stop laughing when Maya left her neighbor hanging on a fist bump 😭 | |
+| 2026-11-06 | 7:00 PM | https://x.com/ClipOverdose/status/2117732858311909524 | creator unknown (via @ClipOverdose) | Clavicular took one look at his student flexing and walked off 💀 | |
+| 2026-11-06 | 8:30 PM | https://x.com/Soft_Frame/status/2118110344354931171 | creator unknown (via @Soft_Frame) | Emiru's Sylvanas cosplay started breaking mid stream 😭 | |
+| 2026-11-06 | 10:00 PM | https://x.com/ClipOverdose/status/2118065076733378866 | creator unknown (via @ClipOverdose) | Clavicular kissed her and then said this 😳 | |
+| 2026-11-06 | 11:00 PM | https://x.com/ClipperViralHQ/status/2118006549218197578 | creator unknown (via @ClipperViralHQ) | Alice Rosenblum had Times Square stopped while filming a hot dog commercial 😳 | |
+| 2026-11-07 | 12:30 AM | https://x.com/scubaryan_/status/1815169877956563453 | Kai Cenat (stream) (clip: @scubaryan_) (backlog KB076) | Kai Cenat fell for the oldest trick in the book 💀 | |
+| 2026-11-07 | 10:00 AM | https://x.com/FearedBuck/status/2118197555159044149 | creator unknown (via @FearedBuck) | N3on ran into Ye and North West at the Yeezy fashion show 😳 | |
+| 2026-11-07 | 12:00 PM | https://x.com/SpeedUpdates1/status/2116653683538895245 | creator unknown (via @SpeedUpdates1) | IShowSpeed watched another Miles Morales backflip off a traffic light, then climbed up to try it himself 😳 | |
+| 2026-11-07 | 1:30 PM | https://x.com/yoxics/status/2118380805701669108 | creator unknown (via @yoxics) | Marlon got caught with fake teeth and tried to play it off 😭 | |
+| 2026-11-07 | 3:00 PM | https://x.com/clavicular/status/2117633956757524626 | @clavicular | Jack Doherty just got freakbob'd 😭 | |
+| 2026-11-07 | 5:00 PM | https://x.com/KillaKreww/status/2002113142701318250 | Druski / Coulda Been Records (clip: @KillaKreww) (backlog KB082) | Druski kicking people out of Coulda Been auditions in under 5 seconds 😭 | |
+| 2026-11-07 | 7:00 PM | https://x.com/dopamine4b/status/2019680755585282493 | Clavicular (Kick stream) (found via @dopamine4b) (backlog KB085) | Clavicular ran into the ASU frat leader and got frame mogged 😭 / Who won this one? | |
+| 2026-11-07 | 8:30 PM | https://x.com/domainsdomain/status/1818381468290220190 | Pokimane (stream) (found via @domainsdomain) (backlog KB052) | Pokimane's reaction to Duke Dennis in the AMP cypher 😭 | |
+| 2026-11-07 | 10:00 PM | https://x.com/yoxics/status/2007174736451907722 | IShowSpeed (stream) (clip: @yoxics) (backlog KB074) | Speed's manager told him not to look at White Speed 😭 | |
+| 2026-11-07 | 11:00 PM | https://x.com/scubaryan_/status/2116285211067469877 | creator unknown (via @scubaryan_) | Kai Cenat got told to stop talking during a food review on the bullet train in Japan 😭 | |
+| 2026-11-08 | 12:30 AM | https://x.com/ClipperViralHQ/status/2117489621420667259 | creator unknown (via @ClipperViralHQ) | Alice Rosenblum and Julia Filippo partying with two guys they met at ComplexCon 😳 | |
+| 2026-11-08 | 10:00 AM | https://x.com/SpeedUpdates1/status/2115777428178215145 | creator unknown (via @SpeedUpdates1) | A fan asked IShowSpeed when he is going back to China and he answered in Chinese 🔥 | |
+| 2026-11-08 | 12:00 PM | https://x.com/CaseOhUpdates0/status/2117132877272097012 | creator unknown (via @CaseOhUpdates0) | CaseOh had an entire house launched straight at him in Minecraft 😭 | |
+| 2026-11-08 | 1:30 PM | https://x.com/Kaimafiaupdates/status/2116375494316986626 | creator unknown (via @Kaimafiaupdates) | Kai Cenat and YourRAGE realized their Halloween costumes weren't the best 😭 | |
+| 2026-11-08 | 3:00 PM | https://x.com/yoxics/status/2020334221827658097 | NFL broadcast with Druski and RayAsianBoy (clip: @yoxics) (backlog KB083) | Druski couldn't stop laughing after Ray cursed on the NFL broadcast 😭 | |
+| 2026-11-08 | 5:00 PM | https://x.com/ilySalt/status/2117708538055463236 | creator unknown (via @ilySalt) | Silky randomly popped up on a Japanese streamer's livestream and introduced himself 🥹 | |
+| 2026-11-08 | 7:00 PM | https://x.com/viewsceo/status/2032601185962832380 | Clavicular (Kick stream) (clip: @viewsceo) (backlog KB087) | Adam22 couldn't keep it together when Alice Rosenblum pulled up to Clavicular's stream 😳 | |
+| 2026-11-08 | 8:30 PM | https://x.com/TwitchSlopp/status/2118107987957153796 | creator unknown (via @TwitchSlopp) | Emiru went full Sylvanas for the WoW Forever launch 😳 | |
+| 2026-11-08 | 10:00 PM | https://x.com/ayeejuju/status/1823795523046064146 | Kai Cenat stream (found via @ayeejuju) (backlog KB062) | Kai and Ray had to distract Duke Dennis' stream 😭 | |
+| 2026-11-08 | 11:00 PM | https://x.com/FearedBuck/status/1999627438771376369 | IShowSpeed (stream) (found via @FearedBuck) (backlog KB067) | IShowSpeed almost ended his stream after getting a 67 💀 | |
+| 2026-11-09 | 12:30 AM | https://x.com/ClipperViralHQ/status/2117662280548806914 | creator unknown (via @ClipperViralHQ) | Alice Rosenblum and Julia Filippo went to Party City in their pajamas to set up a friend's birthday 😭 | |
+| 2026-11-09 | 10:00 AM | https://x.com/SlatDontMiss/status/2116691366629585172 | creator unknown (via @SlatDontMiss) | Duke Dennis got caught off guard when a girl at the AMP Halloween party called him papi 😭 | |
+| 2026-11-09 | 12:00 PM | https://x.com/yoxics/status/2115597575499952582 | creator unknown (via @yoxics) | IShowSpeed stopped to hug one of his youngest fans 🥹 | |
+| 2026-11-09 | 1:30 PM | https://x.com/FearedBuck/status/1974333307367407792 | Lacy (stream) (found via @FearedBuck) (backlog KB069) | FaZe Lacy got Kevin Hart and Druski lookalikes on stream 😭 | |
+| 2026-11-09 | 3:00 PM | https://x.com/SlatDontMiss/status/1801800202417848790 | Kai Cenat (stream) (clip: @SlatDontMiss) (backlog KB084) | Druski and Kevin Hart said they saw a roach. 3 days later, Kai found it 😭 | |
+| 2026-11-09 | 5:00 PM | https://x.com/Askarankar/status/2104126925254062370 | streamer not confirmed beyond the post (via @Askarankar) (backlog KB061) | Clavicular couldn't contain himself after getting cake on stream 😳 | |
+| 2026-11-09 | 7:00 PM | https://x.com/yoxics/status/2117677195913199631 | creator unknown (via @yoxics) | Kai Cenat almost ended stream after chat called him a larp over his greatest games list 😭 | |
+| 2026-11-09 | 8:30 PM | https://x.com/philipharts/status/1807453834916073630 | @philipharts (backlog KB033) | She summoned her boyfriend to voice Goofy on her stream 😭 / This will never get old | |
+| 2026-11-09 | 10:00 PM | https://x.com/Clix/status/2117685837173588204 | @Clix | Clix just found the Fortnite Pirate Token and lost it 😭 | |
+| 2026-11-09 | 11:00 PM | https://x.com/scubaryan_/status/2048876164194697691 | IShowSpeed (stream) (clip: @scubaryan_) (backlog KB066) | IShowSpeed showed up at Rihanna's house in Barbados 😳 | |
+| 2026-11-10 | 12:30 AM | https://x.com/Dexerto/status/1524467841642160133 | Twitch streamer (found via @Dexerto) (backlog KB072) | A Twitch streamer almost burned down her kitchen during a cooking stream 😳 | |

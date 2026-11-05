@@ -82,3 +82,43 @@
 | 2026-11-05 | 7:00 PM | https://x.com/overtime/status/1639004590505971712 | @LoganPaul (backlog FB041) | Logan Paul made a 60-inch box jump look easy 😳 / Could you clear it? | |
 | 2026-11-05 | 8:30 PM | https://x.com/SquatUniversity/status/1706779975683055684 | @SquatUniversity (backlog FB058) | Dr. Stuart McGill's pull-up method 💪 / Did you know this one? | |
 | 2026-11-05 | 10:00 PM | https://x.com/SportsCenter/status/1286290539474817024 | @NubAbility (backlog FB053) | Tim beat his fear and landed the box jump. Watch the whole gym 🥹 | |
+| 2026-11-06 | 6:30 AM | https://x.com/SquatUniversity/status/2116271634717811104 | @SquatUniversity | He stopped doing crunches for abs and switched to this 💪 / Would you try it? | |
+| 2026-11-06 | 8:00 AM | https://x.com/Raindropsmedia1/status/2023930009342144887 | creator unknown (via @Raindropsmedia1) | She told her trainer she'd never be one of those clients who shows up late 😭 | |
+| 2026-11-06 | 10:00 AM | https://x.com/FitnessGuide0/status/2117599967372013705 | creator unknown (via @FitnessGuide0) | Wrong vs right form on shoulder day 💪 / Which one were you doing? | |
+| 2026-11-06 | 12:00 PM | https://x.com/vidsthatgohard/status/1911397003742855553 | creator unknown (via @vidsthatgohard) | Imagine laughing at him for being a cheerleader 😳 | |
+| 2026-11-06 | 2:00 PM | https://x.com/Rainmaker1973/status/1831946534763819156 | creator unknown (via @Rainmaker1973) (backlog FB073) | Hafthor shoulder pressed two volunteers like it was nothing 🤯 / Still one of the strongest clips ever | |
+| 2026-11-06 | 4:00 PM | https://x.com/MuscleB1ueprint/status/2117248173466886187 | creator unknown (via @MuscleB1ueprint) | 5 mobility drills to do before leg day 💪 / Save this one | |
+| 2026-11-06 | 5:30 PM | https://x.com/tj_canino/status/2103732884700102848 | creator unknown (via @tj_canino) | Albert Ian Delos Santos took bronze at the Asian Games at 20 years old 🔥 | |
+| 2026-11-06 | 7:00 PM | https://x.com/crazyclipsonly/status/1776000667104006506 | creator unknown (via @crazyclipsonly) | He has one arm and he lifted 225 lb 💪 | |
+| 2026-11-06 | 8:30 PM | https://x.com/SquatUniversity/status/2116588889062195293 | creator unknown (via @SquatUniversity) | Eishiro Murakami, aka The Tank, front squatting the whole gym 😳 / Rate the depth 1-10 | |
+| 2026-11-06 | 10:00 PM | https://x.com/DudespostingWs/status/1904599471545086018 | creator unknown (found via @DudespostingWs) (backlog FB086) | Kyle, a bodybuilder with Down syndrome, got to meet and train with Arnold 🥹 | |
+| 2026-11-07 | 6:30 AM | https://x.com/Dexerto/status/1964712043329794212 | Giants Live broadcast (found via @Dexerto) (backlog FB074) | Hafthor pulled 510 kg (1,124 lb) on the deadlift 🤯 | |
+| 2026-11-07 | 8:00 AM | https://x.com/alphafox/status/1743399978100482255 | creator unknown (found via @alphafox) (backlog FB092) | Nobody sets up for a deadlift like this guy 😭 | |
+| 2026-11-07 | 10:00 AM | https://x.com/gymsociety/status/2115004413588721671 | creator unknown (via @gymsociety) | A back workout you can do on the floor at home 💪 / Save this for later | |
+| 2026-11-07 | 12:00 PM | https://x.com/crazyclips_/status/2084685804845367564 | creator unknown (via @crazyclips_) | Strength vs stamina 😳 / Who you got? | |
+| 2026-11-07 | 2:00 PM | https://x.com/Mappy6984/status/2064185721468965176 | creator unknown (found via @Mappy6984) (backlog FB101) | This gym handshake turned into a grip contest 😳 / Who you got? | |
+| 2026-11-07 | 4:00 PM | https://x.com/Rainmaker1973/status/2094442586979389551 | creator unknown (via @Rainmaker1973) (backlog FB072) | She wanted to reach the 14.5 foot wall ever since she started at the gym 🥹 | |
+| 2026-11-07 | 5:30 PM | https://x.com/marianaspinelIi/status/2054221209508655247 | @marianaspinelIi | Her grandpa is 92. This is what his personal training sessions look like 😭 | |
+| 2026-11-07 | 7:00 PM | https://x.com/HowThingsWork_/status/1758686706276954135 | Ri.won (found via @HowThingsWork_) (backlog FB085) | He climbed a flat brick wall with just his fingertips 🤯 | |
+| 2026-11-07 | 8:30 PM | https://x.com/MuscleB1ueprint/status/1971765035425726750 | creator unknown (via @MuscleB1ueprint) (backlog FB077) | Where you put your hands on a push-up changes what it hits 💪 / Where do you put yours? | |
+| 2026-11-07 | 10:00 PM | https://x.com/InternetH0F/status/1812087103368393163 | creator unknown (via @InternetH0F) (backlog FB071) | This is the personal trainer I need 😂 | |
+| 2026-11-08 | 6:30 AM | https://x.com/TheFigen_/status/1750130074383167750 | creator unknown (found via @TheFigen_) (backlog FB084) | Bodybuilder vs US Marines on the deadlift, up to 515 lb 😳 / Who you got? | |
+| 2026-11-08 | 8:00 AM | https://x.com/MattCas04807118/status/2032810631141740889 | Anatoly (Vladimir Shmondenko) (found via @MattCas04807118) (backlog FB076) | The gym cleaner offered to show them deadlift technique 😭 | |
+| 2026-11-08 | 10:00 AM | https://x.com/gymsociety/status/2115907849918574829 | creator unknown (via @gymsociety) | Same dumbbell row, different muscles 💪 / Which one do you do? | |
+| 2026-11-08 | 12:00 PM | https://x.com/espnmma/status/1841975379629662424 | @espnmma | UFC fighters tested their grip strength at UFC 307 😳 / Who do you think squeezed the most? | |
+| 2026-11-08 | 2:00 PM | https://x.com/Tsportspulse/status/2096361362200932704 | Giants Live broadcast (found via @Tsportspulse) (backlog FB097) | Raul Flores pulled 511 kg (1,126.6 lb) 🤯 | |
+| 2026-11-08 | 4:00 PM | https://x.com/espnW/status/1396678671784718341 | tdbowman14 (TikTok) (found via @espnW) (backlog FB052) | Betty is 80 and just landed her 18-inch box jump 🥹 | |
+| 2026-11-08 | 5:30 PM | https://x.com/interesting_aIl/status/1825820361616761299 | creator unknown (via @interesting_aIl) (backlog FB070) | How gymnast spotters know when to slide the mat 😳 | |
+| 2026-11-08 | 7:00 PM | https://x.com/FearedBuck/status/1934370791522771380 | Sam Sulek's channel (found via @FearedBuck) (backlog FB075) | Sam Sulek got a training session with Arnold Schwarzenegger 💪 | |
+| 2026-11-08 | 8:30 PM | https://x.com/interesting_aIl/status/2024001459411354051 | creator unknown (found via @interesting_aIl) (backlog FB083) | Bench press form guide 💪 / Save this for chest day | |
+| 2026-11-08 | 10:00 PM | https://x.com/_dimitrisanders/status/1720820363045523752 | Olympia broadcast (found via @_dimitrisanders) (backlog FB094) | Ramon Dino and CBum side by side on the Olympia stage 🔥 / Who you got? | |
+| 2026-11-09 | 6:30 AM | https://x.com/FitnessGuide0/status/2037515811699445981 | creator unknown (found via @FitnessGuide0) (backlog FB081) | Bodybuilders vs construction workers carrying cement bags 😳 / Who you got? | |
+| 2026-11-09 | 8:00 AM | https://x.com/TheJoeySwoll/status/2115250151975694472 | @TheJoeySwoll | Joey Swoll asked what if it was the other way around 😂 / Fair or not? | |
+| 2026-11-09 | 10:00 AM | https://x.com/MuscleB1ueprint/status/2117081952679321845 | creator unknown (via @MuscleB1ueprint) | Hit all three parts of your shoulders 💪 / Save this for shoulder day | |
+| 2026-11-09 | 12:00 PM | https://x.com/SquatUniversity/status/2117390277367234711 | @SquatUniversity | His push-up form tips are gold 💪 / Did you know these? | |
+| 2026-11-09 | 2:00 PM | https://x.com/PicturesFoIder/status/1845591851857756161 | Olympia broadcast (found via @PicturesFoIder) (backlog FB095) | CBum's posing routine from his sixth straight Classic Physique Olympia win 🔥 | |
+| 2026-11-09 | 4:00 PM | https://x.com/SquatUniversity/status/2117828070535287204 | @SquatUniversity | Train your grip. Dead hangs are a good place to start 💪 / How long can you hang? | |
+| 2026-11-09 | 5:30 PM | https://x.com/EverythingOOC/status/2104960477189255408 | creator unknown (found via @EverythingOOC) (backlog FB089) | The 2001 Mr. Olympia press conference had a different energy 😭 | |
+| 2026-11-09 | 7:00 PM | https://x.com/StanleyGraps/status/2025233545531105658 | archival training footage (found via @StanleyGraps) (backlog FB100) | Tom Platz trained past failure, and you can see it 😳 | |
+| 2026-11-09 | 8:30 PM | https://x.com/PicturesFoIder/status/1919059565414379885 | creator unknown (found via @PicturesFoIder) (backlog FB087) | He got his trophy from Arnold and couldn't believe it 🥹 | |
+| 2026-11-09 | 10:00 PM | https://x.com/overtime/status/1413871912061706243 | @tfordfsp1 (his trainer) (found via @overtime) (backlog FB040) | DK Metcalf hit a 42-inch single-leg box jump holding a 15 lb med ball 😳 | |

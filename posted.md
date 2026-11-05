@@ -182,3 +182,43 @@
 | 2026-11-05 | 8:30 PM | https://x.com/BleacherReport/status/1964343805777166351 | creator unknown (via @BleacherReport) (backlog B046) | The Phillies brought Lincoln into the locker room and Harrison Bader gave him a signed bat 🥹 | |
 | 2026-11-05 | 10:00 PM | https://x.com/CrewsMat10/status/1696123352354619579 | creator unknown (via @CrewsMat10) (backlog B045) | Messi on the floor playing with his son Ciro 🥹 | |
 | 2026-11-05 | 11:30 PM | https://x.com/FearedBuck/status/2012951229333209332 | @IShowSpeed (backlog B051) | IShowSpeed was the mascot for the AFCON final and the whole stadium erupted 😳 | |
+| 2026-11-06 | 8:00 AM | https://x.com/ESPNNBA/status/2118228295342862769 | creator unknown (via @ESPNNBA) | Klay Thompson won it for the Heat in overtime 🔥 | |
+| 2026-11-06 | 10:00 AM | https://x.com/SportsCenter/status/2117818536814895186 | creator unknown (via @SportsCenter) | The Jets were down 4-0 with 2:40 left and still won 🤯 | |
+| 2026-11-06 | 12:00 PM | https://x.com/LakeShowYo/status/2118199394382303437 | creator unknown (via @LakeShowYo) | Dalton Knecht made his Knicks debut right after the Lakers waived him 😳 | |
+| 2026-11-06 | 1:30 PM | https://x.com/ChampionsLeague/status/2118012810991145383 | @ChampionsLeague | Old Trafford loved this Mason Mount clearance 😂 | |
+| 2026-11-06 | 3:00 PM | https://x.com/BleacherReport/status/2118068686192054689 | creator unknown (via @BleacherReport) | Real Madrid scored in the 91st minute to complete the comeback vs AEK Athens 🔥 | |
+| 2026-11-06 | 5:00 PM | https://x.com/Sourceofboxing/status/2117693040672264378 | creator unknown (via @Sourceofboxing) | Mike Tyson shadowboxing with a fan 🥊 | |
+| 2026-11-06 | 7:00 PM | https://x.com/SportsCenter/status/2117415643670528271 | creator unknown (via @SportsCenter) | Marcus Spears got emotional reacting to his son's college debut 🥹 | |
+| 2026-11-06 | 8:30 PM | https://x.com/F1/status/2117963572613632106 | @F1 | Franco Colapinto went undercover in a disguise 😂 | |
+| 2026-11-06 | 10:00 PM | https://x.com/JamesPalmerTV/status/1351017125444546568 | @JamesPalmerTV (backlog B042) | Tom Brady threw one last TD pass to Drew Brees' son before he left the field 🥹 | |
+| 2026-11-06 | 11:30 PM | https://x.com/barstoolsports/status/2115912172341735634 | creator unknown (via @barstoolsports) | This Brewers fan said it's the happiest day of his life 🥹 | |
+| 2026-11-07 | 8:00 AM | https://x.com/FreddyLA7/status/2116616141556924659 | creator unknown (via @FreddyLA7) | Ralphie the buffalo running across the field at Colorado is wild 😳 | |
+| 2026-11-07 | 10:00 AM | https://x.com/eurofootcom/status/2116158931596886028 | creator unknown (via @eurofootcom) | Nick Woltemade was not expecting that touch from the ball boy 😭 | |
+| 2026-11-07 | 12:00 PM | https://x.com/BleacherReport/status/1626234394880135170 | @NBATV (found via @BleacherReport) (backlog B055) | Gerald Green blew out a candle on a cupcake mid-dunk 🤯 / Still can't believe this was real | |
+| 2026-11-07 | 1:30 PM | https://x.com/NFL/status/2115970813128237382 | @NFL | The World Series champion Brewers walked out at Lambeau 🔥 | |
+| 2026-11-07 | 3:00 PM | https://x.com/NFL/status/2117655640365744244 | @NFL | Travis Hunter made sure Branson Combs got the ball from his first career interception 🥹 | |
+| 2026-11-07 | 5:00 PM | https://x.com/barstoolsports/status/2116202989476339911 | creator unknown (via @barstoolsports) | Watch Grant Horvat's hand on this putt 😳 | |
+| 2026-11-07 | 7:00 PM | https://x.com/clrkszn/status/1913650062007374068 | creator unknown (Pacers broadcast) (backlog B033) | Caitlin Clark spotted a kid in her jersey and called him over 🥹 | |
+| 2026-11-07 | 8:30 PM | https://x.com/Sportsnet/status/2117032163023413579 | @Sportsnet | Connor McDavid went coast to coast 50 seconds in 🤯 | |
+| 2026-11-07 | 10:00 PM | https://x.com/DudespostingWs/status/2045972273857728758 | creator unknown (SportsNet Pittsburgh broadcast) (backlog B039) | He caught the ball and gave it straight to his little sister 🥹 | |
+| 2026-11-07 | 11:30 PM | https://x.com/NoodleHairCR7/status/2116968749098062286 | creator unknown (via @NoodleHairCR7) | The way this kid said "Papaaa Mbappé" 😭 | |
+| 2026-11-08 | 8:00 AM | https://www.tiktok.com/@espn/video/7703000673301925150 | creator unknown (via @espn) | Pitt's Censere Lee made this catch with one hand 😳 | |
+| 2026-11-08 | 10:00 AM | https://x.com/NBA/status/2116380773528084971 | @NBA | Steph went cross, behind the back, stepback, stepback 🤯 | |
+| 2026-11-08 | 12:00 PM | https://x.com/BBGreatMoments/status/1951315793465012429 | creator unknown (found via @BBGreatMoments) (backlog B056) | His parents watching his first MLB hit turn into a home run 🥹 | |
+| 2026-11-08 | 1:30 PM | https://x.com/AllFutbolMX/status/2116720411060658384 | creator unknown (via @AllFutbolMX) | Lucas Ocampos scored this bicycle-kick golazo for Monterrey 🤯 | |
+| 2026-11-08 | 3:00 PM | https://x.com/NHL/status/2117449096730734609 | @NHL | David Pastrnak won it for the Bruins in the shootout 🔥 | |
+| 2026-11-08 | 5:00 PM | https://x.com/julesboxing/status/2116983618233074106 | creator unknown (via @julesboxing) | Canelo's defense is something else 😳 | |
+| 2026-11-08 | 7:00 PM | https://x.com/FearedBuck/status/1943273064851980471 | @IShowSpeed (found via @FearedBuck) (backlog B054) | Giannis didn't think IShowSpeed could dunk, so Speed did it on the first rim Giannis ever dunked on 😳 | |
+| 2026-11-08 | 8:30 PM | https://x.com/TennisTV/status/2116904044920729759 | creator unknown (via @TennisTV) | Carlos Alcaraz won his 28th career title 🏆 | |
+| 2026-11-08 | 10:00 PM | https://x.com/NFL/status/1954338776349815211 | @NFL (backlog B060) | Cam Little hit a 70-yard field goal 🤯 | |
+| 2026-11-08 | 11:30 PM | https://x.com/BleacherReport/status/2117713604711702736 | creator unknown (via @BleacherReport) | Lamine Yamal now has the most Champions League goals ever by a teenager 🤯 | |
+| 2026-11-09 | 8:00 AM | https://x.com/SportsCenter/status/2117846870529630419 | creator unknown (via @SportsCenter) | 7'9" Olivier Rioux had 13 points and 12 rebounds in his first game with UC Irvine 🤯 | |
+| 2026-11-09 | 10:00 AM | https://www.tiktok.com/@nfl/video/7703793659849837838 | creator unknown (via @NFL) | Bears DT James Lynch picked off Sam Darnold on the deflection 😱 | |
+| 2026-11-09 | 12:00 PM | https://x.com/SportsCenter/status/1457179723319037956 | @SportsCenter (NBC Sports Boston broadcast) (backlog B062) | Luka's buzzer-beater three over the Celtics still looks unreal 🤯 | |
+| 2026-11-09 | 1:30 PM | https://x.com/TalkinBaseball_/status/2116206872592298342 | creator unknown (via @TalkinBaseball_) | A perfectly executed beer throw and chug to Jacob Misiorowski 😂 | |
+| 2026-11-09 | 3:00 PM | https://x.com/BarcaTimes/status/1924193701900759530 | @FCBarcelona (backlog B025) | Szczęsny's son tried a bicycle kick on his dad. Dad wasn't letting it in 😂 | |
+| 2026-11-09 | 5:00 PM | https://x.com/MLBLarry/status/1827132033954672652 | Clearwater Threshers (found via @MLBLarry) (backlog B070) | The new bat dog's first night didn't go as planned 😭 | |
+| 2026-11-09 | 7:00 PM | https://x.com/PicturesFoIder/status/1917323551025107061 | creator unknown (backlog B017) | Reporter explaining a half-court shot hits one himself 😳 | |
+| 2026-11-09 | 8:30 PM | https://x.com/ln4norris/status/2117730454249877951 | creator unknown (via @ln4norris) | Lando hit Oscar with the buzzer to answer 😭 | |
+| 2026-11-09 | 10:00 PM | https://x.com/MLFootball/status/2117016862982869501 | creator unknown (via @MLFootball) | The loudest field goal doink in NFL history 😭 | |
+| 2026-11-09 | 11:30 PM | https://x.com/SportsCenter/status/2117479657213665411 | creator unknown (via @SportsCenter) | Caleb Williams took a video of the Bears fans after the win 🥹 | |
