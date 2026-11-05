@@ -20,6 +20,10 @@ exist to promote an adult page (link drops, "link in bio", subscription teasers)
 Search each by name with `filter:native_video` and check their clip accounts every batch. Verify each one's X handle the first
 time and add it next to their name.
 
+## Big clip accounts to sweep first every batch and every /viral run
+@ClipOverdose @ClipperViralHQ @thatguy_cyrix @FearedBuck @DramaAlert @Dexerto @scubaryan_ @yoxics @SlatDontMiss @KillaKreww
+plus every clip account in the approved and discovered lists. Rank their last 24–48h posts by views and likes for the account.
+
 ## Owner-sent clips to add (add to the backlog on the next run, then delete the line)
 - https://x.com/ClipOverdose/status/2118065076733378866 (Alice Rosenblum in a bikini on stream)
 - https://x.com/ClipperViralHQ/status/2118006549218197578 (Clavicular kissing a girl on stream)

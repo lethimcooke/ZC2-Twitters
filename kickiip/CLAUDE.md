@@ -40,9 +40,10 @@ Reject it, whatever its numbers, if it's:
 Profanity in the clip is fine; slurs are not. Look at the video itself before suggesting it. If unsure, leave it out.
 
 ## Credit
-- Credit the streamer or celebrity's channel and the clipper if there is one: `🎥: @streamer (clip: @clipper)`.
-- If the clip came from a show, podcast or broadcast, credit that: `🎥: @show`.
-- Repost accounts are where we find clips, not who we credit. If the source can't be found, use `via @account` and rank it lower.
+- **Clips found on a clip account** (e.g. @ClipOverdose, @ClipperViralHQ, @thatguy_cyrix, @FearedBuck): credit just that
+  clip account, `via @ClipOverdose` (owner's choice, 11/5).
+- Clips found any other way: credit the streamer's channel and the clipper if there is one, `🎥: @streamer (clip: @clipper)`,
+  or the show/podcast, `🎥: @show`. If the source can't be found, use `via @account`.
 - Keep the original watermark on the video.
 
 ## Rules for picking clips
@@ -81,6 +82,11 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
 - **No black bars.** Clips are cropped to fill the frame (see `/prep`). If the only way to remove the bars would cut off the
   action, a caption burned into the video, or the creator's own logo/credit, skip the clip instead.
 - These apply to backlog clips too: check them before using one, and retire any that fail.
+- **Batch priority: the freshest viral clip-account posts first.** Every /slates run for this account starts with a sweep of
+  the big clip accounts (listed in `kickiip/watchlist.md`) for posts from the last 24–48 hours that are taking off, and puts
+  the hottest ones on the earliest days. Download them right before the owner schedules (run /prep straight after /slates).
+- **Proven content can go viral again.** A clip that already blew up weeks or months ago is fair game for the backlog if
+  it's not on our account yet (60 days between our own reposts).
 - **Main guide: what's already going viral on X clipping accounts.** Anything in the streamer / IRL / live stream / podcast
   world that's blowing up on clip accounts right now is what will go viral for us: funny, wild, wholesome, drama, collabs,
   reactions, IRL chaos, podcast moments and every other style. The owner's people, accounts and content types are the
@@ -99,7 +105,9 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
 - Hook first, under ~100 characters, conversational. Emojis on most captions (1–2): 😭😂 funny, 💀 fail, 😳 wild, 🥹 wholesome.
 - No hashtags (or 1 at most), no links.
 - Credit on its own line.
-- Only describe what happens in the clip. No claims about anyone's private life, motives, or behavior off camera.
+- Only describe what happens in the clip. When someone in the clip tells a story or makes a claim about a real person
+  (a podcast guest's story about a celebrity), attribute it: "OnlyFans model Jenna Shae says she walked out to find Kanye
+  naked 😳", never state it as fact.
 - Every few posts, end with a question that gets replies ("Who had the better reaction?", "Would you do this?").
 
 ## Backlog classics (for `/backlog kickiip`)
