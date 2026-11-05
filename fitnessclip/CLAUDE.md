@@ -77,6 +77,16 @@ Look at the video itself before suggesting it. If unsure, leave it out.
 - No hashtags (or 1 at most), no links. Credit on its own line.
 - Only state numbers you can confirm (weights, reps, age). If unsure, leave them out. No health or diet advice in captions.
 - Every few posts, end with a question that gets replies ("Could you do one rep?", "What's your max?", "Rate the form 1–10").
+- **Vary the wording (owner, 11/5).** Keep the detail about what actually happens, but don't lean on the same stock
+  phrases. Overused so far: "lost it", "couldn't stop laughing", "couldn't keep it together", "couldn't believe it",
+  "had to", "locked in", "will never get old", "still looks unreal", "different energy". Rules:
+  - Never use the same reaction phrase twice in one day, or more than once across a batch if you can help it. Before
+    writing a batch's captions, read the last week of slates and avoid their phrasing.
+  - Describe the specific reaction instead of a generic one: "fell out of his chair", "walked off camera",
+    "chat spammed L's for five minutes", "his face said everything", "the room went silent", "he's still not over it" (only what really happens in the clip).
+  - Rotate structures: a plain statement of what happens, a quote from the clip, a "nobody told him…" or "the way he…"
+    setup, a number or stat, a question, "POV:", or starting with the payoff.
+  - Rotate emojis too: no single emoji on more than about a third of a day's captions.
 
 ## Backlog classics (for `/backlog fitnessclip`)
 Iconic gym and strength clips that get reposted again and again: famous lifts, legendary calisthenics skills, strongman

@@ -113,6 +113,16 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
   (a podcast guest's story about a celebrity), attribute it: "OnlyFans model Jenna Shae says she walked out to find Kanye
   naked 😳", never state it as fact.
 - Every few posts, end with a question that gets replies ("Who had the better reaction?", "Would you do this?").
+- **Vary the wording (owner, 11/5).** Keep the detail about what actually happens, but don't lean on the same stock
+  phrases. Overused so far: "lost it", "couldn't stop laughing", "couldn't keep it together", "couldn't believe it",
+  "had to", "locked in", "will never get old", "still looks unreal", "different energy". Rules:
+  - Never use the same reaction phrase twice in one day, or more than once across a batch if you can help it. Before
+    writing a batch's captions, read the last week of slates and avoid their phrasing.
+  - Describe the specific reaction instead of a generic one: "fell out of his chair", "walked off camera",
+    "chat spammed L's for five minutes", "his face said everything", "the room went silent", "he's still not over it" (only what really happens in the clip).
+  - Rotate structures: a plain statement of what happens, a quote from the clip, a "nobody told him…" or "the way he…"
+    setup, a number or stat, a question, "POV:", or starting with the payoff.
+  - Rotate emojis too: no single emoji on more than about a third of a day's captions.
 
 ## Backlog classics (for `/backlog kickiip`)
 What counts as a proven classic here: iconic stream moments that get reposted again and again: legendary streamer reactions,

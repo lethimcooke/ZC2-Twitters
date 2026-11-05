@@ -82,6 +82,16 @@ If you're unsure which bucket it's in, leave it out.
 - Only state facts you checked from the clip or post (names, "rookie", he/she, the score). If unsure, leave it out.
 - Say "touchdown"/"TD", not "for six", for football.
 - Every few posts, end with a question that gets people replying ("Rate this 1–10", "Who you got?", "Would you have caught that?").
+- **Vary the wording (owner, 11/5).** Keep the detail about what actually happens, but don't lean on the same stock
+  phrases. Overused so far: "lost it", "couldn't stop laughing", "couldn't keep it together", "couldn't believe it",
+  "had to", "locked in", "will never get old", "still looks unreal", "different energy". Rules:
+  - Never use the same reaction phrase twice in one day, or more than once across a batch if you can help it. Before
+    writing a batch's captions, read the last week of slates and avoid their phrasing.
+  - Describe the specific reaction instead of a generic one: "fell out of his chair", "walked off camera",
+    "chat spammed L's for five minutes", "his face said everything", "the room went silent", "he's still not over it" (only what really happens in the clip).
+  - Rotate structures: a plain statement of what happens, a quote from the clip, a "nobody told him…" or "the way he…"
+    setup, a number or stat, a question, "POV:", or starting with the payoff.
+  - Rotate emojis too: no single emoji on more than about a third of a day's captions.
 
 ## Posting times (ET, adjust from results)
 8:00, 10:00, 12:00, 1:30, 3:00, 5:00, 7:00, 8:30, 10:00, 11:30 PM.
