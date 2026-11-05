@@ -9,6 +9,15 @@ Every batch, look for 1–2 nostalgic or "remember this" clips of famous athlete
 
 ## Discovered (added by Claude during research; keep growing this)
 Clip and repost accounts found in research that are worth checking again: handle, what they post, typical likes/views, date.
+- 2026-11-05 @eurofootcom: soccer clips and ball-boy moments, 10K-24K likes / 1M-2M views (Woltemade ball boy 23.8K / 1.97M)
+- 2026-11-05 @BrickCenter_: NBA highlight and reaction clips, 3K-8K likes / 300K-330K views
+- 2026-11-05 @Sourceofboxing: boxing clips, 7K likes / 440K views (Tyson with a fan)
+- 2026-11-05 @julesboxing: boxing technique and fight clips, 7K-10K likes / 590K-600K views
+- 2026-11-05 @AllFutbolMX: Liga MX goals, ~16K likes / 490K views (Ocampos bicycle kick)
+- 2026-11-05 @MLFootball: NFL moments from CBS and Fox broadcasts, ~18K likes / 1.4M views (the doink)
+- 2026-11-05 @TalkinBaseball_: MLB parade and clubhouse moments, 4K-8K likes / 150K-300K views
+- 2026-11-05 @NCAABuzzerBters: college basketball clips, 11K likes / 2M views (Puryear free-throw form)
+- 2026-11-05 @HeatvsHaters and @LakeShowYo: NBA team-fan clips, 7K-41K likes / 100K-2M views (Knecht debut 41K / 2.1M)
 
 ## X search queries
 Paste into x.com/search and look at both the **Top** and **Latest** tabs.
