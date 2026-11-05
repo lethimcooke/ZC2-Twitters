@@ -12,6 +12,11 @@ Check that each handle still exists the first time you use it, and replace dead 
 
 ## Discovered (added by Claude during research; keep growing this)
 Clip and repost accounts found in research that are worth checking again: handle, what they post, typical likes/views, date.
+- @gymsociety: form guides and home/gym workouts, own uploads plus reposts. 1.7K–7K likes, 40K–400K views (checked 11/5).
+- @TheFitHabits: gym moments and big lifts. Mostly under 500 likes; one post hit 11K / 775K. Some posts are compilations of strangers filmed at the gym, so check each one (11/5).
+- @TheJoeySwoll: gym etiquette skits and commentary. 3K–4K likes / 150K views a post; older posts 55K+. Some open on Instagram screen recordings (11/5).
+- @vidsthatgohard: general viral repost account with occasional gym clips (cheerleader trainer: 298K / 21.8M) (11/5).
+- @Raindropsmedia1: viral repost account, occasional gym moments (trainer and late client: 17.5K / 1.6M) (11/5).
 
 ## X search queries
 ```
