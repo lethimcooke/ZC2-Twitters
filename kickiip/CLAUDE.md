@@ -99,6 +99,10 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
   Hard limits: no explicit nudity or sex acts; no OnlyFans/Fansly links, promo codes or "link in bio" plugs in our captions;
   nothing sexual involving anyone under 18. For Piper Rockelle specifically, only use clips from after she turned 18
   (August 2025): never anything from her child-YouTuber years.
+- **"Too sexual" is not a reason to skip a stream clip (owner, 11/5).** Hot tub streams, bikinis, flirting, making out,
+  grinding, girls on a streamer's stream: if it happened on a stream, IRL stream or podcast and stays inside the hard limits
+  above, use it. What makes these fine is that they come from the stream and don't push an adult site. Only skip for the hard
+  limits (explicit nudity or sex acts, anyone who may be under 18, adult-site promo), not for how suggestive it is.
 - When a session ends, leave the research browser on x.com/home (or close it), never on a profile or search page.
 
 ## Caption style
