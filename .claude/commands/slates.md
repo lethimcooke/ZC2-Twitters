@@ -40,9 +40,11 @@ Weekend rules (Saturday and Sunday must need zero work from me):
      with new clips found in this run before touching `backlog.md`. Keep searching until you have about 12 fresh candidates per
      day: more queries, more watchlist and clip accounts, vidIQ, and evergreen posts from the last 3–5 days for the later days.
      Scan at least 300–400 posts before deciding fresh supply has run out.
-   - Backlog: at most 2 clips a day (not used in the last 60 days), and only when no fresh clip of similar strength is left.
-     Copy the file path and caption into the slate, and fill in "Used on" in `backlog.md`. Going over 2 on any day needs a reason
-     in the summary: how many posts you scanned and what ran out.
+   - Backlog: no fixed cap. Weigh each slot on viral potential: a fresh clip with real viral potential beats a backlog clip, and
+     a proven viral backlog clip or throwback (even weeks old) beats a weak fresh clip. Use backlog only when the search can't
+     find fresh clips good enough. Backlog clips must not have been used in the last 60 days. Copy the file path and caption
+     into the slate, and fill in "Used on" in `backlog.md`. In the summary, say why each day's backlog clips beat what you found.
+   - The backlog's main job is emergency cover: when a day's posts are missed, I may ask for "x clips from the backlog" to fill it.
    - Only leave a slot FRESH (filled the morning of with `/daily fresh`) if I ask for it, or if the only clips left
      for it are weak, creator-unknown or borderline. Say so in the summary if you do.
    - Collect about 12 candidates per day plus 5 spares so there's room to drop weak ones.
