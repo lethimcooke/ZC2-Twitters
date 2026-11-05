@@ -19,7 +19,8 @@ A number in "$ARGUMENTS" overrides this. Never more than 5 days: clips go stale.
 Weekend rules (Saturday and Sunday must need zero work from me):
 - Fill all 10 slots on Saturday and Sunday. Never leave a weekend slot FRESH, and never write "swap this in with
   `/daily fresh`" as something to do on a weekend; a weekend swap can only be an optional extra.
-- Weekend slots use evergreen clips and backlog clips, not timely ones that will be stale by then.
+- Weekend and Monday slots use fresh evergreen clips found in this batch (posted in the last few days, not tied to one game or
+  news moment), not timely ones that will be stale by then. Backlog is the last resort here too (see the backlog rule below).
 - The Monday after a weekend is built in the Thursday batch, also fully filled, so nothing has to be done before Monday's posts.
 - If the account's backlog has fewer than 20 unused clips when a Thursday batch starts, say so first: the weekend depends on it.
 
@@ -35,14 +36,20 @@ Weekend rules (Saturday and Sunday must need zero work from me):
    - Follow the mix and per-sport limits for each day separately.
    - Evergreen clips age too: put the biggest outliers and the oldest clips on the earliest days, but keep a strong
      clip at 12:00, 7:00 and 10:00 PM every day.
-   - Use up to 2 unused clips from `backlog.md` a day (not used in the last 60 days) instead of a weak new clip. Copy the file
-     path and caption into the slate, and fill in "Used on" in `backlog.md`.
+   - **Fresh first, backlog last (owner's rule, 11/5).** Backlog clips are always the least fresh, so a batch fills every day
+     with new clips found in this run before touching `backlog.md`. Keep searching until you have about 12 fresh candidates per
+     day: more queries, more watchlist and clip accounts, vidIQ, and evergreen posts from the last 3–5 days for the later days.
+     Scan at least 300–400 posts before deciding fresh supply has run out.
+   - Backlog: at most 2 clips a day (not used in the last 60 days), and only when no fresh clip of similar strength is left.
+     Copy the file path and caption into the slate, and fill in "Used on" in `backlog.md`. Going over 2 on any day needs a reason
+     in the summary: how many posts you scanned and what ran out.
    - Only leave a slot FRESH (filled the morning of with `/daily fresh`) if I ask for it, or if the only clips left
      for it are weak, creator-unknown or borderline. Say so in the summary if you do.
    - Collect about 12 candidates per day plus 5 spares so there's room to drop weak ones.
 5. Write one file per day, `slates/<date>.md`, with the schedule table (time, #, clip, link, credit, timely/evergreen)
    and the caption for each slot. Put the spares under "Reserves" in the last day's file.
-6. Show me a summary: one line per day with its 3 primetime clips, plus anything you're unsure about.
+6. Show me a summary: one line per day with its 3 primetime clips, the number of fresh vs backlog clips per day, how many posts
+   you scanned, plus anything you're unsure about.
 
 Clip-account scouting (every run, every account): whenever you come across a clipping or repost account posting viral clips in
 this account's niche that isn't already in the watchlist, add it under "Discovered" in the account's watchlist.md with its

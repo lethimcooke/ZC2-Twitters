@@ -94,5 +94,5 @@ Creator-unknown clips go in reserves unless the slate is short.
 - Owner-approved accounts are in `watchlist.md` ("Approved by the account owner"). Use them, and keep researching beyond them.
 - Throwback/"remember this" clips of famous athletes (family moments, legendary plays) are a proven format: aim for 1–2 a day.
 - 10/25 10:00 PM, backlog B005 (Charlie Woods' first hole-in-one, Tiger celebrating): 3.4M views, 45K likes, 2.4K bookmarks.
-  Proven emotional classics with a famous athlete can carry a primetime slot. Put at least one strong backlog clip in a
-  primetime slot (12:00, 7:00 or 10:00 PM) on most days.
+  Proven emotional classics with a famous athlete can carry a primetime slot. One strong backlog classic a day may go in a
+  primetime slot (12:00, 7:00 or 10:00 PM); it counts toward the 2-a-day backlog cap, and fresh clips still come first (11/5).
