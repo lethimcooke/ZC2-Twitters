@@ -25,9 +25,7 @@ time and add it next to their name.
 plus every clip account in the approved and discovered lists. Rank their last 24–48h posts by views and likes for the account.
 
 ## Owner-sent clips to add (add to the backlog on the next run, then delete the line)
-- https://x.com/ClipOverdose/status/2118065076733378866 (Alice Rosenblum in a bikini on stream)
-- https://x.com/ClipperViralHQ/status/2118006549218197578 (Clavicular kissing a girl on stream)
-These are the kind of clip the owner wants: suggestive stream/IRL moments that go viral because of who's in them.
+(none right now; the 11/6 batch used the Alice Rosenblum and Clavicular clips on the 11/6 slate)
 
 ## Research seeds (from a deep dive on 11/3; verify each handle and that they're active before first use)
 These widen the net. They are not a limit: keep researching what's trending every batch and add new finds to "Discovered".
@@ -53,6 +51,11 @@ Streamers and clip accounts found in research that are worth checking again. Add
 - @TsByNats: IShowSpeed tour clips; Speed meeting his lookalikes in Ethiopia got 296K / 15.2M (11/4)
 - @barragers and @Clav0Updates: Clavicular clip accounts. Most of their big posts are scandal or politics, so check each one (11/4)
 - @Agent00update and @CaseOhUpdates0: fan clip accounts for Agent 00 and CaseOh, active daily (11/4)
+- @KXNGAO: Agent 00 stream clips (AEW guests Nick Wayne, Kofi Kingston); 4K to 6K likes, 80K to 150K views, posts several a night (11/5)
+- @CoreBoysWorld: Jasontheween and CoreBoys clips including Valkyrae's assistant; about 2K likes, 170K views (11/5)
+- @Soft_Frame: women streamer clips (Emiru and others); 4.5K likes / 250K views on the Sylvanas cosplay clip (11/5)
+- @zeusclipping: women streamer clips (Pokimane, Wendy Ortiz); 5K to 8K likes, but some are borderline, check each one (11/5)
+- @Streamsync2: Clavicular clips; 6.4K likes / 683K views, but this copy was only 576x418 (11/5)
 - @Kick_Champ: Kick streamer clips, mostly SNEAKO; many are drama, check each one (11/4)
 
 ## X search queries
