@@ -80,7 +80,7 @@
 | 2026-11-02 | 11:00 PM | https://x.com/misterduby/status/1578171113779216384 | @IShowSpeed (backlog KB005) | IShowSpeed's Mario movie reaction will never get old 😭 | |
 | 2026-11-03 | 12:30 AM | https://x.com/Dexerto/status/1700237821770891507 | xQc (stream) (found via @Dexerto) | xQc didn't realize red lights apply to bikes too 💀 | |
 | 2026-11-03 | 7:00 PM | https://x.com/SlatDontMiss/status/2116946411959001492 | Kai Cenat (stream) (clip: @SlatDontMiss) | Tyler Posey reacted to Kai Cenat's Teen Wolf costume 😭 | |
-| 2026-11-03 | 8:30 PM | https://x.com/Atlas8a/status/2116918911103119462 | Clavicular (stream) (clip: @Atlas8a) | Clavicular turned a casual couch hangout into a full cuddle session 😳 | |
+| 2026-11-03 | 8:30 PM | https://x.com/Atlas8a/status/2116918911103119462 | Clavicular (stream) (clip: @Atlas8a) | Clavicular turned a casual couch hangout into a full cuddle session 😳 | 3,945 views, 9 likes, 3 bookmarks (as of 11/4) |
 | 2026-11-03 | 10:00 PM | https://x.com/Agent00update/status/2116701907855310872 | Agent 00 (stream) (clip: @Agent00update) | Agent and Duke Dennis were in shock at what Silly did to Duke 😳 | |
 | 2026-11-03 | 11:00 PM | https://x.com/KillaKreww/status/2078563638839791648 | creator unknown (via @KillaKreww) (backlog KB032) | EmilyCC pulled up to Kai Cenat's stream and told him to end her 24/7 stream after 5 years 😳 | |
 | 2026-11-04 | 12:30 AM | https://x.com/scubaryan_/status/2089031326791766494 | Tyla (stream) (clip: @scubaryan_) (backlog KB042) | Tyla's first IRL stream drew a crowd so big she had to stop and check on the kids 😳 | |

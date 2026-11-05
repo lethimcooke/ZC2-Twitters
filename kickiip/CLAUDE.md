@@ -125,3 +125,9 @@ famous IRL stream moments, all-time collab and chat moments. Celebrity-only clip
 ## Posting times (ET, adjust from results)
 10:00 AM, 12:00, 1:30, 3:00, 5:00, 7:00, 8:30, 10:00, 11:00 PM, 12:30 AM.
 This audience is later than sports: strongest clips at 7:00, 10:00 and 11:00 PM.
+
+## What's working (update as results come in)
+- The approach is to improve, not narrow: keep every content type and person in play and add more; use results to decide
+  what gets the best slots.
+- 11/3 8:30 PM, K86 (Clavicular couch cuddle, suggestive IRL stream moment): 3.9K views in its first day on a new account.
+  This style earns a primetime slot.
