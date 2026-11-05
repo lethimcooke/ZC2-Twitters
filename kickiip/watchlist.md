@@ -56,6 +56,10 @@ Streamers and clip accounts found in research that are worth checking again. Add
 - @Soft_Frame: women streamer clips (Emiru and others); 4.5K likes / 250K views on the Sylvanas cosplay clip (11/5)
 - @zeusclipping: women streamer clips (Pokimane, Wendy Ortiz); 5K to 8K likes, but some are borderline, check each one (11/5)
 - @Streamsync2: Clavicular clips; 6.4K likes / 683K views, but this copy was only 576x418 (11/5)
+- @SpeedUpdates1: IShowSpeed clips; 20K to 40K likes, 0.6M to 1.4M views on the Halloween stream and fan moments (11/5)
+- @Kaimafiaupdates: Kai Cenat and AMP clips; 5K to 11K likes, up to 530K views (11/5)
+- @TwitchSlopp: women streamer clips (Emiru's Sylvanas cosplay got 12.4K likes / 520K views) (11/5)
+- @StableUpdates and @StableRonaldoHQ: Stable Ronaldo and Fortnite streamer clips; 4K to 7K likes (11/5)
 - @Kick_Champ: Kick streamer clips, mostly SNEAKO; many are drama, check each one (11/4)
 
 ## X search queries
