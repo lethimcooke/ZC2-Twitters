@@ -23,3 +23,8 @@ days to change (default: the next day that hasn't been scheduled yet). "all" mea
 5. Add a "Viral swap (<date/time>)" section to each slate, commit "viral swap <dates>", git pull --no-rebase, git push, and
    leave the research browser on x.com/home.
 6. Show me a table: date, time, old clip, new clip file, caption, so I can schedule (or swap) them in X.
+
+Clip-account scouting (every run, every account): whenever you come across a clipping or repost account posting viral clips in
+this account's niche that isn't already in the watchlist, add it under "Discovered" in the account's watchlist.md with its
+handle, what it posts, its typical likes/views, and the date. If a discovered account turns up with viral posts in 2 or more
+runs, move it up to the account's main list of accounts to check first. Report the new ones in your summary.

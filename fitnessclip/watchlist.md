@@ -10,6 +10,9 @@ Check that each handle still exists the first time you use it, and replace dead 
 ## Approved by the account owner (check every batch; the list is a start, keep researching beyond it)
 @muscleb1ueprint @upworkout @aesthetics_way @fitnessguide0 @SquatUniversity
 
+## Discovered (added by Claude during research; keep growing this)
+Clip and repost accounts found in research that are worth checking again: handle, what they post, typical likes/views, date.
+
 ## X search queries
 ```
 (gym OR workout OR lifting OR deadlift OR squat OR bench) filter:native_video min_faves:5000 within_time:72h lang:en <exclusions>

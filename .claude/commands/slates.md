@@ -43,3 +43,8 @@ Weekend rules (Saturday and Sunday must need zero work from me):
 5. Write one file per day, `slates/<date>.md`, with the schedule table (time, #, clip, link, credit, timely/evergreen)
    and the caption for each slot. Put the spares under "Reserves" in the last day's file.
 6. Show me a summary: one line per day with its 3 primetime clips, plus anything you're unsure about.
+
+Clip-account scouting (every run, every account): whenever you come across a clipping or repost account posting viral clips in
+this account's niche that isn't already in the watchlist, add it under "Discovered" in the account's watchlist.md with its
+handle, what it posts, its typical likes/views, and the date. If a discovered account turns up with viral posts in 2 or more
+runs, move it up to the account's main list of accounts to check first. Report the new ones in your summary.

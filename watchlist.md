@@ -7,6 +7,9 @@ Check that each handle still exists the first time you use it. Delete dead ones 
 Recent major sports clips are great, but the best performer so far was a throwback (Charlie Woods' ace with Tiger).
 Every batch, look for 1–2 nostalgic or "remember this" clips of famous athletes, on top of the backlog.
 
+## Discovered (added by Claude during research; keep growing this)
+Clip and repost accounts found in research that are worth checking again: handle, what they post, typical likes/views, date.
+
 ## X search queries
 Paste into x.com/search and look at both the **Top** and **Latest** tabs.
 Every query ends with the exclusion list below. Always keep it on; it stops politics, war and news from flooding the results.

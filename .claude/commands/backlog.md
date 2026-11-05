@@ -27,3 +27,8 @@ they're reposted: all-time great catches, dunks, trick shots, fails, crowd momen
 5. Add a row to `backlog.md` for each: id, file, link, original creator, category, sport (or "general"), why it's proven, and a caption
    written for a repost of a classic (e.g. "This will never get old 😭", "Still can't believe this was real 🤯"). Leave "Used on" empty.
 6. Show me what was added and the backlog's totals by category.
+
+Clip-account scouting (every run, every account): whenever you come across a clipping or repost account posting viral clips in
+this account's niche that isn't already in the watchlist, add it under "Discovered" in the account's watchlist.md with its
+handle, what it posts, its typical likes/views, and the date. If a discovered account turns up with viral posts in 2 or more
+runs, move it up to the account's main list of accounts to check first. Report the new ones in your summary.
