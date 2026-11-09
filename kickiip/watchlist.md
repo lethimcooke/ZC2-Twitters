@@ -61,6 +61,12 @@ Streamers and clip accounts found in research that are worth checking again. Add
 - @TwitchSlopp: women streamer clips (Emiru's Sylvanas cosplay got 12.4K likes / 520K views) (11/5)
 - @StableUpdates and @StableRonaldoHQ: Stable Ronaldo and Fortnite streamer clips; 4K to 7K likes (11/5)
 - @Kick_Champ: Kick streamer clips, mostly SNEAKO; many are drama, check each one (11/4)
+- 2026-11-09 @viewsceo (already approved): Cuffem/Travis Scott 16K / 532K, PlaqueBoyMax and Rubi Rose 9.8K / 1.7M
+- 2026-11-09 @defaultclipz: celeb-on-stream clips, Iggy Azalea with N3on 11K / 4.4M
+- 2026-11-09 @Clav0Updates: Clavicular clips, 7.5K / 467K
+- 2026-11-09 @FanumUpdater: Fanum stream clips, 23K / 528K
+- 2026-11-09 @KickStreamingHQ: Kick drama and Cuffem clips, 1.7K-5.9K / 100K-200K
+- 2026-11-09 @itsavibe: celeb moments at streamer/creator events (Druski SNL, 3K / 198K)
 
 ## X search queries
 ```

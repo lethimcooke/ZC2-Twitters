@@ -18,6 +18,9 @@ Clip and repost accounts found in research that are worth checking again: handle
 - 2026-11-05 @TalkinBaseball_: MLB parade and clubhouse moments, 4K-8K likes / 150K-300K views
 - 2026-11-05 @NCAABuzzerBters: college basketball clips, 11K likes / 2M views (Puryear free-throw form)
 - 2026-11-05 @HeatvsHaters and @LakeShowYo: NBA team-fan clips, 7K-41K likes / 100K-2M views (Knecht debut 41K / 2.1M)
+- 2026-11-09 @tekkersfoot: Premier League goal clips, 4K-5K likes / 500K views (Wirtz first PL goal 4.4K / 516K)
+- 2026-11-09 @UFConParamount: UFC finishes straight from the broadcast, 6.7K likes / 2.7M views (Walker KO)
+- 2026-11-09 @247Sports: college football moments, 7K likes / 576K views
 
 ## X search queries
 Paste into x.com/search and look at both the **Top** and **Latest** tabs.
