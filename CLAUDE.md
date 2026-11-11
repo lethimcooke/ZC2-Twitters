@@ -44,6 +44,17 @@ Reject it, whatever its numbers, if it's:
 Before suggesting a clip, look at the video itself (open the post and check the thumbnail/first frames), not just the post text.
 If you're unsure which bucket it's in, leave it out.
 
+## Official captions count as evidence (owner, 11/11)
+- When an official league, team, event organizer or broadcaster (for example @NBA, @MLB, @NHL, @NFL, @ufc, @ChampionsLeague,
+  @TennisTV, or a club's own account) describes the play or result in the caption of its own post, treat that caption as
+  sufficient evidence for what happened. If the NBA calls it a buzzer-beater or MLB says two baseballs collided, use that
+  description in our caption. A contact sheet that misses the exact instant is not a reason to drop the clip, and don't spend
+  time trying to prove it again.
+- This applies only to official source posts. If the claim comes only from a repost or fan account, attribute it ("per @account")
+  or stick to what the footage shows.
+- Still investigate when the footage clearly contradicts the caption or appears to show a different event (wrong teams, venue or
+  score). Every other check (clip quality, watermarks, bars, audio, trims, niche) stays as it is.
+
 ## Finding the original creator
 - Big repost accounts (e.g. @HaterReport, @DailyLoud, @PopBase, @OnlyBangers, @crazyclips_) are where we *find* clips, not who we credit.
 - Look for the original: a watermark or handle on the video, "🎥:" or "via" in the post or replies, or the earliest post of the same clip.

@@ -36,6 +36,12 @@ Run the steps below for each day, using `clips/<that day's date>/`. Skip FRESH s
    - **Final check of the finished file:** it plays (ffprobe shows H.264 video and AAC audio, a duration over 5s), there are no
      bars, no other platform's marks, and nothing in it breaks the account's niche or reject list. If you're unsure about
      any check, drop the clip; don't hand the question to the owner.
+   - **Caption claims (owner, 11/11, all accounts):** when an official league, team, event organizer or broadcaster describes the
+     play or result in the caption of its own post, that caption is sufficient evidence. Use its description in our caption
+     (if the NBA calls it a buzzer-beater, or MLB says two baseballs collided, we say so). A contact sheet or dense frames that
+     miss the exact instant are not a reason to drop the clip or to keep trying to prove it. If the claim comes only from a
+     repost or fan account, attribute it ("per @account") or stick to what the footage shows. Investigate only when the footage
+     clearly contradicts the caption or seems to show a different event. All other checks on this list still apply.
    - **Dropped clips get replaced, not flagged.** Fill the slot from the slate's Reserves first (download and run these same
      checks), then from other fresh clips found in this batch, then from `backlog.md` (checked the same way). Update the
      slate's schedule and caption for that slot, clear or fill "Used on" in `backlog.md`, and list the swap in your summary.
