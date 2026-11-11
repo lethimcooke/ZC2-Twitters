@@ -222,3 +222,15 @@
 | 2026-11-09 | 8:30 PM | https://x.com/ln4norris/status/2117730454249877951 | creator unknown (via @ln4norris) | Lando hit Oscar with the buzzer to answer 😭 | |
 | 2026-11-09 | 10:00 PM | https://x.com/MLFootball/status/2117016862982869501 | creator unknown (via @MLFootball) | The loudest field goal doink in NFL history 😭 | |
 | 2026-11-09 | 11:30 PM | https://x.com/SportsCenter/status/2117479657213665411 | creator unknown (via @SportsCenter) | Caleb Williams took a video of the Bears fans after the win 🥹 | |
+| 2026-11-10 | 8:00 AM | https://x.com/SportsCenter/status/2119606055260815373 | creator unknown (via @SportsCenter) | Rome Odunze answered with Cole Kmet's home run swing as his touchdown celebration 😂 | |
+| 2026-11-10 | 10:00 AM | https://x.com/NHL/status/2119605938801844326 | creator unknown (via @NHL) | Tie game, 0.3 seconds left, and Mark Scheifele wins it 🤯 | |
+| 2026-11-10 | 12:00 PM | https://x.com/UFConParamount/status/2119279980081270962 | creator unknown (via @UFConParamount) | Johnny Walker ended the heavyweight main event out of nowhere 😳 | |
+| 2026-11-10 | 1:30 PM | https://x.com/premierleague/status/2119750597696188774 | creator unknown (via @premierleague) | The keeper had no chance on this one 😳 | |
+| 2026-11-10 | 3:00 PM | https://x.com/MLB/status/2119241053421408442 | @MLB | Paul Skenes stepped into a sumo ring with an actual sumo wrestler 😂 | |
+| 2026-11-10 | 5:00 PM | https://x.com/tekkersfoot/status/2119570840224227347 | creator unknown (via @tekkersfoot) | Florian Wirtz scores his first Premier League goal of the season 🔥 / Rate it 1–10 | |
+| 2026-11-10 | 7:00 PM | https://x.com/ESPNNBA/status/2119650484961362330 | creator unknown (via @ESPNNBA) | Klay Thompson hit seven threes against the Kings 🔥 | |
+| 2026-11-10 | 8:30 PM | https://x.com/F1/status/2119516339781943601 | @F1 | Mercedes' team principal doubled as the chief dancer at the Brazilian GP 🕺 | |
+| 2026-11-10 | 10:00 PM | https://x.com/247Sports/status/2119207413911863329 | creator unknown (via @247Sports) | "He can barely walk and he just scored the game winner" | |
+| 2026-11-10 | 11:30 PM | https://x.com/TennisTV/status/2119465927762735517 | @TennisTV | Carlos Alcaraz wins in Paris and the hugs with his team say it all 🥹 | |
+| 2026-11-11 | 8:00 AM | https://x.com/SportsCenter/status/2119980422658465801 | ESPN broadcast (via @SportsCenter) | Down one with 5.1 left, Bobby Durkin hit a three at the buzzer to beat Cincinnati 🤯 | |
+| 2026-11-11 | 10:00 AM | https://x.com/NHL/status/2120034415950573846 | @NHL (NBC Sports California broadcast) | Round 8 of the shootout, and Ivar Stenberg ends it for the Sharks 🚨 | |

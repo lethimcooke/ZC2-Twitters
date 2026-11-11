@@ -122,3 +122,16 @@
 | 2026-11-09 | 7:00 PM | https://x.com/StanleyGraps/status/2025233545531105658 | archival training footage (found via @StanleyGraps) (backlog FB100) | Tom Platz trained past failure, and you can see it 😳 | |
 | 2026-11-09 | 8:30 PM | https://x.com/PicturesFoIder/status/1919059565414379885 | creator unknown (found via @PicturesFoIder) (backlog FB087) | He got his trophy from Arnold and couldn't believe it 🥹 | |
 | 2026-11-09 | 10:00 PM | https://x.com/overtime/status/1413871912061706243 | @tfordfsp1 (his trainer) (found via @overtime) (backlog FB040) | DK Metcalf hit a 42-inch single-leg box jump holding a 15 lb med ball 😳 | |
+| 2026-11-10 | 6:30 AM | https://x.com/345marcel/status/1990123276241195364 | GMV Bodybuilding footage (found via @345marcel) (backlog FB099) | Tom Platz sitting all the way back on his heels with those legs 🤯 | |
+| 2026-11-10 | 8:00 AM | https://x.com/JunaUSA/status/2078134034140680577 | @JunaUSA (backlog FB056) | The noodle shop owner just ripped a handstand mid-shift 😳 | |
+| 2026-11-10 | 10:00 AM | https://x.com/FitnessGuide0/status/2030986158499409921 | @FitnessGuide0 (backlog FB079) | One plate, four ab moves, 20 reps each 💪 / Could you finish them all? | |
+| 2026-11-10 | 12:00 PM | https://x.com/SquatUniversity/status/1902382978967253410 | @SquatUniversity (backlog FB059) | Try this on your next core day 🎯 | |
+| 2026-11-10 | 2:00 PM | https://x.com/SportsCenter/status/1317234738118230016 | @KingJames (found via @SportsCenter) (backlog FB091) | LeBron and his daughter Zhuri getting a workout in together 🥹 | |
+| 2026-11-10 | 4:00 PM | https://x.com/SquatUniversity/status/2045698818537074698 | creator unknown (found via @SquatUniversity) (backlog FB103) | 200 kg (441 lb) paused squat, and he made it look smooth 🔥 / Rate the depth 1-10 | |
+| 2026-11-10 | 5:30 PM | https://x.com/Twinkle_Fists/status/2045114942605381917 | Brie Larson (found via @Twinkle_Fists) (backlog FB069) | Brie Larson hitting one-arm pull-ups 😳 / Could you do one? | |
+| 2026-11-10 | 7:00 PM | https://x.com/MuscleB1ueprint/status/2091518622652911724 | @MuscleB1ueprint (backlog FB078) | Try this knee drill before your next leg day 🦵 | |
+| 2026-11-10 | 8:30 PM | https://x.com/MUSCLESURGE/status/2096568569773318581 | Pumping Iron (1977) (found via @MUSCLESURGE) (backlog FB088) | Arnold's prison visit in Pumping Iron still goes hard 🎬 | |
+| 2026-11-10 | 10:00 PM | https://x.com/IMr_O_/status/1845718969409286643 | Olympia / Bodybuilding News (found via @IMr_O_) (backlog FB096) | CBum at the Olympia, 2023 vs 2024 🔥 / Which year was better? | |
+| 2026-11-11 | 6:30 AM | https://x.com/SquatUniversity/status/2032546389725450520 | @SquatUniversity (backlog FB060) | Do this before you overhead press 💪 / Do you warm up your shoulders? | |
+| 2026-11-11 | 8:00 AM | https://x.com/fitdaddy_/status/2012709192134529206 | creator unknown (found via @fitdaddy_) (backlog FB098) | Fix your bench in 15 seconds 🎯 | |
+| 2026-11-11 | 10:00 AM | https://x.com/NFL_DovKleiman/status/2023219103939371362 | Mondoe Davis (found via @NFL_DovKleiman) (backlog FB093) | Former NFL linebacker Mondoe Davis shows his go-to core exercise 🔥 | |
