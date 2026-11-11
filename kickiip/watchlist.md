@@ -67,6 +67,11 @@ Streamers and clip accounts found in research that are worth checking again. Add
 - 2026-11-09 @FanumUpdater: Fanum stream clips, 23K / 528K
 - 2026-11-09 @KickStreamingHQ: Kick drama and Cuffem clips, 1.7K-5.9K / 100K-200K
 - 2026-11-09 @itsavibe: celeb moments at streamer/creator events (Druski SNL, 3K / 198K)
+- 2026-11-10 @QuillyMedia: women streamer clips (Emiru, Cinna, Pokimane); 4.2K-11K likes / 89K-933K views
+- 2026-11-10 @ethkompot: Clavicular clips; the boat-kitchen joke got 35K / 11M
+- 2026-11-10 @Pulcys: Clavicular Fortnite clips; 4.6K / 400K
+- 2026-11-10 @derklyc: Clavicular IRL and stream clips; 2.8K-5.4K likes / 340K-368K views
+- 2026-11-10 @ChipGotIt_: Marlon and StableRonaldo clips; 4.6K / 397K
 
 ## X search queries
 ```
