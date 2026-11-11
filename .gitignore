@@ -1,2 +1,12 @@
 clips/
 .playwright-mcp/
+
+# Never commit credentials, cookies or videos
+*.mp4
+*.mov
+*.webm
+.env
+*.env
+cookies*.txt
+*.cookies
+*cookie*.json
