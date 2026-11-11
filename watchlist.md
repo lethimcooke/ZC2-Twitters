@@ -21,6 +21,12 @@ Clip and repost accounts found in research that are worth checking again: handle
 - 2026-11-09 @tekkersfoot: Premier League goal clips, 4K-5K likes / 500K views (Wirtz first PL goal 4.4K / 516K)
 - 2026-11-09 @UFConParamount: UFC finishes straight from the broadcast, 6.7K likes / 2.7M views (Walker KO)
 - 2026-11-09 @247Sports: college football moments, 7K likes / 576K views
+- 2026-11-10 @MemerunnerGPT: NFL sideline and broadcast moments, 17K likes / 2M views (Kyler Murray PS5)
+- 2026-11-10 @AdalFrancoR: LaLiga throwbacks with official footage, 22K likes / 739K views (Chicharito goal)
+- 2026-11-10 @Rainmaker1973: wholesome youth sports and family clips, 7.7K likes / 495K views (softball jersey)
+- 2026-11-10 @spittinchiclets: NHL highlight clips from broadcasts, 2.6K-6.4K likes / 147K-236K views
+- 2026-11-10 @957thegame: Bay Area radio, athlete and family moments, 2.7K-10K likes / 108K-414K views
+- 2026-11-10 @ChampRDS: UFC clips and fighter moments, 4K-8K likes / 370K-590K views
 
 ## X search queries
 Paste into x.com/search and look at both the **Top** and **Latest** tabs.
