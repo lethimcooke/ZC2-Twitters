@@ -6,6 +6,12 @@ Use the root `CLAUDE.md` for @sidelinesync. If `$ARGUMENTS` starts with `kickiip
 slate. `all` selects upcoming slates from today onward. With neither, use today. Work
 through the selected dates in posting order and skip FRESH slots until they are filled.
 
+Media folder (`<media>/` below): @sidelinesync uses `sidelinesync/`, @fitnessclip uses
+`fitnessclip/clips/`, and @kickciip uses `kickiip/clips/` (the local folder and the `kickiip`
+argument stay as they are). Each holds the date folders, `backlog/`, `.prep/` and `archive/`.
+Fully posted dates live in `<media>/archive/<date>/`: never prep, move or edit an archived
+date, and skip any slate date whose folder is archived.
+
 1. Read the slate (use its Revised schedule when present), the account's posted log,
    and the applicable rules. Skip clips already posted and reuse finished clips already
    verified for the same slate slot and source. Use an existing local file for a backlog clip.
@@ -13,7 +19,7 @@ through the selected dates in posting order and skip FRESH slots until they are 
    clips can use the account's existing exceptions, up to 2:20. A trim must retain the setup
    and payoff, and must not cut out a creator mark to make a clip pass.
 
-2. Write a UTF-8 JSON manifest inside the account's gitignored `clips/` folder for the
+2. Write a UTF-8 JSON manifest inside the account's gitignored `<media>/` folder for the
    remaining slots. Each entry has the final filename and either a public source URL or a
    local file path relative to the repo root. Set optional `start` and `end` in seconds
    on the source timeline when a trim is needed. For example:
@@ -21,7 +27,7 @@ through the selected dates in posting order and skip FRESH slots until they are 
    ```json
    [
      {"name":"0800-1-example.mp4","url":"https://x.com/example/status/123","start":2,"end":24},
-     {"name":"1000-2-example.mp4","file":"clips/backlog/B005.mp4"}
+     {"name":"1000-2-example.mp4","file":"sidelinesync/backlog/B005.mp4"}
    ]
    ```
 
@@ -29,7 +35,7 @@ through the selected dates in posting order and skip FRESH slots until they are 
    account and manifest path). Use `py -3` if Windows exposes Python through that launcher.
 
    ```
-   python scripts/prep_batch.py --account sidelinesync --manifest clips/prep-2026-11-12.json
+   python scripts/prep_batch.py --account sidelinesync --manifest sidelinesync/prep-2026-11-12.json
    ```
 
    The script uses FFmpeg and ffprobe on PATH, plus yt-dlp if any source is a URL. It
@@ -37,7 +43,7 @@ through the selected dates in posting order and skip FRESH slots until they are 
    verifies H.264/AAC and duration, and writes a contact sheet for each staged clip.
    It prints counts and the location of `report.json`. Read the report for the file,
    frame timestamps, sheet, and failures. Open individual `tools.log` files only when
-   diagnosing a failure. Staged files and logs live under `clips/.prep/`. A status of
+   diagnosing a failure. Staged files and logs live under `<media>/.prep/`. A status of
    `needs_review` means the mechanical checks passed and visual review is still due.
 
 3. Review every staged clip against the existing account rules before promoting it.
@@ -58,7 +64,7 @@ through the selected dates in posting order and skip FRESH slots until they are 
      usage when a replacement passes. Report a gap only after suitable options are
      exhausted. Leave bulk backlog refills for a separate run.
 
-4. Move reviewed MP4s into the account's `clips/<date>/` folder and write
+4. Move reviewed MP4s into the account's `<media>/<date>/` folder and write
    `captions.txt` with time, filename and exact caption in posting order. Keep reserves
    under `reserves/`. If a replacement supersedes a file, move the old file out of
    the upload folder. Remove the temporary batch folder after the handoff is verified.

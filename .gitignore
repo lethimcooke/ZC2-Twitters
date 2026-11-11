@@ -1,3 +1,5 @@
+# Media stays on the PC: sidelinesync/ is the @sidelinesync media tree, clips/ covers fitnessclip/clips and kickiip/clips
+/sidelinesync/
 clips/
 .playwright-mcp/
 

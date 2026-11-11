@@ -15,6 +15,9 @@ from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 ACCOUNTS = {"sidelinesync": ROOT, "fitnessclip": ROOT / "fitnessclip", "kickiip": ROOT / "kickiip"}
+# Each account's gitignored media folder: @sidelinesync uses sidelinesync/, the others use <account>/clips/.
+MEDIA = {"sidelinesync": ROOT / "sidelinesync", "fitnessclip": ROOT / "fitnessclip" / "clips",
+         "kickiip": ROOT / "kickiip" / "clips"}
 DOWNLOAD_FORMAT = "bv*[vcodec^=avc]+ba[acodec^=mp4a]/b[ext=mp4]/b"
 
 
@@ -195,7 +198,9 @@ def read_jobs(manifest, clips):
         if "file" in job:
             path = (ROOT / job["file"]).resolve()
             if not path.is_relative_to(clips.resolve()) or not path.is_file():
-                raise ValueError(f"{name}: local file must exist inside this account's clips folder")
+                raise ValueError(f"{name}: local file must exist inside this account's media folder")
+            if "archive" in path.relative_to(clips.resolve()).parts:
+                raise ValueError(f"{name}: archived dates are not prepped; use a file outside archive/")
             job["file"] = str(path)
         else:
             url = urlsplit(job["url"])
@@ -216,7 +221,7 @@ def main():
     parser.add_argument("--account", choices=ACCOUNTS, required=True)
     parser.add_argument("--manifest", type=Path, required=True)
     args = parser.parse_args()
-    clips = ACCOUNTS[args.account] / "clips"
+    clips = MEDIA[args.account]
     try:
         jobs = read_jobs(args.manifest, clips)
         tools = ["ffmpeg", "ffprobe"]

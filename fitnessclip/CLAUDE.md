@@ -2,7 +2,7 @@
 
 **STATUS: LIVE since Thu 10/29, 12:30 PM ET.** 10/29 runs a compressed 12:30–10:00 PM schedule (see that slate).
 
-This file replaces the root `CLAUDE.md` whenever a command is run for @fitnessclip. Ignore the @sidelinesync and @kickIIP rules
+This file replaces the root `CLAUDE.md` whenever a command is run for @fitnessclip. Ignore the @sidelinesync and @kickciip rules
 when working on this account.
 
 Goal: 10 posts a day of the most viral fitness and gym clips, with credit to the creator.
@@ -17,7 +17,7 @@ vidIQ (TikTok/Instagram/YouTube outliers), and yt-dlp for downloads. Never log i
 - `fitnessclip/posted.md`: every clip posted on @fitnessclip. Never repost a clip.
 - `fitnessclip/slates/YYYY-MM-DD.md`: each day's slate.
 - `fitnessclip/backlog.md` and `fitnessclip/clips/backlog/`: proven classics to fall back on (60 days between reposts).
-- `fitnessclip/clips/<date>/`: downloaded videos (on the PC only).
+- `fitnessclip/clips/<date>/`: downloaded videos (on the PC only). Fully posted dates move to `fitnessclip/clips/archive/<date>/`.
 
 ## Niche check
 A clip is in the niche if it's one of these:

@@ -1,4 +1,4 @@
-# @kickIIP watchlist
+# @kickciip watchlist
 
 Check that each handle still exists the first time you use it, and replace dead ones.
 

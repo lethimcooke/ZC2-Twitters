@@ -2,7 +2,7 @@
 
 Clips that have already gone viral (often many times) and still work as reposts. Use them when a slate is short,
 when a planned clip turns out to be stale, or for one "classic" slot a day.
-Videos are in `clips/backlog/` (on the PC only). Fill this with `/backlog 20`.
+Videos are in `sidelinesync/backlog/` (on the PC only). Fill this with `/backlog 20`.
 
 Rules:
 - Don't repost a backlog clip within 60 days of its last use. When one is used, fill in "Used on" and add it to `posted.md`.

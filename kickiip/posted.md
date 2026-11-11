@@ -1,4 +1,4 @@
-# @kickIIP posted log
+# @kickciip posted log
 
 | Date | Time (ET) | Clip link | Creator | Caption | Views / likes after 24h |
 |------|-----------|-----------|---------|---------|-------------------------|
@@ -144,3 +144,13 @@
 | 2026-11-09 | 10:00 PM | https://x.com/Clix/status/2117685837173588204 | @Clix | Clix just found the Fortnite Pirate Token and lost it 😭 | |
 | 2026-11-09 | 11:00 PM | https://x.com/scubaryan_/status/2048876164194697691 | IShowSpeed (stream) (clip: @scubaryan_) (backlog KB066) | IShowSpeed showed up at Rihanna's house in Barbados 😳 | |
 | 2026-11-10 | 12:30 AM | https://x.com/Dexerto/status/1524467841642160133 | Twitch streamer (found via @Dexerto) (backlog KB072) | A Twitch streamer almost burned down her kitchen during a cooking stream 😳 | |
+| 2026-11-10 | 10:00 AM | https://x.com/itsavibe/status/2119315460965691832 | creator unknown (via @itsavibe) | Dave Chappelle and Chris Rock showed up to support Druski on his first time hosting SNL 🥹 | |
+| 2026-11-10 | 12:00 PM | https://x.com/FanumUpdater/status/2118884754758250696 | creator unknown (via @FanumUpdater) | Fanum ordered DoorDash and Uber Eats at the same time to see which one shows up first 😂 | |
+| 2026-11-10 | 1:30 PM | https://x.com/0xTreexyz/status/2119504860504891449 | creator unknown (via @0xTreexyz) | Clavicular on TMZ Sports: fantasy football is "a hobby for broke 30-year-olds" / Agree or disagree? 🤨 | |
+| 2026-11-10 | 3:00 PM | https://x.com/SlatDontMiss/status/2119565365743415419 | creator unknown (via @SlatDontMiss) | Kai Cenat looked on confused as Pudgie, in character as Big Smoke, started walking into a wall at McDonald's 💀 | |
+| 2026-11-10 | 5:00 PM | https://x.com/ashleybrwns/status/2119228562888688111 | creator unknown (via @ashleybrwns) | IShowSpeed reacts to Jimin's first Instagram post in a month: "w post" 😭 | |
+| 2026-11-10 | 7:00 PM | https://x.com/defaultclipz/status/2119086713628975177 | creator unknown (via @defaultclipz) | Iggy Azalea showed N3on her "forbidden talent" on stream 👀 | |
+| 2026-11-10 | 8:30 PM | https://x.com/viewsceo/status/2119223958507823327 | creator unknown (via @viewsceo) | Cuffem started crying after Travis Scott walked up to him a second time and showed love 🥹 | |
+| 2026-11-10 | 11:00 PM | https://x.com/QuillyMedia/status/2119485973172011121 | creator unknown (via @QuillyMedia) | Pokimane reaching under her chair mid-stream 👀 | |
+| 2026-11-11 | 12:30 AM | https://x.com/scubaryan_/status/2118862906150601176 | creator unknown (via @scubaryan_) | Kai Cenat took a break from his GTA marathon and played GTA IRL 🎮 | |
+| 2026-11-11 | 10:00 AM | https://x.com/ilySalt/status/2120259284089082057 | creator unknown (via @ilySalt) | GTA 6 is over 200 GB, so Jynxzi started uninstalling his whole Xbox library on stream 😭 | |

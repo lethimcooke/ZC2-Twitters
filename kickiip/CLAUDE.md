@@ -1,6 +1,6 @@
-# @kickIIP: streamer and celebrity clip account
+# @kickciip: streamer and celebrity clip account
 
-This file replaces the root `CLAUDE.md` whenever a command is run for @kickIIP. Ignore the @sidelinesync rules
+This file replaces the root `CLAUDE.md` whenever a command is run for @kickciip. Ignore the @sidelinesync rules
 (including its niche check, which rejects streamer and celebrity clips) when working on this account.
 
 Goal: 10 posts a day of the most viral **streamer** clips, with credit. Narrowed 10/29: streamers only.
@@ -13,10 +13,10 @@ Kick, Twitch and YouTube clip links can be downloaded with yt-dlp the same way a
 
 ## Files (all inside `kickiip/`)
 - `kickiip/watchlist.md`: clip accounts, streamers, and X search queries.
-- `kickiip/posted.md`: every clip posted on @kickIIP. Never repost a clip.
+- `kickiip/posted.md`: every clip posted on @kickciip. Never repost a clip.
 - `kickiip/slates/YYYY-MM-DD.md`: each day's slate.
 - `kickiip/backlog.md` and `kickiip/clips/backlog/`: proven classics to fall back on (60 days between reposts).
-- `kickiip/clips/<date>/`: downloaded videos (on the PC only).
+- `kickiip/clips/<date>/`: downloaded videos (on the PC only). Fully posted dates (including the next-day 12:30 AM carryover) move to `kickiip/clips/archive/<date>/`.
 
 ## Niche check
 A clip is in the niche if it's one of these:

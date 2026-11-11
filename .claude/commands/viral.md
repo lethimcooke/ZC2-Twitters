@@ -1,7 +1,7 @@
 ---
 description: Swap in the hottest viral clips right before scheduling (on demand)
 ---
-Account: if "$ARGUMENTS" starts with an account name, this run is for that account: "kickiip" or "@kickIIP" uses the
+Account: if "$ARGUMENTS" starts with an account name, this run is for that account: "kickiip" or "@kickciip" uses the
 `kickiip/` folder, and "fitnessclip" or "@fitnessclip" uses the `fitnessclip/` folder. Read and follow that folder's CLAUDE.md
 instead of the root CLAUDE.md, and use that folder's copy of every file and folder named below. Otherwise this run is for
 @sidelinesync and uses the root files.

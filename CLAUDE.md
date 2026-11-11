@@ -1,6 +1,6 @@
 # @sidelinesync: viral repost account
 
-These rules are for @sidelinesync. For @kickIIP (commands run with "kickiip") follow `kickiip/CLAUDE.md`, and for
+These rules are for @sidelinesync. For @kickciip (commands run with "kickiip") follow `kickiip/CLAUDE.md`, and for
 @fitnessclip (commands run with "fitnessclip") follow `fitnessclip/CLAUDE.md` instead.
 
 Goal: 10 posts a day of the most viral clips we can find, with credit to the creator.
@@ -22,7 +22,9 @@ We don't need to be first with news. We need clips that make people stop scrolli
 - `watchlist.md`: accounts to check and X search queries to run.
 - `posted.md`: every clip we've posted. Check it before suggesting anything so we never repost a clip.
 - `slates/YYYY-MM-DD.md`: each day's shortlist, captions and reply drafts.
-- `backlog.md`: proven viral clips already downloaded to `clips/backlog/`, used when a slate is short or a planned clip goes stale.
+- `backlog.md`: proven viral clips already downloaded to `sidelinesync/backlog/`, used when a slate is short or a planned clip goes stale.
+- `sidelinesync/`: this account's media, gitignored and on the PC only: `sidelinesync/<date>/` upload folders (videos, `captions.txt`,
+  `reserves/`), `sidelinesync/backlog/`, `sidelinesync/.prep/`, and `sidelinesync/archive/<date>/` for fully posted dates.
   A backlog clip can be reposted once every 60 days.
 
 ## Niche check (run on every candidate before it goes on a shortlist)

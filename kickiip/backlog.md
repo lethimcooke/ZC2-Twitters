@@ -1,4 +1,4 @@
-# @kickIIP backlog: proven viral clips to fall back on
+# @kickciip backlog: proven viral clips to fall back on
 
 Clips that have already gone viral (often many times) and still work as reposts. Use them when a slate is short,
 when a planned clip turns out to be stale, or for one "classic" slot a day.
