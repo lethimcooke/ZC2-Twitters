@@ -82,6 +82,8 @@ Streamers and clip accounts found in research that are worth checking again. Add
 ("Duke Dennis" OR Lacy OR Agent OR "Jynxzi" OR "Sketch" OR "Marlon" OR "Silky" OR "N3ON") filter:native_video min_faves:2000 within_time:48h <exclusions>
 (Clavicular OR clavicular OR "Clav" OR "IRL stream" OR "IRL streamer" OR "Kick IRL") filter:native_video min_faves:1000 within_time:48h <exclusions>
 ("streamer girl" OR "female streamer" OR "her stream" OR "she streams" OR Valkyrae OR Pokimane OR Emiru OR Kyedae OR Fanfan) filter:native_video min_faves:1000 within_time:48h <exclusions>
+("GTA 6" OR GTA6 OR "Vice City" OR Lucia OR Jason) (stream OR streamer OR reaction OR "first time" OR playing) filter:native_video min_faves:2000 within_time:24h lang:en <exclusions>
+(Kai OR Speed OR Adin OR xQc OR Jynxzi OR Agent OR Duke OR Lacy OR Fanum OR Sketch OR CaseOh OR Clavicular OR Cinna OR Emiru OR Valkyrae OR Pokimane) ("GTA 6" OR GTA6) filter:native_video min_faves:1500 within_time:24h <exclusions>
 ```
 
 ## Clip and repost accounts (where to find clips, not who to credit)
