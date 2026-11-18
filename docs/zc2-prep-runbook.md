@@ -10,6 +10,11 @@ Friday 11-13 through Monday 11-16 (120 of 120 clips ready). The scheduled tasks 
 - If a run starts late, keep the original dates and skip slots that have already passed.
 - The owner schedules and posts in X. Never post, like, follow, reply or DM from the research account.
 
+## Active focus: GTA 6 (owner, 11/18)
+- @kickciip only: 75% GTA 6 clips from 11/18 through 11/25, then 50% from 11/26. Details in `kickiip/CLAUDE.md` ("GTA 6 focus").
+  @sidelinesync and @fitnessclip stay on their own niches (GTA 6 does not fit them).
+- Count `[GTA6]` rows in each @kickciip slate before finalizing. If the share is short, reopen non-GTA slots first.
+
 ## Before sourcing
 1. `git pull --ff-only` from the repo root. If it is blocked, keep local work and raise a blocker.
 2. Read the latest `sidelinesync/checkpoint-*.md` if one exists for these dates and resume from it. Skip batches already finished.

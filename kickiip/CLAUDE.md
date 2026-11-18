@@ -46,6 +46,19 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
   or the show/podcast, `🎥: @show`. If the source can't be found, use `via @account`.
 - Keep the original watermark on the video.
 
+## GTA 6 focus (owner, 11/18: the game is out)
+- **11/18 through 11/25: 75% of each day's clips are GTA 6 clips** (8 on even days, 7 on odd days; 7 or 8 of 10). From 11/26
+  on: **50%** (5 of 10), until the owner changes it.
+- A GTA 6 clip is a streamer playing or reacting to GTA 6: first reactions, wild RP or open-world moments, glitches, chaos,
+  funny deaths, hype and meltdown reactions, streamers meeting in the game. Use the two GTA 6 sweep queries in `watchlist.md`
+  plus fresh searches for each big streamer + "GTA 6".
+- The other slots keep the normal mix. The IRL (3) and women-streamer (2) minimums relax to 1 each while GTA 6 is at 75%.
+  Clavicular still gets a slot when he passes. The 2-per-streamer cap stays, so spread GTA 6 clips across many streamers.
+- Put the strongest GTA 6 clips in the 7:00, 10:00 and 11:00 PM slots and the freshest in the morning slots.
+- Same video rules apply: no game-footage-only clips with no streamer, no stolen-stream rips with another platform's logo,
+  no leaked or pre-release footage, no spoiler-only clips from official trailers.
+- Mark each GTA 6 clip with `[GTA6]` in the slate so the share can be counted.
+
 ## Rules for picking clips
 - Prefer clips from the last 24–48 hours with high engagement for their account size.
 - 5–60 seconds, the payoff in the first 3 seconds. Clips that need sound are fine here if burned-in captions or the
