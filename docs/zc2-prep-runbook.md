@@ -24,11 +24,11 @@ Friday 11-13 through Monday 11-16 (120 of 120 clips ready). The scheduled tasks 
    strong fresh evergreen clips for later days. Pick 10 per account plus alternates.
 2. **Dedupe once.** Check every status ID against `posted.md` files, all `slates/` files and existing `prep-*.json` manifests
    (`grep -l <id>`). Check duration with `yt-dlp --skip-download --print duration`. Drop anything over 140 seconds unless it will be trimmed.
-3. **Save picks before opening any sheet.** Write one manifest per account and batch in the account's media folder, for example
-   `fitnessclip/clips/prep-2026-11-14.json`, then `-14b`, `-14c` for refill batches. Entry names look like `1330-4-short-name.mp4`
+3. **Save picks before opening any sheet.** Write one manifest per account and batch in `<media>/.prep/manifests/`, for example
+   `fitnessclip/clips/.prep/manifests/prep-2026-11-14.json`, then `-14b`, `-14c` for refill batches. Entry names look like `1330-4-short-name.mp4`
    (HHMM slot, number, name). Use `url` for X posts and `file` for local backlog or saved candidate files inside the same media folder.
 4. **Batch-prep.** From the repo root, one command per account and manifest:
-   `python scripts/prep_batch.py --account <sidelinesync|fitnessclip|kickiip> --manifest <media folder>/prep-<date>.json`
+   `python scripts/prep_batch.py --account <sidelinesync|fitnessclip|kickiip> --manifest <media folder>/.prep/manifests/prep-<date>.json`
    Reuse successful downloads and existing contact sheets. Never write ad hoc ffmpeg crops or montages for a whole batch.
 5. **Review last.** Stack the `review.jpg` sheets from `report.json` into one image per batch and read them (see rejects below).
    Open `tools.log` only to diagnose a failure.
@@ -66,6 +66,7 @@ After each day, append to `sidelinesync/checkpoint-<first-date>-<last-date>.md` 
 If usage runs out mid-day, leave staged files, captions drafted and the open-slot list here so the next run resumes from it.
 
 ## Folder layout and archiving
+- Manifests live in `<media>/.prep/manifests/`, saved candidate folders in `<media>/.prep/candidates/`, and partial or leftover dates in `<media>/.prep/cleanup-hold/<date>/`.
 - Final MP4s and `captions.txt` in `<media>/<date>/`, reserves in `<media>/<date>/reserves/`, staging in `<media>/.prep/`, backlog in `<media>/backlog/`.
 - The @kickciip 12:30 AM slot posts after midnight but lives in the prior day's folder as `2430-...`; log it on the next calendar date.
 - Archive a date to `<media>/archive/<date>/` only after every post for it is confirmed in `posted.md`, including @kickciip's after-midnight slot.
@@ -78,7 +79,7 @@ Stop when usage is tight and report the count added per account.
 
 ## Permissions and mode
 - Scheduled prep runs should run in Auto mode.
-- `.claude/settings.local.json` holds three narrow allow rules, one per account: `python scripts/prep_batch.py --account <acct> --manifest <media folder>/prep-*.json`.
+- `.claude/settings.local.json` holds narrow allow rules, one per account (the older `<media folder>/prep-*.json` paths are also allowed): `python scripts/prep_batch.py --account <acct> --manifest <media folder>/.prep/manifests/prep-*.json`.
   The file is ignored by git and must stay local. Do not widen the rules or add broad shell access. Record the exact command once if something still prompts, then keep working on whatever can proceed.
 
 ## Blockers and notifications

@@ -19,7 +19,7 @@ date, and skip any slate date whose folder is archived.
    clips can use the account's existing exceptions, up to 2:20. A trim must retain the setup
    and payoff, and must not cut out a creator mark to make a clip pass.
 
-2. Write a UTF-8 JSON manifest inside the account's gitignored `<media>/` folder for the
+2. Write a UTF-8 JSON manifest in the account's gitignored `<media>/.prep/manifests/` folder for the
    remaining slots. Each entry has the final filename and either a public source URL or a
    local file path relative to the repo root. Set optional `start` and `end` in seconds
    on the source timeline when a trim is needed. For example:
@@ -35,7 +35,7 @@ date, and skip any slate date whose folder is archived.
    account and manifest path). Use `py -3` if Windows exposes Python through that launcher.
 
    ```
-   python scripts/prep_batch.py --account sidelinesync --manifest sidelinesync/prep-2026-11-12.json
+   python scripts/prep_batch.py --account sidelinesync --manifest sidelinesync/.prep/manifests/prep-2026-11-12.json
    ```
 
    The script uses FFmpeg and ffprobe on PATH, plus yt-dlp if any source is a URL. It
