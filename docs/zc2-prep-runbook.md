@@ -66,11 +66,11 @@ After each day, append to `sidelinesync/checkpoint-<first-date>-<last-date>.md` 
 If usage runs out mid-day, leave staged files, captions drafted and the open-slot list here so the next run resumes from it.
 
 ## Folder layout and archiving
-- Manifests live in `<media>/.prep/manifests/`, saved candidate folders in `<media>/.prep/candidates/`, and partial or leftover dates in `<media>/.prep/cleanup-hold/<date>/`.
+- Manifests live in `<media>/.prep/manifests/`, saved candidate folders in `<media>/.prep/candidates/`, and replaced or leftover files in `<media>/.prep/cleanup-hold/`.
 - Final MP4s and `captions.txt` in `<media>/<date>/`, reserves in `<media>/<date>/reserves/`, staging in `<media>/.prep/`, backlog in `<media>/backlog/`.
 - The @kickciip 12:30 AM slot posts after midnight but lives in the prior day's folder as `2430-...`; log it on the next calendar date.
-- Archive a date to `<media>/archive/<date>/` only after every post for it is confirmed in `posted.md`, including @kickciip's after-midnight slot.
-  Never prep, move or edit an archived date.
+- Date folders exist only for upcoming days. When a date has passed, assume it was posted or missed: at the start of the next run move it to `<media>/archive/<date>/` (no log confirmation needed) and delete archive dates older than 14 days. Never keep past-dated folders in the media root or in `.prep/cleanup-hold/`.
+  Reconcile `posted.md` from the public timelines only when the owner asks. Never prep, move or edit an archived date.
 
 ## Backlog
 Use backlog only as a last resort for a slot. Build or refill it only after the whole batch is ready and there is time and usage left.
