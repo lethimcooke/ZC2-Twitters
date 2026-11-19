@@ -50,6 +50,7 @@ Reject and reopen the slot for:
 - TikTok, Instagram, Shorts, Snapchat or CapCut marks, app UI overlays, or another account's handle stamp. Never crop or blur them out.
 - Black bars or pillarboxing that cannot be cropped without losing action or the creator's mark.
 - AI-generated or CGI mannequin clips, composite clips, and app or paid-program promo end cards.
+- "Follow for more", "follow @someone" or subscribe cards, end screens and profile promo overlays, including a creator's own (owner, 11/19). Reject the clip or find a copy without it; never crop it out.
 - Injuries or someone on the ground, kids in distress, and clips filmed off a TV screen.
 - Thirst or physique-pose framing with no real training, and stranger-filming or call-out clips.
 - A repeat of a clip, play or story already used within the window (same play from a different account, a third Cousins clip in four days).
