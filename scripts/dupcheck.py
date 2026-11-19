@@ -126,7 +126,8 @@ def main(argv):
             if len(ds) > 1:
                 problems.append(f"{account}: status {i} appears on {', '.join(ds)}")
         # 2. already posted or planned elsewhere
-        other = read(posted)
+        # posted.md rows dated like a folder under check are that folder's own posts, not repeats
+        other = "\n".join(l for l in read(posted).splitlines() if not any(l.startswith("| " + d + " |") for d in dates))
         for path in glob.glob(slates + "*.md"):
             if os.path.basename(path)[:-3] not in dates:
                 other += "\n#SLATE " + os.path.basename(path) + "\n" + rows_only(path)
@@ -134,7 +135,7 @@ def main(argv):
             for i in sorted(slate_ids[d]):
                 if i in other:
                     where = [m.group(1) for m in re.finditer(r"#SLATE (\S+)", other) if i in other.split(m.group(0))[1].split("#SLATE")[0]]
-                    where = where + (["posted.md"] if i in read(posted) else [])
+                    where = where + (["posted.md"] if i in other.split("#SLATE")[0] else [])
                     problems.append(f"{account} {d}: status {i} already used in {', '.join(where) or 'older slates'}")
         # 3. identical files
         index = defaultdict(list)

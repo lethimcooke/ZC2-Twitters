@@ -195,8 +195,8 @@
 | 2026-11-20 | 10:00 AM | https://x.com/MuscleB1ueprint/status/2122155248395354516 | 🎥: @MuscleB1ueprint | Ab circuit, no equipment. Could you finish it? 🔥 | post: scheduled, link not yet confirmed |
 | 2026-11-20 | 12:00 PM | https://x.com/shooting_splash/status/2121206851912261938 | 🎥: @shooting_splash | Refused the ladder and did a muscle-up flip instead 😂 | post: scheduled, link not yet confirmed |
 | 2026-11-20 | 2:00 PM | https://x.com/gymsociety/status/2122635300304572584 | 🎥: @gymsociety | Hollow or arched: which pull-up position do you choose? 🤔 | post: scheduled, link not yet confirmed |
-| 2026-11-20 | 4:00 PM | https://x.com/sign_language01/status/2121556054484152688 | 🎥: @sign_language01 | One-leg squat sequence. Rate the control 1 to 10 🦵 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 4:00 PM | https://x.com/ForgePhysique/status/2123290841670353285 | 🎥: @ForgePhysique | A quick routine, sets of 15 to 20. Save it for your next session 📌 | post: scheduled, link not yet confirmed |
 | 2026-11-20 | 5:30 PM | https://x.com/FitnessGuide0/status/2123069942002020363 | 🎥: @FitnessGuide0 | Landmine curls for the biceps and forearms 💪 | post: scheduled, link not yet confirmed |
 | 2026-11-20 | 7:00 PM | https://x.com/FitnessGuide0/status/2120939873334857965 | 🎥: @FitnessGuide0 | The shrug, with a coach checking his form 👀 | post: scheduled, link not yet confirmed |
 | 2026-11-20 | 8:30 PM | https://x.com/AwakenTheAlphaa/status/2121168428807696638 | 🎥: @AwakenTheAlphaa | Full leg day: hack squats, a squat variation, then leg extensions 🦵 | post: scheduled, link not yet confirmed |
-| 2026-11-20 | 10:00 PM | https://x.com/tyspectives/status/2122065572364271721 | 🎥: @tyspectives | Pull-up check: 5 curls, 5 knee tucks, 5 leg extensions. How many rounds could you do? 🥵 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 10:00 PM | https://x.com/hannahapexfit/status/2123015888244977864 | 🎥: @hannahapexfit | Hanging knee raises. How many can you get? 🔥 | post: scheduled, link not yet confirmed |
