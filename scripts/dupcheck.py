@@ -7,7 +7,8 @@ Exit code 1 when anything is found. Checks, per account:
   1. the same X status ID twice inside the upcoming window,
   2. an upcoming status ID that is already in a posted log, an archived date's slate or an older slate,
   3. a similar caption in any account's recent slates or posted logs (same moment under another post ID),
-  4. an upcoming file whose bytes match a file in an archived date, another upcoming date,
+  4. a file that is a Retired backlog clip,
+  5. an upcoming file whose bytes match a file in an archived date, another upcoming date,
      or (for non-backlog picks) the account's backlog folder.
 """
 import glob
@@ -106,6 +107,22 @@ def similar_captions(problems, wanted):
                     print(" note (other account):", msg)
 
 
+BACKLOGS = {"sidelinesync": R + "backlog.md", "fitnessclip": R + "fitnessclip/backlog.md", "kickiip": R + "kickiip/backlog.md"}
+
+
+def backlog_status(account):
+    """{file name: (retired?, [used-on dates])} from the account's backlog.md."""
+    status, retired = {}, False
+    for line in read(BACKLOGS[account]).splitlines():
+        if line.startswith("## "):
+            retired = "retired" in line.lower()
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if line.startswith("|") and len(cells) >= 2 and cells[1].endswith(".mp4"):
+            used = re.findall(r"\d{4}-\d{2}-\d{2}", cells[-1]) if len(cells) >= 9 else []
+            status[cells[1]] = (retired or "retired" in line.lower().split("|")[7] if len(cells) > 7 else retired, used)
+    return status
+
+
 def main(argv):
     wanted = set(argv)
     problems = []
@@ -148,6 +165,14 @@ def main(argv):
         backlog = {}
         for f in glob.glob(media + "backlog/*.mp4"):
             backlog[fingerprint(f)] = os.path.basename(f)
+        status = backlog_status(account)
+        for d in dates:
+            for f in glob.glob(media + d + "/*.mp4"):
+                if fingerprint(f) in backlog:
+                    name = backlog[fingerprint(f)]
+                    retired, used = status.get(name, (False, []))
+                    if retired:
+                        problems.append(f"{account} {d}/{os.path.basename(f)}: backlog clip {name} is Retired (do not use)")
         for key, files in index.items():
             if len(files) > 1 and any(not x.startswith("archive/") for x in files):
                 problems.append(f"{account}: identical file in {', '.join(files)}")
