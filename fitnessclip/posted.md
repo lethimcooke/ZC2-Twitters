@@ -200,3 +200,33 @@
 | 2026-11-20 | 7:00 PM | https://x.com/FitnessGuide0/status/2120939873334857965 | 🎥: @FitnessGuide0 | The shrug, with a coach checking his form 👀 | post: scheduled, link not yet confirmed |
 | 2026-11-20 | 8:30 PM | https://x.com/AwakenTheAlphaa/status/2121168428807696638 | 🎥: @AwakenTheAlphaa | Full leg day: hack squats, a squat variation, then leg extensions 🦵 | post: scheduled, link not yet confirmed |
 | 2026-11-20 | 10:00 PM | https://x.com/hannahapexfit/status/2123015888244977864 | 🎥: @hannahapexfit | Hanging knee raises. How many can you get? 🔥 | post: scheduled, link not yet confirmed |
+| 2026-11-21 | 6:30 AM | https://x.com/MuscleB1ueprint/status/2122245895844421751 | 🎥: @MuscleB1ueprint | Military press, upright row, reverse flies: a shoulder session 💪 | post: scheduled, link not yet confirmed |
+| 2026-11-21 | 8:00 AM | https://x.com/SquatUniversity/status/2120936446429220883 | 🎥: @SquatUniversity | Five slow reps of this hip exercise 🔥 | post: scheduled, link not yet confirmed |
+| 2026-11-21 | 10:00 AM | https://x.com/AlexTran677026/status/2121191253224399346 | via @AlexTran677026 | Rhythmic gymnast Sofia Raffaeli and a crowd that erupted 🤸 | post: scheduled, link not yet confirmed |
+| 2026-11-21 | 12:00 PM | https://x.com/misaauroraa/status/2121388703704908265 | 🎥: @misaauroraa | Rate this handstand 1 to 10 🤸 | post: scheduled, link not yet confirmed |
+| 2026-11-21 | 2:00 PM | https://x.com/Jeebly_Natalie/status/2122601843796963830 | via @Jeebly_Natalie | A gymnast held the iron cross on rings for over 30 seconds 🤯 | post: scheduled, link not yet confirmed |
+| 2026-11-21 | 4:00 PM | https://x.com/hotiiofficial/status/2121548540375970141 | via @hotiiofficial | A bodybuilding coach's trick for a few more reps on bicep curls 💪 | post: scheduled, link not yet confirmed |
+| 2026-11-21 | 5:30 PM | https://x.com/ForgePhysique/status/2122913954989252946 | 🎥: @ForgePhysique | A glute workout on the machine. Save it for leg day 📌 | post: scheduled, link not yet confirmed |
+| 2026-11-21 | 7:00 PM | https://x.com/FitnessGuide0/status/2122724443160272901 | 🎥: @FitnessGuide0 | Explosive burst rotations with a weight plate 🔥 | post: scheduled, link not yet confirmed |
+| 2026-11-21 | 8:30 PM | https://x.com/DamnThatsInter/status/2122879401117540585 | via @DamnThatsInter | How judo athletes train 🥋 | post: scheduled, link not yet confirmed |
+| 2026-11-21 | 10:00 PM | https://x.com/vidsthatgohard/status/2121820547591877025 | via @vidsthatgohard | A workout straight out of Looney Tunes 😂 | post: scheduled, link not yet confirmed |
+| 2026-11-22 | 6:30 AM | https://x.com/MuscleB1ueprint/status/2120872052223524940 | 🎥: @MuscleB1ueprint | A 10 minute morning mobility routine ☀️ | post: scheduled, link not yet confirmed |
+| 2026-11-22 | 8:00 AM | https://x.com/SquatUniversity/status/2122107025236844833 | 🎥: @SquatUniversity | Shoulder stretches from Squat University 🙌 | post: scheduled, link not yet confirmed |
+| 2026-11-22 | 10:00 AM | https://x.com/SquatUniversity/status/2121631757900345539 | 🎥: @SquatUniversity | Hip thrust tips worth saving 💪 | post: scheduled, link not yet confirmed |
+| 2026-11-22 | 12:00 PM | https://x.com/omoiyaakeem/status/2121103054439379395 | 🎥: @omoiyaakeem | Trying her flexibility this morning. How did she do? 🤸 | post: scheduled, link not yet confirmed |
+| 2026-11-22 | 2:00 PM | https://x.com/FitnessGuide0/status/2122853117792227841 | 🎥: @FitnessGuide0 | Beginner to pro: the single-leg push-up progression 💪 | post: scheduled, link not yet confirmed |
+| 2026-11-22 | 4:00 PM | https://x.com/FitnessGuide0/status/2121600111499194874 | 🎥: @FitnessGuide0 | Low impact core training you can do on a mat 🔥 | post: scheduled, link not yet confirmed |
+| 2026-11-22 | 5:30 PM | https://x.com/AlexHonnold/status/2123101987332145351 | 🎥: @AlexHonnold | Alex Honnold on the Prophet in Yosemite, the route he worked on for most of the season 🧗 | post: scheduled, link not yet confirmed |
+| 2026-11-22 | 7:00 PM | https://x.com/Thechat101/status/2123041838697214231 | via @Thechat101 | Chad Ochocinco vs Joe Johnson in an obstacle course 🏃 | post: scheduled, link not yet confirmed |
+| 2026-11-22 | 8:30 PM | https://x.com/FadeAwayMedia/status/2122034278988976417 | via @FadeAwayMedia | Kurt Angle's wife Giovanna built him a home gym lined with his WWE and Olympic wrestling memorabilia 🥇 | post: scheduled, link not yet confirmed |
+| 2026-11-22 | 10:00 PM | https://x.com/fitness1322/status/2121037321713889777 | via @fitness1322 | Shoulder day: front raises and upright rows with a barbell 💪 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 6:30 AM | https://x.com/SquatUniversity/status/2121430225406108078 | 🎥: @SquatUniversity | A shoulder exercise worth trying 💪 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 8:00 AM | https://x.com/MUSCLESURGE/status/2120324322472366256 | via @MUSCLESURGE | Arnold doing wide grip bench press during the filming of Pumping Iron 🏆 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 10:00 AM | https://x.com/Asher_Lifts/status/2121626679147982980 | 🎥: @Asher_Lifts | Can you squat 315? 🦵 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 12:00 PM | https://x.com/Legacy_Arena/status/2120131132683419749 | via @Legacy_Arena | A traps and shoulders routine: rear delts, high-to-low and Arnold press 🎯 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 2:00 PM | https://x.com/SquatUniversity/status/2121717651290407059 | 🎥: @SquatUniversity | Her balance on this jerk is incredible 🤯 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 4:00 PM | https://x.com/nujoflow/status/2120868135213658617 | via @nujoflow | Cameron Shayne demonstrating a gorilla hop to a front head spring to a squat 🤸 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 5:30 PM | https://x.com/Legacy_Arena/status/2122654816065429574 | via @Legacy_Arena | A wall abs workout you can do on a mat 🔥 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 7:00 PM | https://x.com/DailyFitHQ/status/2122584954647314495 | 🎥: @DailyFitHQ | Push-up cues from a coach 💪 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 8:30 PM | https://x.com/thamepogirlie/status/2120347229286498539 | via @thamepogirlie | 50 push-ups in one go 🤯 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 10:00 PM | https://x.com/Fightflix_/status/2122751626566094943 | via @Fightflix_ | Kamaru Usman made pushups look like a warm-up 💪 | post: scheduled, link not yet confirmed |
