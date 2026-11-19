@@ -33,6 +33,23 @@ powerlifters, calisthenics athletes, coaches, gym-humor creators and older lifte
 or Instagram watermark). Verify each handle once, then keep it here.
 Seed list (verify first): @ThorBjornsson_ @larrywheels @SquatUniversity @KemariCopeland @ShannenPill @Sabine_BC @CaptainSparklez
 
+## Expanded niches (owner, 11/19): search these every batch, not only gym lifting
+Fresh gym-lifting clips on X run thin, and that is what caused repeats. Rotate through these niches and aim for at least 4 different niches a day.
+Real people only: no CGI mannequins, no thirst framing, and the same watermark, follow-card and duplicate rules as everything else.
+- **Climbing and ninja**: bouldering, free solo, climbing-wall feats, Ninja Warrior, obstacle courses, Hyrox, parkour.
+- **Running and endurance**: marathon and ultra finishes, sprint form, track and field, trail runs, rowing, cycling, swimming technique.
+- **Combat training**: boxing mitt work, heavy bag, judo and jiu jitsu drills, wrestling conditioning, fighters' training camps (not fights).
+- **Gymnastics and rings**: iron cross, front lever, human flag, planche, handstand walks, tumbling.
+- **Functional and strongman**: CrossFit, kettlebell and club work, sled pushes, farmer's carries, stones, log press, arm wrestling, Olympic lifting.
+- **Athletes and kids**: pro athletes' offseason training, youth and high-school athletes, older lifters, adaptive athletes, comebacks.
+- **Mobility and bodyweight**: real mobility routines, calisthenics park skills, splits and flexibility feats (not thirst framing).
+- **Gym humor**: skits, gym fails that do not end in injury, trainer and client moments, wholesome spotter saves.
+Query rules that work on X: keep each query short (one niche, 3 to 6 words), add `filter:native_video min_faves:1000 within_time:96h lang:en -filter:replies`,
+and widen the window to `within_time:168h` for evergreen clips. Long OR lists return nothing. Run at most 12 searches in a sweep with 4 to 5 seconds between them;
+X rate-limited the research account (HTTP 429) after about 70 quick searches on 11/19. If a page stops loading, stop searching and wait 15 minutes.
+Some posts hold several videos and fail the prep download: fetch the first with `yt-dlp --playlist-items 1` and pass it to the manifest as `file`.
+Also check these timelines by account: @ForgePhysique @Legacy_Arena @FitHubHQ_ @MuscleB1ueprint @FitnessGuide0 @StrengthSc9 @DamnThatsInter @Fightflix_ @AlexHonnold @hannahapexfit @fitness1322.
+
 ## Repost accounts (where to find clips, not who to credit)
 @crazyclips_ @OnlyBangers @Rainmaker1973 @DailyLoud @FearedBuck @barstoolsports
 

@@ -26,6 +26,7 @@ A clip is in the niche if it's one of these:
 - **Inspiring**: older lifters, adaptive athletes, comebacks, first pull-up or first big PR, training partners.
 - **Athletes training**: pro athletes in the weight room or doing conditioning work (not game, practice or celebrity clips).
 - **Useful**: short, clearly correct form tips from qualified or well-known coaches.
+- **More niches (added 11/19)**: climbing and ninja, running and endurance, combat-sport training, gymnastics and rings, functional fitness, youth and older athletes, real mobility work. The list and search tips are in `watchlist.md` ("Expanded niches").
 
 Reject it, whatever its numbers, if it's:
 - body shaming, or mocking someone's body, weight or appearance
