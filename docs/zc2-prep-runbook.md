@@ -5,13 +5,13 @@ Friday 11-13 through Monday 11-16 (120 of 120 clips ready). The scheduled tasks 
 
 ## Scope and targets
 - Accounts: @sidelinesync (media in `sidelinesync/`), @fitnessclip (`fitnessclip/clips/`), @kickciip (local folder `kickiip/`, media in `kickiip/clips/`, `/prep` and script argument `kickiip`).
-- Each account needs 10 upload-ready clips per day.
-- Monday run prepares Tuesday, Wednesday and Thursday (90 clips). Thursday run prepares Friday, Saturday, Sunday and Monday (120 clips).
+- Each account needs 10 upload-ready clips per day, except @kickciip on Fri 11/20 to Mon 11/23: 15 per day (12 GTA 6). See `kickiip/CLAUDE.md`.
+- Monday run prepares Tuesday, Wednesday and Thursday (90 clips). Thursday run prepares Friday, Saturday, Sunday and Monday (140 clips while @kickciip is at 15 a day, otherwise 120).
 - If a run starts late, keep the original dates and skip slots that have already passed.
 - The owner schedules and posts in X. Never post, like, follow, reply or DM from the research account.
 
 ## Active focus: GTA 6 (owner, 11/18)
-- @kickciip only: 75% GTA 6 clips from 11/18 through 11/25, then 50% from 11/26. Details in `kickiip/CLAUDE.md` ("GTA 6 focus").
+- @kickciip only: 15 posts a day with 12 GTA 6 clips from Fri 11/20 to Mon 11/23; 10 posts at 75% on 11/24 and 11/25, then 50% from 11/26. Details in `kickiip/CLAUDE.md` ("GTA 6 focus").
   @sidelinesync and @fitnessclip stay on their own niches (GTA 6 does not fit them).
 - Count `[GTA6]` rows in each @kickciip slate before finalizing. If the share is short, reopen non-GTA slots first.
 

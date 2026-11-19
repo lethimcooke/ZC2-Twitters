@@ -47,8 +47,11 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
 - Keep the original watermark on the video.
 
 ## GTA 6 focus (owner, 11/18: the game is out)
-- **11/18 through 11/25: 75% of each day's clips are GTA 6 clips** (8 on even days, 7 on odd days; 7 or 8 of 10). From 11/26
-  on: **50%** (5 of 10), until the owner changes it.
+- **Fri 11/20 through Mon 11/23: 15 posts a day, 12 of them GTA 6 clips (owner, 11/18).** Rank every candidate by viral potential
+  (outlier ratio first, then freshness) and fill the best slots first. The 3 non-GTA clips are the strongest non-GTA picks
+  (Clavicular and IRL first).
+- **Tue 11/24 and Wed 11/25: back to 10 posts a day at 75% GTA 6** (8 on even days, 7 on odd days). **From 11/26: 10 posts at 50%**
+  (5 of 10), until the owner changes it. Through Wed 11/18 and Thu 11/19 the 75% rule applied at 10 posts.
 - A GTA 6 clip is a streamer playing or reacting to GTA 6: first reactions, wild RP or open-world moments, glitches, chaos,
   funny deaths, hype and meltdown reactions, streamers meeting in the game. Use the two GTA 6 sweep queries in `watchlist.md`
   plus fresh searches for each big streamer + "GTA 6".
@@ -150,7 +153,9 @@ famous IRL stream moments, all-time collab and chat moments. Celebrity-only clip
   "Still the funniest stream moment ever 💀", "The internet will never let this go 😂".
 
 ## Posting times (ET, adjust from results)
-10:00 AM, 12:00, 1:30, 3:00, 5:00, 7:00, 8:30, 10:00, 11:00 PM, 12:30 AM.
+10:00 AM, 12:00, 1:30, 3:00, 5:00, 7:00, 8:30, 10:00, 11:00 PM, 12:30 AM (10-post days).
+15-post days (Fri 11/20 to Mon 11/23): 10:00 AM, 11:00 AM, 12:00, 1:30, 3:00, 4:00, 5:00, 6:00, 7:00, 8:00, 8:30, 9:30, 10:00, 11:00 PM, 12:30 AM.
+Best viral potential goes in 12:00, 7:00, 8:30, 10:00 and 11:00 PM. Files are named `HHMM-N-name.mp4` with N from 1 to 15.
 This audience is later than sports: strongest clips at 7:00, 10:00 and 11:00 PM.
 
 ## What's working (update as results come in)
