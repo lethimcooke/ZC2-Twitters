@@ -190,3 +190,13 @@
 | 2026-11-16 | 7:04 PM | https://x.com/MuscleModeHQ/status/2119703360471466217 | @MuscleModeHQ | A full-body dumbbell workout, no machines needed 🏋️ | post: https://x.com/fitnessclip/status/2122480838264963461 |
 | 2026-11-16 | 8:30 PM | https://x.com/hannahapexfit/status/2119029615083802974 | @hannahapexfit | Dumbbells and a bench: seven exercises for a full workout 🔥 | post: https://x.com/fitnessclip/status/2122502483155288335 |
 | 2026-11-16 | 10:05 PM | https://x.com/ChamberofFit/status/2118358600540414188 | @ChamberofFit | 16 years of lifting, and incline dumbbell press is still on the list 💪 | post: https://x.com/fitnessclip/status/2122526389148729565 |
+| 2026-11-20 | 6:30 AM | https://x.com/glohanfit/status/2121500979690447245 | 🎥: @glohanfit | Pull-ups with a grown man sitting on her back 😳 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 8:00 AM | https://x.com/MuscleB1ueprint/status/2123046405832909155 | 🎥: @MuscleB1ueprint | A mobility routine for your next gym day 🧘 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 10:00 AM | https://x.com/MuscleB1ueprint/status/2122155248395354516 | 🎥: @MuscleB1ueprint | Ab circuit, no equipment. Could you finish it? 🔥 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 12:00 PM | https://x.com/shooting_splash/status/2121206851912261938 | 🎥: @shooting_splash | Refused the ladder and did a muscle-up flip instead 😂 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 2:00 PM | https://x.com/gymsociety/status/2122635300304572584 | 🎥: @gymsociety | Hollow or arched: which pull-up position do you choose? 🤔 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 4:00 PM | https://x.com/sign_language01/status/2121556054484152688 | 🎥: @sign_language01 | One-leg squat sequence. Rate the control 1 to 10 🦵 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 5:30 PM | https://x.com/FitnessGuide0/status/2123069942002020363 | 🎥: @FitnessGuide0 | Landmine curls for the biceps and forearms 💪 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 7:00 PM | https://x.com/FitnessGuide0/status/2120939873334857965 | 🎥: @FitnessGuide0 | The shrug, with a coach checking his form 👀 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 8:30 PM | https://x.com/AwakenTheAlphaa/status/2121168428807696638 | 🎥: @AwakenTheAlphaa | Full leg day: hack squats, a squat variation, then leg extensions 🦵 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 10:00 PM | https://x.com/tyspectives/status/2122065572364271721 | 🎥: @tyspectives | Pull-up check: 5 curls, 5 knee tucks, 5 leg extensions. How many rounds could you do? 🥵 | post: scheduled, link not yet confirmed |

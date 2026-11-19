@@ -309,3 +309,23 @@
 | 2026-11-22 | 8:30 PM | https://www.instagram.com/reel/DdFOMPpJFVM/ | 🎥: accnetwork (IG) | Still can't believe he came down with this 🤯 | post: scheduled, link not yet confirmed |
 | 2026-11-22 | 10:00 PM | https://x.com/BrickCenter_/status/2123216456003486200 | via @BrickCenter_ | The worst free throw attempt you'll ever see 😭 | post: scheduled, link not yet confirmed |
 | 2026-11-22 | 11:30 PM | https://x.com/HappyPunch/status/2121314179504071002 | via @HappyPunch | A kid found Josh Hokit's hotel room ahead of the Ciryl Gane fight 😳 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 8:00 AM | https://x.com/USMNT/status/2122856015167156483 | 🎥: @USMNT | Julian Hall scored again for the USMNT: five goals in his first six games 🇺🇸 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 10:00 AM | https://x.com/MiamiHEAT/status/2123220423579934850 | 🎥: @MiamiHEAT | Lacy hit the half court shot at the Heat game and section 306 won a GTA VI basketball 🏀 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 12:00 PM | https://x.com/brfootball/status/2122852069623132323 | via @brfootball | Christian Pulisic scored a bicycle kick for the USMNT 🤯 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 1:30 PM | https://x.com/MLB/status/2123234821052702929 | 🎥: @MLB | No. 100 on MLB's top plays of 2026: Munetaka Murakami homered for a fifth straight game ⚾ | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 3:00 PM | https://x.com/NHL/status/2122864409563517002 | 🎥: @NHL | Everyone was smiling after Viggo Björck scored his first NHL goal 🥹 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 5:00 PM | https://x.com/Nadeshot/status/2122829333995950196 | via @Nadeshot | Hole in one, and the group around the tee reacted right away 🎯 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 7:00 PM | https://x.com/NFL/status/2122342817674453262 | 🎥: @NFL | Aaron Rodgers to Joe Burrow after the game: "That was a clinic out there, kid." 🤝 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 8:30 PM | https://x.com/LegionHoops/status/2123271436144128017 | via @LegionHoops | Luka looked stunned after this exchange with the ref 😳 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 10:00 PM | https://x.com/NBA/status/2123223600849133843 | 🎥: @NBA | Amen Thompson's handles and finish beat the Q2 buzzer, and KD was hyped 🔥 | post: scheduled, link not yet confirmed |
+| 2026-11-20 | 11:30 PM | https://x.com/TrollFootball/status/2122817556830392762 | via @TrollFootball | He tried to give away a penalty, then walked off with the ball four yards from goal 😭 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 8:00 AM | https://x.com/USMNT/status/2122874986885271643 | 🎥: @USMNT | "Play Country Roads." 🎶 Pochettino's last night as USMNT head coach 🇺🇸 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 10:00 AM | https://x.com/KalshiFC/status/2120990000066224134 | via @KalshiFC | The crowd sang Pedri's name while he wasn't even on the field 🎶 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 12:00 PM | https://x.com/BrickCenter_/status/2123236374899994978 | via @BrickCenter_ | LeBron airballed so badly he pretended he was hurt 😭 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 1:30 PM | https://x.com/BR_OpenIce/status/2122852412528443420 | via @BR_OpenIce | Connor McDavid joined Wayne Gretzky and Mats Sundin with a points streak to start the season 🏒 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 3:00 PM | https://x.com/YaBoiSquintz/status/2122427353070735423 | via @YaBoiSquintz | The greatest 9 seconds in pro wrestling history 😭 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 5:00 PM | https://www.tiktok.com/@ultiworld/video/7675179668667960607 | 🎥: @ultiworld (TikTok) | Lina Ortner ran this one down 😳 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 7:00 PM | https://x.com/SportsCenter/status/2123235933260579163 | 🎥: @SportsCenter | When you try dunking on Giannis in Vice City 😭 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 8:30 PM | https://x.com/john322226/status/2122655583941890515 | via @john322226 | Leao used his influence to make IShowSpeed meet Ronaldo 😳 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 10:00 PM | https://x.com/WhiteBballPains/status/2122472457760018554 | via @WhiteBballPains | A one-handed three with the game tied is ridiculous 🤯 | post: scheduled, link not yet confirmed |
+| 2026-11-23 | 11:30 PM | https://www.instagram.com/reel/DbjJh0Av5BB/ | 🎥: espncfb (IG) | How did he stay on his feet here? 😳 | post: scheduled, link not yet confirmed |
