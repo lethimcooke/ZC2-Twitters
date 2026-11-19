@@ -27,8 +27,9 @@ Friday 11-13 through Monday 11-16 (120 of 120 clips ready). The scheduled tasks 
 1. **Source.** For the day, gather links and engagement for all three accounts in batches, using each account's `watchlist.md`
    queries, approved accounts and the clip accounts it lists. Scroll 4 or 5 screens per query. Timely clips for the first day,
    strong fresh evergreen clips for later days. Pick 10 per account plus alternates.
-2. **Dedupe once.** Check every status ID against `posted.md` files, all `slates/` files and existing `prep-*.json` manifests
+2. **Dedupe, then gate.** Check every status ID against `posted.md` files, all `slates/` files and existing `prep-*.json` manifests
    (`grep -l <id>`). Check duration with `yt-dlp --skip-download --print duration`. Drop anything over 140 seconds unless it will be trimmed.
+   Before finalizing a day and again before the report, run `python scripts/dupcheck.py <dates>`. It checks status IDs and file contents against posted logs, older and archived slates, other upcoming dates and the backlog. Any finding is a duplicate: replace the clip. Backlog clips can repeat only after 60 days, so a backlog clip already used in an archived date is not eligible.
 3. **Save picks before opening any sheet.** Write one manifest per account and batch in `<media>/.prep/manifests/`, for example
    `fitnessclip/clips/.prep/manifests/prep-2026-11-14.json`, then `-14b`, `-14c` for refill batches. Entry names look like `1330-4-short-name.mp4`
    (HHMM slot, number, name). Use `url` for X posts and `file` for local backlog or saved candidate files inside the same media folder.
@@ -48,6 +49,8 @@ Friday 11-13 through Monday 11-16 (120 of 120 clips ready). The scheduled tasks 
 ## Review rejects (learned in the Nov 13-16 batch)
 Reject and reopen the slot for:
 - TikTok, Instagram, Shorts, Snapchat or CapCut marks, app UI overlays, or another account's handle stamp. Never crop or blur them out.
+  This includes official sources reposting from TikTok (for example an ESPN clip with a TikTok mark and @espn handle, seen 11/21 and 11/23).
+  TikTok marks bounce between corners and often show only near the start or end, so check the 90% and last frames of every sheet, and the corners of all five.
 - Black bars or pillarboxing that cannot be cropped without losing action or the creator's mark.
 - AI-generated or CGI mannequin clips, composite clips, and app or paid-program promo end cards.
 - "Follow for more", "follow @someone" or subscribe cards, end screens and profile promo overlays, including a creator's own (owner, 11/19). Reject the clip or find a copy without it; never crop it out.
