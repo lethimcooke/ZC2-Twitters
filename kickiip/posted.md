@@ -293,3 +293,5 @@
 | 2026-11-23 | 10:00 PM | https://x.com/yoxics/status/2123121162666586492 | via @yoxics | Lacy gives his thoughts on GTA VI as his first story mode game 🎮 | post: scheduled, link not yet confirmed |
 | 2026-11-23 | 11:00 PM | https://x.com/yoxics/status/2122400465220784475 | via @yoxics | IShowSpeed saw what his viewers go through after getting an ad on his own stream 😭 | post: scheduled, link not yet confirmed |
 | 2026-11-24 | 12:30 AM | https://x.com/caseohOOC/status/2122890160367157597 | via @caseohOOC | CaseOh tried the baby filter 😭 | post: scheduled, link not yet confirmed |
+| 2026-11-19 | ad hoc | https://x.com/cclipgod/status/2123354914068021638 | via @cclipgod | IShowSpeed was shocked to become the first streamer to get the Red Hulk side mission in GTA 6 🟥 | post: posted by owner, link not yet confirmed |
+| 2026-11-19 | ad hoc | https://x.com/vladoqp/status/2123414327659278694 | via @vladoqp | Kenny Joseph is locked in a glass cube until he beats GTA 6 🧊 | post: posted by owner, link not yet confirmed |
