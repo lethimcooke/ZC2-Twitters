@@ -31,6 +31,11 @@ def fingerprint(path):
         return os.path.getsize(path), hashlib.md5(handle.read(1 << 20)).hexdigest()
 
 
+def rows_only(path):
+    """Slate table rows only, so IDs mentioned as rejects in prose do not count as used."""
+    return "\n".join(l for l in read(path).splitlines() if l.startswith("|"))
+
+
 def read(path):
     return open(path, encoding="utf-8", errors="ignore").read() if os.path.exists(path) else ""
 
@@ -45,7 +50,7 @@ def main(argv):
             dates = [d for d in dates if d in wanted]
         if not dates:
             continue
-        slate_ids = {d: set(ID.findall(read(slates + d + ".md"))) for d in dates}
+        slate_ids = {d: set(ID.findall(rows_only(slates + d + ".md"))) for d in dates}
         # 1. same ID twice inside the window
         seen = defaultdict(list)
         for d in dates:
@@ -58,7 +63,7 @@ def main(argv):
         other = read(posted)
         for path in glob.glob(slates + "*.md"):
             if os.path.basename(path)[:-3] not in dates:
-                other += "\n#SLATE " + os.path.basename(path) + "\n" + read(path)
+                other += "\n#SLATE " + os.path.basename(path) + "\n" + rows_only(path)
         for d in dates:
             for i in sorted(slate_ids[d]):
                 if i in other:
