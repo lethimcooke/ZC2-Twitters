@@ -6,7 +6,8 @@ Run from the repo root before finalizing a day and again before reporting:
 Exit code 1 when anything is found. Checks, per account:
   1. the same X status ID twice inside the upcoming window,
   2. an upcoming status ID that is already in a posted log, an archived date's slate or an older slate,
-  3. an upcoming file whose bytes match a file in an archived date, another upcoming date,
+  3. a similar caption in any account's recent slates or posted logs (same moment under another post ID),
+  4. an upcoming file whose bytes match a file in an archived date, another upcoming date,
      or (for non-backlog picks) the account's backlog folder.
 """
 import glob
@@ -38,6 +39,71 @@ def rows_only(path):
 
 def read(path):
     return open(path, encoding="utf-8", errors="ignore").read() if os.path.exists(path) else ""
+
+
+STOP = set("the a an and or of to in on at for with his her their he she they it is was were be been that this just after before while about from into out up over like got get has have had not no but so as by than then them him who what when how why all one two three first live stream streamer game".split())
+
+
+def norm_tokens(text):
+    words = re.findall(r"[a-z0-9]+", text.lower())
+    return [w for w in words if w not in STOP and len(w) > 2]
+
+
+def caption_rows(path, account, label):
+    """(account, label, time, caption, status id) for slate table rows."""
+    rows = []
+    for line in rows_only(path).splitlines():
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if len(cells) >= 4 and ID.search(cells[1]):
+            rows.append((account, label, cells[0], cells[3], ID.search(cells[1]).group(1)))
+    return rows
+
+
+def similar_captions(problems, wanted):
+    """Same moment posted twice under different status IDs (different posters or reposts)."""
+    import datetime
+    import difflib
+    cutoff = (datetime.date.today() - datetime.timedelta(days=10)).isoformat()
+    upcoming, reference = [], []
+    for account, (slates, media, posted) in ACCOUNTS.items():
+        up_dates = sorted(d for d in os.listdir(media) if DATE.match(d) and glob.glob(media + d + "/*.mp4")) if os.path.isdir(media) else []
+        if wanted:
+            up_dates = [d for d in up_dates if d in wanted]
+        for path in glob.glob(slates + "*.md"):
+            date = os.path.basename(path)[:-3]
+            if not DATE.match(date) or date < cutoff:
+                continue
+            for row in caption_rows(path, account, date):
+                (upcoming if date in up_dates else reference).append(row)
+        for line in read(posted).splitlines():
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            if len(cells) >= 5 and DATE.match(cells[0]) and cells[0] >= cutoff:
+                reference.append((account, cells[0] + " posted", cells[1], cells[4], (ID.search(cells[2]) or [None, ""])[1] if ID.search(cells[2]) else ""))
+    everything = upcoming + reference
+    flagged = set()
+    for u in upcoming:
+        tu = norm_tokens(u[3])
+        if len(tu) < 3:
+            continue
+        for o in everything:
+            if o is u or (o[0], o[1], o[2]) == (u[0], u[1], u[2]):
+                continue
+            to = norm_tokens(o[3])
+            if len(to) < 3:
+                continue
+            shared = set(tu) & set(to)
+            jac = len(shared) / len(set(tu) | set(to))
+            ratio = difflib.SequenceMatcher(None, " ".join(tu), " ".join(to)).ratio()
+            if (ratio >= 0.68 or (jac >= 0.6 and len(shared) >= 4)) and not (u[4] and u[4] == o[4]):
+                key = tuple(sorted([(u[0], u[1], u[2]), (o[0], o[1], o[2])]))
+                if key in flagged:
+                    continue
+                flagged.add(key)
+                msg = f"same moment? {u[0]} {u[1]} {u[2]} \"{u[3][:60]}\" vs {o[0]} {o[1]} {o[2]} \"{o[3][:60]}\""
+                if u[0] == o[0]:
+                    problems.append(msg)
+                else:
+                    print(" note (other account):", msg)
 
 
 def main(argv):
@@ -89,6 +155,7 @@ def main(argv):
                 name = os.path.basename(f)
                 if fingerprint(f) in backlog and "-B" not in name and "-K" not in name and "FB" not in name:
                     notes.append(f"{account} {d}/{name}: backlog use of {backlog[fingerprint(f)]} (60-day rule; the archive check above catches recent repeats)")
+    similar_captions(problems, wanted)
     for n in notes:
         print(" note:", n)
     if problems:
