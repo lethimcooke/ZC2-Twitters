@@ -21,7 +21,7 @@ Friday 11-13 through Monday 11-16 (120 of 120 clips ready). The scheduled tasks 
 3. Use one signed-in Playwright session for the whole run. If it reports "browser already in use", find the owner first
    (look for the Chrome process whose `--user-data-dir` ends in `mcp-chrome-5b3266f` and trace its parent MCP server to a session).
    Ask that session to close its browser. Never kill unknown processes.
-4. Never log into TikTok, Instagram, Kick or Twitch. Leave the browser on `x.com/home` when the run ends.
+4. Never log into TikTok, Instagram, Kick or Twitch. When the run ends, navigate to `x.com/home` and then close the browser with the Playwright browser close tool. A finished session that keeps its browser open holds the profile lock and blocks the next run (seen 11/19).
 
 ## Per-day loop (one day at a time, all three accounts together)
 1. **Source.** For the day, gather links and engagement for all three accounts in batches, using each account's `watchlist.md`
