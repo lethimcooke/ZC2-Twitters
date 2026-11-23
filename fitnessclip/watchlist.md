@@ -36,6 +36,22 @@ powerlifters, calisthenics athletes, coaches, gym-humor creators and older lifte
 or Instagram watermark). Verify each handle once, then keep it here.
 Seed list (verify first): @ThorBjornsson_ @larrywheels @SquatUniversity @KemariCopeland @ShannenPill @Sabine_BC @CaptainSparklez
 
+## Niche menu (owner, 11/23): "fitness" is far bigger than gym routines
+Pick from this menu every day instead of repeating workout routines. Rule: at most 3 of 10 are routines or exercise lists.
+Search one niche at a time with a short query ("pilates", "wrestling training"), not long OR chains, and read the first screen.
+- **Moments and people:** gym fails with no injury, funny gym skits, trainer and client moments, gym-buddy and spotter saves, gym etiquette humor, gym dogs, kids lifting or doing pull-ups, grandparents and older lifters, first pull-up or first PR, comeback stories, adaptive athletes, "gym in a strange place" (prison, ship, rooftop, village).
+- **Feats and records:** powerlifting and Olympic lifting PRs, strongman and Atlas stones, grip feats, arm wrestling, pull-up and push-up records, plank and dead-hang holds, planche and front lever, muscle-ups, human flag, handstand walks, rope climbs.
+- **Movement skills:** gymnastics and rings, tumbling and backflips, parkour and freerunning, jump rope and double-unders, slackline and balance, contortion and flexibility, splits, mobility progressions, dance-fitness skill moments.
+- **Endurance:** marathon and ultra finishes, Hyrox, triathlon, sprint and track training, swimming and rowing training, cycling, hiking and rucking, treadmill challenges, stair-climb races.
+- **Combat training:** boxing and sparring drills, MMA and wrestling conditioning, judo and jiu-jitsu drills, Muay Thai pad work, heavy bag, speed bag.
+- **Athlete training:** NFL, NBA, UFC and Olympic athletes in the weight room, combine and vertical-jump work, sprint drills, off-season conditioning, pool and sled work (training must be the point).
+- **Bodybuilding and physique craft:** posing practice, backstage prep, classic-physique legends, bodybuilder and strongman friendships, old-school gym footage.
+- **Climbing and ninja:** bouldering, speed climbing, ninja warrior courses, campus board, hands-free and one-arm feats.
+- **Useful but short:** coach form fixes with a clear before and after, mistakes to avoid, one drill that fixes one problem (qualified coaches only).
+- **Culture:** gym music and gym-mirror humor, "the first day of the gym" stories, trainer reactions, home-gym builds, garage-gym tours, gym equipment inventions.
+Big repost accounts that carry these feats (find clips here, credit the original): @kirawontmiss, @PicturesFoIder, @interesting_aIl, @Rainmaker1973, @TheFigen_, @InternetH0F, @Brink_Thinker, @historyinmemes, @fasc1nate, @NoContextHumans, @SkillzBig1, @overtime.
+Reality check (11/23): X returns only a few fresh (under 7 days) clips with 2K+ likes per niche, and long `OR` queries return nothing. Run 8 to 10 short single-niche searches per sweep, 4 to 5 seconds apart, and expect to chain several sweeps to fill a day. After about 40 searches X may rate-limit (blank pages); wait and resume.
+
 ## Expanded niches (owner, 11/19): search these every batch, not only gym lifting
 Fresh gym-lifting clips on X run thin, and that is what caused repeats. Rotate through these niches and aim for at least 4 different niches a day.
 Real people only: no CGI mannequins, no thirst framing, and the same watermark, follow-card and duplicate rules as everything else.
