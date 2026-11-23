@@ -84,6 +84,15 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
   picking up fast). Each day should have both.
 - **Adults only.** Before using a suggestive clip of anyone, be sure they're 18+ (a known age, or clearly an adult). If you
   can't tell, skip it.
+- **OnlyFans models and adult performers: keep a steady mix (owner, 11/23, from the next run on).** Every day include 1 to 2
+  scandalous or drama clips involving OF models or adult film stars (for example Sophie Rain, Alice Rosenblum, Bonnie Blue,
+  Lily Phillips, Breckie Hill, Mia Malkova) when ones pass. They come out of the non-GTA slots and never push the GTA 6 share
+  below target. The clip must fit the @kickciip narrative: it happens on a stream, IRL stream, podcast or streamer event, or
+  involves a streamer (a collab, a run-in, a confrontation, a viral moment, a story told on a podcast). Same rules as before:
+  adults only, no explicit nudity or sex acts, no OnlyFans or Fansly links, promo codes or "link in bio" plugs, no clips that
+  are just ads or subscription teasers for an adult page, no clips from their own adult content or their own posts selling it,
+  and attribute claims people make on a podcast ("per", "says"). Rank by engagement like any other clip. Credit the clip account
+  that posted it after checking its bio for adult-page links.
 - **Clavicular is a priority**: include 1–2 Clavicular clips every day when any pass (he's the biggest IRL streamer right now).
 - Every day include at least 3 **IRL stream** clips (out in public: trips, street run-ins, events; e.g. Clavicular and other
   Kick IRL streamers) and at least 2 clips from **women streamers** (IRL or in-studio), when ones that pass the niche check exist.

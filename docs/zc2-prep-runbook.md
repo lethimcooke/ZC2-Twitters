@@ -53,6 +53,9 @@ Friday 11-13 through Monday 11-16 (120 of 120 clips ready). The scheduled tasks 
 - @fitnessclip: no more than 3 of 10 per day may be plain workout routines, exercise lists or "full body / abs / biceps in 15 minutes" clips. The rest must be niche or moment clips: gymnastics and rings, climbing and ninja, strongman and records, running and endurance, grip and arm wrestling, calisthenics skills, older or adaptive athletes, kids, athletes training, funny gym moments. Count routines in every slate before finalizing and replace the extras.
 - When X search returns mostly routines, search the niche lists in `fitnessclip/watchlist.md` one by one and pick from the first screen. `within_time:` is loose, so check the post date.
 
+## @kickciip adult-adjacent mix (owner, 11/23, applies to runs from 11/24 on)
+- Include 1 to 2 clips a day about OF models or adult performers on a stream, IRL stream, podcast or streamer event, under the hard limits in `kickiip/CLAUDE.md` (adults only, no explicit nudity or sex acts, no adult-page links or promo, attribute podcast claims). Count them in the slate and note them as `[OF]`. They fill non-GTA slots. This does not apply to @sidelinesync or @fitnessclip.
+
 ## Review rejects (learned in the Nov 13-16 batch)
 Reject and reopen the slot for:
 - TikTok, Instagram, Shorts, Snapchat or CapCut marks, app UI overlays, or another account's handle stamp. Never crop or blur them out.
