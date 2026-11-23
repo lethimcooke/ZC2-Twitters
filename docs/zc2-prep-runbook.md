@@ -31,6 +31,7 @@ Friday 11-13 through Monday 11-16 (120 of 120 clips ready). The scheduled tasks 
    (`grep -l <id>`). Check duration with `yt-dlp --skip-download --print duration`. Drop anything over 140 seconds unless it will be trimmed.
    Before finalizing a day and again before the report, run `python scripts/dupcheck.py <dates>`. It checks status IDs and file contents against posted logs, older and archived slates, other upcoming dates and the backlog. It also flags similar captions inside the same account (the same moment posted by a different account or repost, which has a new status ID). Any finding is a duplicate: replace the clip. Before using a clip, also search the slates and logs for the subject of its caption (names plus the event, for example "Lacy half court Heat"), not just its ID. Backlog clips can repeat only after 60 days, so a backlog clip already used in an archived date is not eligible.
    Never pull from a backlog table's "Retired" section (TikTok marks, off-niche); dupcheck fails any Retired clip.
+   **Same footage is the most common miss (seen 11/23: one kettlebell video came from two creators, got a different status ID and caption each time, and sat on the 11/13 post and two upcoming slates).** An ID or caption match is not enough. `dupcheck.py` now also compares a visual fingerprint of every upcoming clip against the account's archive, reserves, other upcoming dates and backlog, so it flags the same video even from another creator, trimmed or re-encoded. It caches fingerprints in `<media>/.prep/footage-cache.json`; a cold run takes 10 to 15 minutes, so start it in the background early and rerun it after every swap (reruns take seconds). Never report a day finished without a clean footage check. For fitness, also name each clip's subject in the slate ("one-kettlebell full-body routine") and reject a second clip with the same subject inside 14 days even if it is a different video.
    Then run `python scripts/wmcheck.py <dates>`: it OCRs 8 frames per clip for TikTok, Instagram, Reels, Shorts, Snapchat, CapCut and Douyin text. A hit means reject or find a clean copy. It supplements, and does not replace, the visual pass (also reject player UI such as Twitch or YouTube controls, and end cards).
 3. **Save picks before opening any sheet.** Write one manifest per account and batch in `<media>/.prep/manifests/`, for example
    `fitnessclip/clips/.prep/manifests/prep-2026-11-14.json`, then `-14b`, `-14c` for refill batches. Entry names look like `1330-4-short-name.mp4`
@@ -47,6 +48,10 @@ Friday 11-13 through Monday 11-16 (120 of 120 clips ready). The scheduled tasks 
 8. **Write the slate** for each account and date (`slates/`, `fitnessclip/slates/`, `kickiip/slates/`): schedule table, links, credits, rejects.
 9. **Commit and push** the slates and tracking edits only (`git add` the specific files). Media, manifests, checkpoints and `.prep/` stay local and ignored.
 10. **Checkpoint** (below), then start the next day.
+
+## Variety (owner, 11/23)
+- @fitnessclip: no more than 3 of 10 per day may be plain workout routines, exercise lists or "full body / abs / biceps in 15 minutes" clips. The rest must be niche or moment clips: gymnastics and rings, climbing and ninja, strongman and records, running and endurance, grip and arm wrestling, calisthenics skills, older or adaptive athletes, kids, athletes training, funny gym moments. Count routines in every slate before finalizing and replace the extras.
+- When X search returns mostly routines, search the niche lists in `fitnessclip/watchlist.md` one by one and pick from the first screen. `within_time:` is loose, so check the post date.
 
 ## Review rejects (learned in the Nov 13-16 batch)
 Reject and reopen the slot for:

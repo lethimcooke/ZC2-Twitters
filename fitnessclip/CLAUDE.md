@@ -39,6 +39,10 @@ Reject it, whatever its numbers, if it's:
 
 Look at the video itself before suggesting it. If unsure, leave it out.
 
+## Variety and repeats (owner, 11/23)
+- At most 3 of 10 a day may be workout routines or exercise lists. The other 7 are niche or moment clips (see "More niches" above).
+- The same footage never runs twice, even from a different creator with a new post ID and caption. `python scripts/dupcheck.py` fingerprints video frames to catch it; run it (see the runbook) and fix every finding. A clip with the same subject inside 14 days is a repeat too.
+
 ## Credit
 - Credit the person who filmed or posted it first: `🎥: @creator`. Repost accounts are where we find clips, not who we credit.
 - If the original can't be found, use `via @account` and rank it lower. Keep the original watermark on the video.

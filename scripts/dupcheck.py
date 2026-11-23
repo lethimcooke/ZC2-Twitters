@@ -10,11 +10,17 @@ Exit code 1 when anything is found. Checks, per account:
   4. a file that is a Retired backlog clip,
   5. an upcoming file whose bytes match a file in an archived date, another upcoming date,
      or (for non-backlog picks) the account's backlog folder.
+  6. the same FOOTAGE: a visual fingerprint (one frame every 5 s, 8x8 difference hash) is compared against the
+     account's archive, reserves, other upcoming dates and backlog. It catches the same video uploaded by a different
+     account (new status ID, new caption, different bytes), re-encodes and trims. Fingerprints are cached in
+     <media>/.prep/footage-cache.json, so only the first run is slow (about 1 s per clip).
 """
 import glob
 import hashlib
 import os
+import json
 import re
+import subprocess
 import sys
 from collections import defaultdict
 
@@ -122,6 +128,102 @@ def backlog_status(account):
             status[cells[1]] = (retired or "retired" in line.lower().split("|")[7] if len(cells) > 7 else retired, used)
     return status
 
+FFMPEG = "ffmpeg"
+
+
+def frame_hashes(path):
+    """dHash of one frame every 5 seconds (up to 40), as a list of ints."""
+    try:
+        out = subprocess.run([FFMPEG, "-v", "error", "-i", path, "-vf", "fps=1/5,scale=9:8,format=gray", "-frames:v", "40", "-f", "rawvideo", "-"],
+                             capture_output=True, timeout=300).stdout
+    except Exception:
+        return []
+    hashes = []
+    for n in range(len(out) // 72):
+        f = out[n * 72:(n + 1) * 72]
+        bits = 0
+        for y in range(8):
+            for x in range(8):
+                bits = (bits << 1) | (1 if f[y * 9 + x] > f[y * 9 + x + 1] else 0)
+        if 6 <= bin(bits).count("1") <= 58:  # skip blank or near-uniform frames
+            hashes.append(bits)
+    return hashes
+
+
+def cached_hashes(path, cache):
+    key = path
+    stamp = [os.path.getsize(path), int(os.path.getmtime(path))]
+    hit = cache.get(key)
+    if hit and hit["s"] == stamp:
+        return hit["h"]
+    h = frame_hashes(path)
+    cache[key] = {"s": stamp, "h": h}
+    return h
+
+
+def same_footage(a, b):
+    """True when enough frames of the two clips match (works for trims and re-uploads)."""
+    if not a or not b:
+        return False
+    matched = 0
+    for x in a:
+        if any(bin(x ^ y).count("1") <= 6 for y in b):
+            matched += 1
+    need = max(2, int(0.3 * min(len(a), len(b))))
+    return matched >= need
+
+
+def footage_check(problems, notes, wanted):
+    for account, (slates, media, posted) in ACCOUNTS.items():
+        if not os.path.isdir(media):
+            continue
+        dates = sorted(d for d in os.listdir(media) if DATE.match(d) and glob.glob(media + d + "/*.mp4"))
+        if wanted:
+            dates = [d for d in dates if d in wanted]
+        if not dates:
+            continue
+        cache_path = media + ".prep/footage-cache.json"
+        try:
+            cache = json.load(open(cache_path))
+        except Exception:
+            cache = {}
+        corpus = []  # (label, path)
+        for pat, label in ((media + "archive/*/*.mp4", "archive"), (media + "archive/*/reserves/*.mp4", "archive"),
+                           (media + "backlog/*.mp4", "backlog")):
+            for f in glob.glob(pat):
+                corpus.append((f"{label}/{os.path.basename(os.path.dirname(f)) if label == 'archive' else ''}{'/' if label == 'archive' else ''}{os.path.basename(f)}", f))
+        upcoming = []
+        for d in sorted(d for d in os.listdir(media) if DATE.match(d)):
+            for f in glob.glob(media + d + "/*.mp4") + glob.glob(media + d + "/reserves/*.mp4"):
+                upcoming.append((f"{d}/{os.path.basename(f)}", f, d))
+        checked = [u for u in upcoming if u[2] in dates and "/reserves/" not in u[1].replace("\\", "/")]
+        hashes = {}
+        for label, f in corpus:
+            hashes[f] = cached_hashes(f, cache)
+        for label, f, d in upcoming:
+            hashes[f] = cached_hashes(f, cache)
+        os.makedirs(os.path.dirname(cache_path), exist_ok=True)
+        json.dump(cache, open(cache_path, "w"))
+        seen_pairs = set()
+        for label, f, d in checked:
+            name = os.path.basename(f)
+            for olabel, of in corpus:
+                if fingerprint(f) == fingerprint(of):
+                    continue  # byte-identical files are reported by check 3
+                if olabel.startswith("backlog/") and ("-B" in name or "-K" in name or "FB" in name):
+                    continue  # a backlog pick compares equal to its own backlog file
+                if same_footage(hashes[f], hashes[of]):
+                    problems.append(f"{account} {label}: same footage as {olabel}")
+            for olabel, of, od in upcoming:
+                if of == f:
+                    continue
+                pair = tuple(sorted((f, of)))
+                if pair in seen_pairs:
+                    continue
+                if same_footage(hashes[f], hashes[of]):
+                    seen_pairs.add(pair)
+                    problems.append(f"{account} {label}: same footage as {olabel}")
+
 
 def main(argv):
     wanted = set(argv)
@@ -182,6 +284,7 @@ def main(argv):
                 if fingerprint(f) in backlog and "-B" not in name and "-K" not in name and "FB" not in name:
                     notes.append(f"{account} {d}/{name}: backlog use of {backlog[fingerprint(f)]} (60-day rule; the archive check above catches recent repeats)")
     similar_captions(problems, wanted)
+    footage_check(problems, notes, wanted)
     for n in notes:
         print(" note:", n)
     if problems:
