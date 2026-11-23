@@ -73,6 +73,10 @@ Streamers and clip accounts found in research that are worth checking again. Add
 - 2026-11-10 @derklyc: Clavicular IRL and stream clips; 2.8K-5.4K likes / 340K-368K views
 - 2026-11-10 @ChipGotIt_: Marlon and StableRonaldo clips; 4.6K / 397K
 
+- 2026-11-23 @ThorDKidd: Kai and Agent GTA 6 clips; 14K-20K likes / 1M-1.6M views
+- 2026-11-23 @validclipx: NickEh30, Agent and Plaqueboymax clips; 3K-8K likes / 100K-500K views
+- 2026-11-23 @gta6party: streamer GTA 6 reactions (Jerma, Vinny); 4K-17K likes
+- 2026-11-23 @CinnaUpdatess: Cinna stream clips; 1K-2K likes / 50K-225K views (check for TikTok marks)
 ## X search queries
 ```
 (stream OR streamer OR "on stream" OR "live stream") filter:native_video min_faves:5000 within_time:24h lang:en <exclusions>

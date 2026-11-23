@@ -18,6 +18,9 @@ Clip and repost accounts found in research that are worth checking again: handle
 - @vidsthatgohard: general viral repost account with occasional gym clips (cheerleader trainer: 298K / 21.8M) (11/5).
 - @Raindropsmedia1: viral repost account, occasional gym moments (trainer and late client: 17.5K / 1.6M) (11/5).
 
+- 2026-11-23 @Jainadave_: gym repost account, wholesome and challenge clips; many carry follow cards, check each one
+- 2026-11-23 @LearnLoopz, @PowerFitQueen, @BadlandStrenght, @fitness24882: native form and kettlebell clips, 600-1.4K likes
+- 2026-11-23 @joethomas73: Joe Thomas (NFL) training talk, 2.6K / 472K
 ## X search queries
 ```
 (gym OR workout OR lifting OR deadlift OR squat OR bench) filter:native_video min_faves:5000 within_time:72h lang:en <exclusions>
