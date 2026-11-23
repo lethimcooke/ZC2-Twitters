@@ -39,6 +39,7 @@ Seed list (verify first): @ThorBjornsson_ @larrywheels @SquatUniversity @KemariC
 ## Niche menu (owner, 11/23): "fitness" is far bigger than gym routines
 Pick from this menu every day instead of repeating workout routines. Rule: at most 3 of 10 are routines or exercise lists.
 Search one niche at a time with a short query ("pilates", "wrestling training"), not long OR chains, and read the first screen.
+- **Owner favorites (11/23):** "day in the life" of fitness influencers that is mostly gym, and women in the gym (training, PRs, skills, gym-floor moments). Search both every batch: `"day in the life" gym`, `"gym" girl PR`, `"first day" gym`, `"gym girl" funny`, `"trainer" girl lifting`.
 - **Moments and people:** gym fails with no injury, funny gym skits, trainer and client moments, gym-buddy and spotter saves, gym etiquette humor, gym dogs, kids lifting or doing pull-ups, grandparents and older lifters, first pull-up or first PR, comeback stories, adaptive athletes, "gym in a strange place" (prison, ship, rooftop, village).
 - **Feats and records:** powerlifting and Olympic lifting PRs, strongman and Atlas stones, grip feats, arm wrestling, pull-up and push-up records, plank and dead-hang holds, planche and front lever, muscle-ups, human flag, handstand walks, rope climbs.
 - **Movement skills:** gymnastics and rings, tumbling and backflips, parkour and freerunning, jump rope and double-unders, slackline and balance, contortion and flexibility, splits, mobility progressions, dance-fitness skill moments.

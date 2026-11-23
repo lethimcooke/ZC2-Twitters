@@ -43,6 +43,10 @@ Look at the video itself before suggesting it. If unsure, leave it out.
 - At most 3 of 10 a day may be workout routines or exercise lists. The other 7 are niche or moment clips (see "More niches" above).
 - The same footage never runs twice, even from a different creator with a new post ID and caption. `python scripts/dupcheck.py` fingerprints video frames to catch it; run it (see the runbook) and fix every finding. A clip with the same subject inside 14 days is a repeat too.
 
+## What's working (owner, 11/23)
+- **Day in the life of a fitness influencer**, when most of the clip is actual gym time (lifting, training, the gym floor, trainer and gym-buddy moments). Skip the ones that are mostly food, outfits, errands or travel. Aim for 1 a day.
+- **Women in the gym** did very well on the account: real training clips, gym moments, PRs, skills and funny gym-floor moments with women as the main subject. Aim for 2 to 3 a day among the 7 non-routine slots. The existing rules still apply: adults only, real training or a real skill, no thirst-bait framing, no subscription or adult-page funnels.
+
 ## Credit
 - Credit the person who filmed or posted it first: `🎥: @creator`. Repost accounts are where we find clips, not who we credit.
 - If the original can't be found, use `via @account` and rank it lower. Keep the original watermark on the video.
