@@ -76,3 +76,4 @@ Also check these timelines by account: @ForgePhysique @Legacy_Arena @FitHubHQ_ @
 ## vidIQ searches
 TikTok and Instagram outliers for: gym, deadlift, calisthenics, strongman, gym fail, gym humor, powerlifting, old man lifting.
 - 2026-11-25 @ScreenTimeUK: gym moments and day-in-the-life gym edition, 1.9K-25K. @ThorBjornsson_: strongman skits and records, 1K-39K. @IronBuilt_: transformations, 1K-2K. @BackToBasiczzz, @sculptherbody, @Fitness_G0d, @UpliftFit: routines, 1K-19K. @gladyzbabe: athletes training, 1.7K. @JakeCan72: strength feats, 4.3K. @Rainmaker1973: climbing and feats, 1.4K
+- Owner's account list (11/25, derived from ChatGPT): `docs/x-video-accounts.csv`, rows tagged Fitness. Sweep each handle's /media tab every run (last 14 days, rank by likes) and keep adding new finds here.

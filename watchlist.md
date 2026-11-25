@@ -66,3 +66,4 @@ Exclusion list (add new words when off-niche clips keep showing up):
 Run an outlier search on TikTok and Instagram for: sports highlights, crazy catch, basketball, football,
 soccer skills, trick shot, fails, funny moments, crowd reaction.
 - 2026-11-25 swept as daily sources (5K+ like clips every day): @spittinchiclets (NHL), @tekkersfoot (soccer, 14K-31K), @UFConParamount, @247Sports, @MLFootball, @LegionHoops, @espnnba
+- Owner's account list (11/25, derived from ChatGPT): `docs/x-video-accounts.csv`, rows tagged Sports. Sweep each handle's /media tab every run (last 14 days, rank by likes) and keep adding new finds here.
