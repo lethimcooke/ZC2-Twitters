@@ -108,3 +108,10 @@ Streamer clip accounts that posted 1K+ like clips in the last 4 days (profile ch
 - Not added: clip accounts sponsored by casinos (@ilySalt, @vxdeo, @PraiseClip), @AutisticClip (politics), @0xKonez (alleged minor in a clip), and every fan page for an adult creator (those carry the promo and own-content rules).
 Seeds still to vet next sweep: @SomaliSasuke (Speed in Somalia), @Tussi1111, @kayIachan.
 
+
+## Account discovery sweep 2, 2026-11-25
+Harvested from searches for Duke Dennis, Fanum, Jynxzi, N3ON, Lacy, Agent 00, Pokimane, Valkyrae, stream drama and Kick streamers (1.5K+ likes, last 4 days).
+- Clip accounts: @KickVaultHQ (20K, up to 10K), @Cruzclipping (16K), @TypedKid (12K, up to 7.8K), @ValkyraeUpdates (12K), @Sayitpop (468K, hip-hop and streamer clips, up to 29K, check each for fights), @nfr_podcast (432K, hip-hop podcast clips, up to 11K, include only clips with a streamer in them)
+- Already on the list and confirmed this sweep: @yoxics, @scubaryan_, @Agent00update, @SlatDontMiss, @FanumUpdater, @TheClipBot, @419twizzz
+- Skipped: @validclipx (bio lists a sponsor, check before adding), @catenjoyerUS (clips of a streamer's looks, tiny)
+

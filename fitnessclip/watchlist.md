@@ -84,3 +84,12 @@ Search for fitness topics on X returns mostly news and memes, so only a few crea
 - Not added: accounts whose clips were CGI mannequins or AI video (@GWANJEZ, @DailyFitHQ's mannequin posts), thirst-framed physique pages, and casino-sponsored pages.
 Most CSV fitness handles (@Fitnesswork_out, @fitnesshookedd, @ClenchFitness, @_MusclesBuilder, brand accounts) had no video above 250 likes in the last two weeks.
 
+
+## Account discovery sweep 2, 2026-11-25
+Harvested from 12 niche topics (muay thai, BJJ, ninja warrior, climbing, gymnastics, marathon, arm wrestling, handstand, mobility, bodybuilding shows, obstacle courses, fitness influencers), 300+ likes in the last 14 days.
+- Combat training: @ITeachBJJ (11K followers, technique clips, [4.5K]), @combat_girls (women's combat sports, small), @ONEChampionship (official, low engagement)
+- Strength and endurance feats: @Muscletheory551 (dead hang and endurance challenges, [9.3K]), @HustleBuildWins (gym motivation, [3.7K])
+- Mobility and movement: @PostureUni (32K, [1.7K]), @LearnLoopz (existing, [1.9K])
+- Gymnastics and skills: @awkwardgoogle and @Jeebly_Natalie posted the "hardest gymnastics move" clip ([16K-19K]); both are general viral pages, so check each post
+- Thin niches on X this week: ninja warrior, rock climbing, powerlifting, marathon. No account in those posted 1K+ like native video, so use creators' timelines and the CSV list for them.
+
