@@ -23,6 +23,11 @@ Friday 11-13 through Monday 11-16 (120 of 120 clips ready). The scheduled tasks 
    Ask that session to close its browser. Never kill unknown processes.
 4. Never log into TikTok, Instagram, Kick or Twitch. When the run ends, navigate to `x.com/home` and then close the browser with the Playwright browser close tool. A finished session that keeps its browser open holds the profile lock and blocks the next run (seen 11/19).
 
+## Sourcing rule (owner, 11/25)
+- Source from the filtered search bar AND from the timelines of every account in each `watchlist.md` (approved first, then discovered). Rank their last 24 to 72 hours of posts by likes for the account and take the best. Search alone is not enough.
+- Whenever a clip comes from an account not on the list, add it to "Discovered" in that account's `watchlist.md` the same run. Keep growing the lists.
+- Open slots are never a reason to relax caps. Sweep more accounts and topics instead. Reposts are fine (`via @account`).
+
 ## Per-day loop (one day at a time, all three accounts together)
 1. **Source.** For the day, gather links and engagement for all three accounts in batches, using each account's `watchlist.md`
    queries, approved accounts and the clip accounts it lists. Scroll 4 or 5 screens per query. Timely clips for the first day,

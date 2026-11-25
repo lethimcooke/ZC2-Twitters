@@ -65,3 +65,4 @@ Exclusion list (add new words when off-niche clips keep showing up):
 ## vidIQ searches
 Run an outlier search on TikTok and Instagram for: sports highlights, crazy catch, basketball, football,
 soccer skills, trick shot, fails, funny moments, crowd reaction.
+- 2026-11-25 swept as daily sources (5K+ like clips every day): @spittinchiclets (NHL), @tekkersfoot (soccer, 14K-31K), @UFConParamount, @247Sports, @MLFootball, @LegionHoops, @espnnba

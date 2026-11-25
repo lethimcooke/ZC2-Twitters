@@ -130,6 +130,17 @@ Profanity in the clip is fine; slurs are not. Look at the video itself before su
   limits (explicit nudity or sex acts, anyone who may be under 18, adult-site promo), not for how suggestive it is.
 - When a session ends, leave the research browser on x.com/home (or close it), never on a profile or search page.
 
+## Sourcing: accounts first, search second, and keep growing the list (owner, 11/25)
+- Source from two places every run: the filtered X search bar AND the timelines of the accounts in `kickiip/watchlist.md`.
+  The listed accounts are proven to go viral and post fresh clips daily, so open each one's recent posts (last 24 to 72 hours
+  for timely clips, last 7 days for evergreen), rank by likes for that account, and take the best. Sweep the approved accounts
+  first, then the discovered ones. Do not run on search alone.
+- Keep growing the list. Every time a clip is sourced from an account that is not on the list, add its handle to
+  "Discovered" in `kickiip/watchlist.md` with what it posts and typical likes, in the same run. Look for new streamer clip accounts and streamers while
+  sourcing (who got quoted, who the big accounts repost, who appears in the top results). Reposts are fine; use `via @account`.
+- Supply is never a reason to leave slots open or to relax a cap. Thousands of fresh clips post daily across these accounts; if a
+  sweep comes up short, sweep more accounts and more topics.
+
 ## Caption style
 - Hook first, under ~100 characters, conversational. Emojis on most captions (1–2): 😭😂 funny, 💀 fail, 😳 wild, 🥹 wholesome.
 - No hashtags (or 1 at most), no links.

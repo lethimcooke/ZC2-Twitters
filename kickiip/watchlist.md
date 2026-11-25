@@ -98,3 +98,4 @@ General (use only for streamer clips): @FearedBuck @Dexerto @DramaAlert @DailyLo
 ## vidIQ searches
 TikTok and Instagram outliers for: stream clips, streamer reaction, IRL stream, Kai Cenat, IShowSpeed, Kick stream, IRL stream, Clavicular, female streamer.
 YouTube: trending clips from streamer channels.
+- 2026-11-25 swept for non-GTA slots: @FearedBuck (Bolt x Speed 188K), @viewsceo, @StreamzHQ, @yoxics, @SlatDontMiss, @scubaryan_. @KillaKreww posts mostly celebrity-podcast clips (Sprouse, Logan Paul) that fail the streamer rule.

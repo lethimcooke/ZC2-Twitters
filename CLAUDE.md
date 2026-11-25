@@ -34,6 +34,10 @@ A clip is in the niche only if it's one of these:
 - **Fans and venues**: crowd moments, fan catches, kids at games, mascots, jumbotron moments, animals at games.
 - **Sports skills**: trick shots, sports fails and bloopers, amateur athletes doing something impressive.
 
+- **Sports talk and controversy (owner, 11/25)**: athlete and coach commentary, podcast and interview clips, press conferences,
+  debates, beefs, referee and league controversy, ticket prices and other sports-business stories. Anything about sports counts,
+  not only plays.
+
 Not in the niche any more: fails, stunts, animals, pranks or feel-good clips with no sport in them.
 
 Reject it, whatever its numbers, if it's:
@@ -59,6 +63,8 @@ If you're unsure which bucket it's in, leave it out.
 
 ## Finding the original creator
 - Big repost accounts (e.g. @HaterReport, @DailyLoud, @PopBase, @OnlyBangers, @crazyclips_) are where we *find* clips, not who we credit.
+- Reposts are fine (owner, 11/25): if the original can't be found quickly, use the clip and credit `via @account`. Never drop
+  a strong clip, and don't spend long hunting for the source.
 - Look for the original: a watermark or handle on the video, "🎥:" or "via" in the post or replies, or the earliest post of the same clip.
 - Credit the original creator: `🎥: @creator`. If you can't find them, mark the clip "creator unknown" in the shortlist
   and rank it lower; if it's used, credit the account we found it on: `via @account`.
@@ -86,6 +92,17 @@ If you're unsure which bucket it's in, leave it out.
   (OnlyFans, Fansly, "18+", "link in bio" thirst accounts, NSFW). If a search result or a profile turns out to be one, close it
   right away and move on; don't scroll it. Skip any clip whose creator is one, even if the clip itself looks clean.
 - When a session ends, leave the research browser on x.com/home (or close it), never on a profile or search page.
+
+## Sourcing: accounts first, search second, and keep growing the list (owner, 11/25)
+- Source from two places every run: the filtered X search bar AND the timelines of the accounts in `watchlist.md`.
+  The listed accounts are proven to go viral and post fresh clips daily, so open each one's recent posts (last 24 to 72 hours
+  for timely clips, last 7 days for evergreen), rank by likes for that account, and take the best. Sweep the approved accounts
+  first, then the discovered ones. Do not run on search alone.
+- Keep growing the list. Every time a clip is sourced from an account that is not on the list, add its handle to
+  "Discovered" in `watchlist.md` with what it posts and typical likes, in the same run. Look for new sports accounts (leagues, teams, media, clip and repost accounts) while
+  sourcing (who got quoted, who the big accounts repost, who appears in the top results). Reposts are fine; use `via @account`.
+- Supply is never a reason to leave slots open or to relax a cap. Thousands of fresh clips post daily across these accounts; if a
+  sweep comes up short, sweep more accounts and more topics.
 
 ## Caption style
 - Hook first, under ~100 characters. Short, punchy and conversational.

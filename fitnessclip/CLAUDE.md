@@ -81,6 +81,17 @@ Look at the video itself before suggesting it. If unsure, leave it out.
   someone is 18+, skip the clip.
 - When a session ends, leave the research browser on x.com/home (or close it), never on a profile or search page.
 
+## Sourcing: accounts first, search second, and keep growing the list (owner, 11/25)
+- Source from two places every run: the filtered X search bar AND the timelines of the accounts in `fitnessclip/watchlist.md`.
+  The listed accounts are proven to go viral and post fresh clips daily, so open each one's recent posts (last 24 to 72 hours
+  for timely clips, last 7 days for evergreen), rank by likes for that account, and take the best. Sweep the approved accounts
+  first, then the discovered ones. Do not run on search alone.
+- Keep growing the list. Every time a clip is sourced from an account that is not on the list, add its handle to
+  "Discovered" in `fitnessclip/watchlist.md` with what it posts and typical likes, in the same run. Look for new fitness accounts (creators, coaches, athletes, clip and repost accounts) while
+  sourcing (who got quoted, who the big accounts repost, who appears in the top results). Reposts are fine; use `via @account`.
+- Supply is never a reason to leave slots open or to relax a cap. Thousands of fresh clips post daily across these accounts; if a
+  sweep comes up short, sweep more accounts and more topics.
+
 ## Caption style
 - Hook first, under ~100 characters, conversational. Emojis on most captions (1–2): 😳🤯 wild, 💪🔥 strong, 😭😂 funny, 🥹 wholesome, 💀 fail.
 - No hashtags (or 1 at most), no links. Credit on its own line.
