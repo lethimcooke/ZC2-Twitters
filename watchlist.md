@@ -81,3 +81,13 @@ Found by harvesting the authors of 1K+ like sports videos from the last 7 days a
 - Not added: accounts sponsored by casinos or crypto (@PraiseClip, @slamwontmiss), politics accounts and fan pages for adult creators that showed up in the harvest.
 Still to vet next sweep: cricket (@Boom_093, @MazherArshad), volleyball (@kiwi192kt, @DomNeedsHelp), swimming (@Gary161718), softball (@ItsKingSlime, @HausdorffMedia), F1 fan pages (@KhloYonce, @LH44Fanpage8), NASCAR (@mudtrout00), skate and surf (@sisiesportes, @iamkappucino).
 
+
+## Account discovery sweep 2, 2026-11-25 (sports, vetted)
+- NBA: @TheNBACentel (808K, top post 522K, median 3.6K), @Headbandlukaa (Luka clips, [22K]), @bigsportscasual (14K, Lakers and Real Madrid clips)
+- Soccer: @BarcaTimes (1.2M, [2.6K]), @CristianoXtra_ (319K, [8K]), @barca_supremacy ([11K]), @TMfutbal (57K, [3.5K]), @90sfootball (891K, nostalgia, [764])
+- NFL: @SNFonNBC (1.4M, [2.3K])
+- Women's sports: @espnW (386K, [6.9K])
+- Cricket: @Boom_093 ([18K]), @MazherArshad (462K, stats clips)
+- F1: @LH44Fanpage8 (Hamilton fan page, [6.7K])
+- Skipped: @ItsKingSlime (casino sponsor), @Gary161718 and @mudtrout00 (not sports accounts), @TheBlueDodger (Chelsea parody, few videos)
+
