@@ -67,3 +67,17 @@ Run an outlier search on TikTok and Instagram for: sports highlights, crazy catc
 soccer skills, trick shot, fails, funny moments, crowd reaction.
 - 2026-11-25 swept as daily sources (5K+ like clips every day): @spittinchiclets (NHL), @tekkersfoot (soccer, 14K-31K), @UFConParamount, @247Sports, @MLFootball, @LegionHoops, @espnnba
 - Owner's account list (11/25, derived from ChatGPT): `docs/x-video-accounts.csv`, rows tagged Sports. Sweep each handle's /media tab every run (last 14 days, rank by likes) and keep adding new finds here.
+
+## Account discovery sweep, 2026-11-25 (vetted: posts native video, recent, 1K+ likes on top posts)
+Found by harvesting the authors of 1K+ like sports videos from the last 7 days across 40 sports and topics, then checking each profile. Typical top-post likes in brackets.
+- Combat: @HappyPunch (338K followers, [2K-16K]), @ChampRDS (UFC, existing)
+- Soccer: @afcstuff (Arsenal, 1M followers, [3K-10K]), @TalbiWaves (Sunderland fan, small), @tekkersfoot (existing)
+- Football: @NFLMemes (1.5M, [2.7K-8K]), @CollegeFBonX (58K), @swankywolverine (Michigan, small), @ArenaFanatic (stadium reviews, 3K followers)
+- Basketball: @TheHoopHerald (118K, all levels), @TarHeelMBB (UNC fan), @KadinBasketGS (Galatasaray women, small), @FadeAwayMedia (205K, low engagement)
+- Wrestling and WWE: @BTFO_Zy ([3K-11K])
+- Tennis: @Djoko_UTD (32K, [1.7K])
+- Rugby: @SSRugby (37K), @5liveSport, @rugbyontnt
+- Multi-sport and memes: @NickWatts ([8K-11K]), @SleeperHQ (299K), @Sportsnet (1M, hockey, low), @CricketopiaCom (cricket, 82K, low)
+- Not added: accounts sponsored by casinos or crypto (@PraiseClip, @slamwontmiss), politics accounts and fan pages for adult creators that showed up in the harvest.
+Still to vet next sweep: cricket (@Boom_093, @MazherArshad), volleyball (@kiwi192kt, @DomNeedsHelp), swimming (@Gary161718), softball (@ItsKingSlime, @HausdorffMedia), F1 fan pages (@KhloYonce, @LH44Fanpage8), NASCAR (@mudtrout00), skate and surf (@sisiesportes, @iamkappucino).
+

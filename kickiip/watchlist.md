@@ -100,3 +100,11 @@ TikTok and Instagram outliers for: stream clips, streamer reaction, IRL stream, 
 YouTube: trending clips from streamer channels.
 - 2026-11-25 swept for non-GTA slots: @FearedBuck (Bolt x Speed 188K), @viewsceo, @StreamzHQ, @yoxics, @SlatDontMiss, @scubaryan_. @KillaKreww posts mostly celebrity-podcast clips (Sprouse, Logan Paul) that fail the streamer rule.
 - Owner's account list (11/25, derived from ChatGPT): `docs/x-video-accounts.csv`, rows tagged Streamer clips. Sweep each handle's /media tab every run (last 14 days, rank by likes) and keep adding new finds here.
+
+## Account discovery sweep, 2026-11-25
+Streamer clip accounts that posted 1K+ like clips in the last 4 days (profile checked for bio and recent video).
+- Big clip and update accounts: @SpeedUpdates1 (568K, up to 71K), @CaseOhUpdates0 (38K, up to 17K), @Clav0Updates (49K, up to 12K, check each clip for slurs), @xQc_dailyy, @toptierlive (23K), @TheClipBot (Kai Cenat mod), @auckyyy (512K, Julia Filippo and IRL), @flintiko (streamer fails), @Pulcys, @konemuted, @LOCONGAMER01 (compilations)
+- Streamers who post their own clips: @aishahsofey (1.8M), @honagirl17 (121K)
+- Not added: clip accounts sponsored by casinos (@ilySalt, @vxdeo, @PraiseClip), @AutisticClip (politics), @0xKonez (alleged minor in a clip), and every fan page for an adult creator (those carry the promo and own-content rules).
+Seeds still to vet next sweep: @SomaliSasuke (Speed in Somalia), @Tussi1111, @kayIachan.
+

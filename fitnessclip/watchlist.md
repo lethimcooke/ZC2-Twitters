@@ -77,3 +77,10 @@ Also check these timelines by account: @ForgePhysique @Legacy_Arena @FitHubHQ_ @
 TikTok and Instagram outliers for: gym, deadlift, calisthenics, strongman, gym fail, gym humor, powerlifting, old man lifting.
 - 2026-11-25 @ScreenTimeUK: gym moments and day-in-the-life gym edition, 1.9K-25K. @ThorBjornsson_: strongman skits and records, 1K-39K. @IronBuilt_: transformations, 1K-2K. @BackToBasiczzz, @sculptherbody, @Fitness_G0d, @UpliftFit: routines, 1K-19K. @gladyzbabe: athletes training, 1.7K. @JakeCan72: strength feats, 4.3K. @Rainmaker1973: climbing and feats, 1.4K
 - Owner's account list (11/25, derived from ChatGPT): `docs/x-video-accounts.csv`, rows tagged Fitness. Sweep each handle's /media tab every run (last 14 days, rank by likes) and keep adding new finds here.
+
+## Account discovery sweep, 2026-11-25
+Search for fitness topics on X returns mostly news and memes, so only a few creators passed the check (native video, recent, 1K+ likes on a top post).
+- @ScreenTimeUK (94K, gym moments and day-in-the-life, [25K]), @ThorBjornsson_ (145K, strongman skits and records), @TheFigen_ (2.7M, humor and gym moments, [2.4K median]), @contentmachinee (personal trainer skits, [3K]), @FitHubHQ_ (kettlebell and strength challenges, [3.8K]), @DailyFitHQ (routines, [2.4K]), @Physique_HQ and @PhyFormula (small, physique craft), @the17thman (older lifter, [3K]), @labsandlifts (sandbags and lifting), @zaneyfitness and @zane_weitenberg (abs and plank challenges), @maru_pullup (calisthenics progress), @thatdudereed_ (transformation, [8K]), @Fitmodeldaily (training moments), @FitSculptor, @sculptherbody (routines, [3K-19K]), @MUSCLESURGE (Arnold training clips), @Schwarzenegger (training and fitness posts).
+- Not added: accounts whose clips were CGI mannequins or AI video (@GWANJEZ, @DailyFitHQ's mannequin posts), thirst-framed physique pages, and casino-sponsored pages.
+Most CSV fitness handles (@Fitnesswork_out, @fitnesshookedd, @ClenchFitness, @_MusclesBuilder, brand accounts) had no video above 250 likes in the last two weeks.
+
